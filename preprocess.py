@@ -106,63 +106,63 @@ def create_data(df):
         user_utterance = user_utterance.lower()
         agent_utterance = agent_utterance.lower()
 
-        slot_tags = df["Tag"][i]
-        if current_domain == "No Domain":
-            tmp = df["Task Info"][i]
-            if tmp == tmp:
-                arr = tmp.split(',')
-                if len(arr) == 1:
-                    current_domain = arr[0]
-                if len(arr) > 1:
-                    current_domain = "MultiDomain"
-                    ids.append(dialogue_number-1)
-        if current_domain == "MultiDomain":
-            continue
+        # slot_tags = df["Tag"][i]
+        # if current_domain == "No Domain":
+        #     tmp = df["Task Info"][i]
+        #     if tmp == tmp:
+        #         arr = tmp.split(',')
+        #         if len(arr) == 1:
+        #             current_domain = arr[0]
+        #         if len(arr) > 1:
+        #             current_domain = "MultiDomain"
+        #             ids.append(dialogue_number-1)
+        # if current_domain == "MultiDomain":
+        #     continue
         # agent_log["metadata"] = agent_metadata
 
         # print(slot_tags)
-        if slot_tags != slot_tags:
-            pointer_vector = addDBPointer(agent_metadata)
-            user_log["text"] = user_utterance
-            agent_log["text"] = agent_utterance
-            user_log["db_pointer"] = pointer_vector.tolist()
-            agent_log["metadata"] = copy.deepcopy(agent_metadata)
-            dialogue.append(copy.deepcopy(user_log))
-            dialogue.append(copy.deepcopy(agent_log))
-            continue
-        slots = slot_tags.split(',')
+        # if slot_tags != slot_tags:
+        #     pointer_vector = addDBPointer(agent_metadata)
+        #     user_log["text"] = user_utterance
+        #     agent_log["text"] = agent_utterance
+        #     user_log["db_pointer"] = pointer_vector.tolist()
+        #     agent_log["metadata"] = copy.deepcopy(agent_metadata)
+        #     dialogue.append(copy.deepcopy(user_log))
+        #     dialogue.append(copy.deepcopy(agent_log))
+        #     continue
+        # slots = slot_tags.split(',')
         # print(slots)
-        for slot in slots:
-            arr = slot.split('-')
-            if len(arr) >= 2:
-                slot_name = arr[0].strip().lower()
-                slot_val = arr[1].strip().lower()
-                if current_domain == "Smartphone" or current_domain == "Tablet":
-                    tag_name = '[smartphone_tablet_' + slot_name + ']'
-                    smartphone_tablet_set.add(slot_name)
-                    # mobile_tags.append(slot_name)
-                    if agent_metadata["smartphone_tablet"].__contains__(slot_name):
-                        agent_metadata["smartphone_tablet"][slot_name] = slot_val
-                elif current_domain == "Laptop":
-                    tag_name = '[laptop_' + slot_name + ']'
-                    laptop_set.add(slot_name)
-                    # laptop_tags.append(slot_name)
-                    if agent_metadata["laptop"].__contains__(slot_name):
-                        agent_metadata["laptop"][slot_name] = slot_val
-                elif current_domain == "Camera":
-                    tag_name = '[camera_' + slot_name + ']'
-                    camera_set.add(slot_name)
-                    # camera_tags.append(slot_name)
-                    if agent_metadata["camera"].__contains__(slot_name):
-                        agent_metadata["camera"][slot_name] = slot_val
-                user_utterance = user_utterance.replace(slot_val, tag_name)
-                agent_utterance = agent_utterance.replace(slot_val, tag_name)
+        # for slot in slots:
+        #     arr = slot.split('-')
+        #     if len(arr) >= 2:
+        #         slot_name = arr[0].strip().lower()
+        #         slot_val = arr[1].strip().lower()
+        #         if current_domain == "Smartphone" or current_domain == "Tablet":
+        #             tag_name = '[smartphone_tablet_' + slot_name + ']'
+        #             smartphone_tablet_set.add(slot_name)
+        #             # mobile_tags.append(slot_name)
+        #             if agent_metadata["smartphone_tablet"].__contains__(slot_name):
+        #                 agent_metadata["smartphone_tablet"][slot_name] = slot_val
+        #         elif current_domain == "Laptop":
+        #             tag_name = '[laptop_' + slot_name + ']'
+        #             laptop_set.add(slot_name)
+        #             # laptop_tags.append(slot_name)
+        #             if agent_metadata["laptop"].__contains__(slot_name):
+        #                 agent_metadata["laptop"][slot_name] = slot_val
+        #         elif current_domain == "Camera":
+        #             tag_name = '[camera_' + slot_name + ']'
+        #             camera_set.add(slot_name)
+        #             # camera_tags.append(slot_name)
+        #             if agent_metadata["camera"].__contains__(slot_name):
+        #                 agent_metadata["camera"][slot_name] = slot_val
+        #         user_utterance = user_utterance.replace(slot_val, tag_name)
+        #         agent_utterance = agent_utterance.replace(slot_val, tag_name)
 
-        pointer_vector = addDBPointer(agent_metadata)
+        # pointer_vector = addDBPointer(agent_metadata)
         user_log["text"] = user_utterance
         agent_log["text"] = agent_utterance
-        user_log["db_pointer"] = pointer_vector.tolist()
-        agent_log["metadata"] = copy.deepcopy(agent_metadata)
+        # user_log["db_pointer"] = pointer_vector.tolist()
+        # agent_log["metadata"] = copy.deepcopy(agent_metadata)
         dialogue.append(copy.deepcopy(user_log))
         dialogue.append(copy.deepcopy(agent_log))
 
@@ -243,9 +243,9 @@ def analyze_dialogue(dialogue, max_len):
             print("too long")
             return None
         if i % 2 == 0: #user turn
-            if 'db_pointer' not in d[i]:
-                print("No DB")
-                return None
+            # if 'db_pointer' not in d[i]:
+            #     print("No DB")
+            #     return None
             text = d[i]['text']
             if not is_ascii(text):
                 print("Not ASCII")
@@ -256,12 +256,12 @@ def analyze_dialogue(dialogue, max_len):
             if not is_ascii(text):
                 print("Not ASCII")
                 return None
-            belief_summary = get_summary_bstate(d[i]['metadata'])
-            d[i]['belief_summary'] = belief_summary
+            # belief_summary = get_summary_bstate(d[i]['metadata'])
+            # d[i]['belief_summary'] = belief_summary
 
             # get raw belief state
-            belief_state = get_belief_state(d[i]['metadata'])
-            d[i]['belief_state'] = belief_state
+            # belief_state = get_belief_state(d[i]['metadata'])
+            # d[i]['belief_state'] = belief_state
             sys_turns.append(d[i])
 
     d_pp['usr_log'] = usr_turns
@@ -278,12 +278,12 @@ def get_dial(dialogue):
         return None
 
     usr = [t['text'] for t in d_orig['usr_log']]
-    db = [t['db_pointer'] for t in d_orig['usr_log']]
-    bs = [t['belief_summary'] for t in d_orig['sys_log']]
-    belief_state = [t['belief_state'] for t in d_orig['sys_log']]
+    # db = [t['db_pointer'] for t in d_orig['usr_log']]
+    # bs = [t['belief_summary'] for t in d_orig['sys_log']]
+    # belief_state = [t['belief_state'] for t in d_orig['sys_log']]
     sys = [t['text'] for t in d_orig['sys_log']]
-    for u, d, s, b, bstate in zip(usr, db, sys, bs, belief_state):
-        dial.append((u, s, d, b, bstate))
+    for u, s in zip(usr, sys):
+        dial.append((u, s))
 
     return dial
 
@@ -304,15 +304,15 @@ def divideData(data):
             dialogue= {}
             dialogue['usr'] = []
             dialogue['sys'] = []
-            dialogue['db'] = []
-            dialogue['bs'] = []
-            dialogue['bstate'] = []
+            # dialogue['db'] = []
+            # dialogue['bs'] = []
+            # dialogue['bstate'] = []
             for turn in dial:
                 dialogue['usr'].append(turn[0])
                 dialogue['sys'].append(turn[1])
-                dialogue['db'].append(turn[2])
-                dialogue['bs'].append(turn[3])
-                dialogue['bstate'].append(turn[4])
+                # dialogue['db'].append(turn[2])
+                # dialogue['bs'].append(turn[3])
+                # dialogue['bstate'].append(turn[4])
             train_dials[dialogue_name] = dialogue
             if dialogue_number > 430:
                 val_dials[dialogue_name] = dialogue
