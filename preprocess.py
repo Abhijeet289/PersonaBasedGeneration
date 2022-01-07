@@ -69,7 +69,6 @@ def create_data(df):
         Creating the dictionary for delexicalizing the data
     """
     delex_data = {}
-    persona_data = {}
     dialogue = []
     dialogue_number = 1
     current_domain = "No Domain"
@@ -87,7 +86,7 @@ def create_data(df):
     smartphone_tablet_set = set()
     laptop_set = set()
     camera_set = set()
-    persona_val = 0
+
 
     for i in df.index:
         print(dialogue_number)
@@ -96,7 +95,6 @@ def create_data(df):
         if user_utterance == (str)(dialogue_number):
             if dialogue_number != 1:
                 delex_data[dialogue_number-1] = dialogue
-                persona_data[dialogue_number-1] = persona_val
             dialogue = []
             current_domain = "No Domain"
             # if dialogue_number != 1:
@@ -104,7 +102,7 @@ def create_data(df):
             dialogue_number += 1
             agent_metadata = fill_standard_slots()
             continue
-        persona_val = df["Persuasion Strategy"][i]
+
         user_utterance = user_utterance.lower()
         agent_utterance = agent_utterance.lower()
 
@@ -186,9 +184,6 @@ def create_data(df):
 
     with open('data/btpData.json', 'w') as f:
         json.dump(delex_data, f)
-
-    with open('data/personaData.json', 'w') as f:
-        json.dump(persona_data, f)
 
     return delex_data
 
