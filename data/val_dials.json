@@ -1,7 +1,9 @@
 {
     "667": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello, do you have any smartphones for sale?",
@@ -531,7 +533,9 @@
     },
     "668": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "good morning. do you have a camera?",
@@ -1050,7 +1054,9 @@
     },
     "673": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "good morning, i'd like to purchase a laptop.",
@@ -1563,7 +1569,9 @@
     },
     "682": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello and good morning. will you able to assist me?",
@@ -2286,7 +2294,9 @@
     },
     "689": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello, may you assist me in purchasing a smartphone?",
@@ -2909,7 +2919,9 @@
     },
     "690": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "good morning. i've been looking for a decent camera for quite some time. could you please help me out?",
@@ -3512,7 +3524,9 @@
     },
     "692": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "good day. is it possible for you to assist me in purchasing a suitable phone?",
@@ -4023,7 +4037,9 @@
     },
     "693": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "good morning, i'd like to ask you a question.",
@@ -4577,7 +4593,9 @@
     },
     "695": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "do you have a mobile, good afternoon?",
@@ -5188,7 +5206,9 @@
     },
     "697": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, can you help me select a good laptop?",
@@ -5813,7 +5833,9 @@
     },
     "699": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello there, i'm getting a little problem. i'm hoping you can assist me.",
@@ -6367,7 +6389,9 @@
     },
     "702": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello, i'm here to purchase a phone.",
@@ -7000,7 +7024,9 @@
     },
     "714": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. have you got a smartphone?",
@@ -7576,7 +7602,9 @@
     },
     "716": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -8299,7 +8327,9 @@
     },
     "719": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello there. i'd like to ask you a question.",
@@ -8929,7 +8959,9 @@
     },
     "722": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello. i'm new to photography and can't wait to get my hands on a camera.",
@@ -9434,7 +9466,9 @@
     },
     "724": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello and good afternoon. will you able to assist me?",
@@ -10107,7 +10141,9 @@
     },
     "730": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. i'd like to purchase a phone. will you able to assist me?",
@@ -10769,7 +10805,9 @@
     },
     "731": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there. could you make a recommendation for me?",
@@ -11337,7 +11375,9 @@
     },
     "732": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there. i've come to purchase a laptop. will you able to assist me?",
@@ -12005,7 +12045,9 @@
     },
     "733": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello and good morning. could you spare a few minutes for me?",
@@ -12635,7 +12677,9 @@
     },
     "734": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. will you kindly assist me?",
@@ -13148,7 +13192,9 @@
     },
     "735": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, i'm trying to purchase a phone.",
@@ -13680,7 +13726,9 @@
     },
     "736": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello and good afternoon. have you got a smartphone?",
@@ -14257,7 +14305,9 @@
     },
     "737": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello there. i've come to see if you can help me with my dilemma.",
@@ -14939,7 +14989,9 @@
     },
     "738": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there, i'm trying to buy a phone for myself.",
@@ -15475,7 +15527,9 @@
     },
     "739": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello and good evening. if you have a few moments to spare?",
@@ -16047,7 +16101,9 @@
     },
     "740": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. i've come to purchase a camera.",
@@ -16619,7 +16675,9 @@
     },
     "741": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -17189,7 +17247,9 @@
     },
     "743": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello and good morning.",
@@ -17743,7 +17803,9 @@
     },
     "744": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. if you have a few moments to spare?",
@@ -18366,7 +18428,9 @@
     },
     "745": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. have you got a smartphone?",
@@ -18889,7 +18953,9 @@
     },
     "746": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello and good afternoon. will you able to assist me?",
@@ -19467,7 +19533,9 @@
     },
     "747": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -20002,7 +20070,9 @@
     },
     "748": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello and good evening. have you got a few minutes to spare?",
@@ -20562,7 +20632,9 @@
     },
     "749": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. i'd like to purchase a camera.",
@@ -21277,7 +21349,9 @@
     },
     "750": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello and good evening.",
@@ -21947,7 +22021,9 @@
     },
     "751": {
         "personality": [
-            0
+            [
+                0.0
+            ]
         ],
         "usr": [
             "hello and good morning. i'd like to purchase a mobile with a head-turning effect on everyone.",
@@ -22417,7 +22493,9 @@
     },
     "752": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello there. if you have a few moments to spare?",
@@ -22922,7 +23000,9 @@
     },
     "754": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there. is it possible for you to assist me?",
@@ -23547,7 +23627,9 @@
     },
     "755": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello and good afternoon. is it possible for you to assist me?",
@@ -24166,7 +24248,9 @@
     },
     "756": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello there. please assist me.",
@@ -24726,7 +24810,9 @@
     },
     "757": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello there. if you have a few moments to spare?",
@@ -25302,7 +25388,9 @@
     },
     "759": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello and good evening.",
@@ -25997,7 +26085,9 @@
     },
     "760": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "good morning and hello. i'd like to purchase a smartphone that will be released between 2015 and 2017.",
@@ -26592,7 +26682,9 @@
     },
     "761": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello, could you please assist me in selecting a compatible smartphone?",
@@ -27283,7 +27375,9 @@
     },
     "762": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello there, i've come to purchase a mobile.",
@@ -27759,7 +27853,9 @@
     },
     "763": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello there. i'd like to investigate the [smartphone_tablet_brand] tabs.",
@@ -28397,7 +28493,9 @@
     },
     "764": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, i'd like to purchase a [smartphone_tablet_brand] tablet for my sister.",
@@ -29084,7 +29182,9 @@
     },
     "765": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello there. if you have a few moments to spare?",
@@ -29746,7 +29846,9 @@
     },
     "767": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, i'm interested in purchasing a smartphone that i saw at a party last night. i don't know anything else about this phone, though. will you able to assist me?",
@@ -30349,7 +30451,9 @@
     },
     "768": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello, i'm trying to purchase a coding laptop. will you able to assist me?",
@@ -30883,7 +30987,9 @@
     },
     "769": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello, i've been searching for a decent smartphone for a while. could you please assist me?",
@@ -31678,7 +31784,9 @@
     },
     "770": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello. will you be able to assist me in choosing an [smartphone_tablet_os] phone?",
@@ -32394,7 +32502,9 @@
     },
     "771": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello and good evening. i'd like to purchase a laptop. i'm not sure which laptop is the best; could you assist me in purchasing one?",
@@ -32997,7 +33107,9 @@
     },
     "772": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello, do you recommend a decent camera?",
@@ -33671,7 +33783,9 @@
     },
     "774": {
         "personality": [
-            4
+            [
+                4.0
+            ]
         ],
         "usr": [
             "hello, i'd like to purchase a smartphone that i saw at a party last night. i don't know anything else about this phone, though. will you able to assist me?",
@@ -34339,7 +34453,9 @@
     },
     "775": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there, will you able to assist me?",
@@ -34795,7 +34911,9 @@
     },
     "776": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello. i'd like to purchase a current-model laptop. could you show me a laptop like that?",
@@ -35367,7 +35485,9 @@
     },
     "777": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, i've been searching for a decent smartphone for a while. could you please assist me?",
@@ -36002,7 +36122,9 @@
     },
     "779": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello there, hello and good morning.",
@@ -36878,7 +37000,9 @@
     },
     "780": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello and good morning. will you able to assist me?",
@@ -37501,7 +37625,9 @@
     },
     "781": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -38079,7 +38205,9 @@
     },
     "784": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -38643,7 +38771,9 @@
     },
     "786": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello and good morning. i'm looking for a laptop.",
@@ -39175,7 +39305,9 @@
     },
     "787": {
         "personality": [
-            5
+            [
+                5.0
+            ]
         ],
         "usr": [
             "hello there! i'd like to purchase a laptop.",
@@ -39692,7 +39824,9 @@
     },
     "788": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "good morning, i'd like to purchase a camera.",
@@ -40156,7 +40290,9 @@
     },
     "789": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -40728,7 +40864,9 @@
     },
     "790": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -41400,7 +41538,9 @@
     },
     "791": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -42015,7 +42155,9 @@
     },
     "792": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello there. will you able to assist me?",
@@ -42602,7 +42744,9 @@
     },
     "796": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello, could you please show me a camera?",
@@ -43117,7 +43261,9 @@
     },
     "797": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, may you please assist me in purchasing a phone?",
@@ -43697,7 +43843,9 @@
     },
     "798": {
         "personality": [
-            2
+            [
+                2.0
+            ]
         ],
         "usr": [
             "hello, may you please assist me in purchasing a phone?",
@@ -44284,7 +44432,9 @@
     },
     "799": {
         "personality": [
-            1
+            [
+                1.0
+            ]
         ],
         "usr": [
             "good morning, i'd like to purchase a phone.",
@@ -44934,7 +45084,9 @@
     },
     "801": {
         "personality": [
-            3
+            [
+                3.0
+            ]
         ],
         "usr": [
             "hello there! i'd like to purchase a laptop.",

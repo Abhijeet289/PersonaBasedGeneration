@@ -302,7 +302,7 @@ def divideData(data, persona_data):
         print("dialogue number : ", dialogue_number)
         if dial:
             dialogue= {}
-            dialogue['personality'] = [persona_data[dialogue_name]]
+            dialogue['personality'] = [[float(persona_data[dialogue_name])]]
             dialogue['usr'] = []
             dialogue['sys'] = []
             dialogue['db'] = []

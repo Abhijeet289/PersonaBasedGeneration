@@ -34,9 +34,9 @@ def padSequence(tensor):
     return padded_tensor, tensor_lengths
 
 
-def loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_tensor):
+def loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor):
     # Iterate over dialogue
-    for idx, (usr, sys, bs, db) in enumerate(zip(val_file['usr'], val_file['sys'], val_file['bs'], val_file['db'])):
+    for idx, (usr, sys, bs, db, persona) in enumerate(zip(val_file['usr'], val_file['sys'], val_file['bs'], val_file['db'], val_file['personality'])):
         tensor = []
         # for word in usr.strip(' ').split(' '):
         #     tensor.append(model.input_word2index(word))
@@ -49,8 +49,9 @@ def loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_ten
 
         bs_tensor.append([float(belief) for belief in bs])
         db_tensor.append([float(pointer) for pointer in db])
+        persona_tensor.append([float(pointer) for pointer in persona])
 
-    return input_tensor, target_tensor, bs_tensor, db_tensor
+    return input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor
 
 
 #json loads strings as unicode; we currently still work with Python 2 strings, and need conversion
