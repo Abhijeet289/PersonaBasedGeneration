@@ -1,5 +1,8 @@
 {
     "667": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello, do you have any smartphones for sale?",
             "please help me purchase one. i'm looking for a [smartphone_tablet_color] tablet with 4 gb of internal memory.",
@@ -23,43 +26,6 @@
             "so, can i make a booking?",
             "your samsung galaxy j7 max has been booked.",
             "welcome, please visit again."
-        ],
-        "bstate": [
-            {},
-            {
-                "[smartphone_tablet_color]": "black"
-            },
-            {
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            },
-            {
-                "[smartphone_tabletbattery]": "4000",
-                "[smartphone_tabletcolor]": "black"
-            }
         ],
         "db": [
             [
@@ -524,9 +490,49 @@
                 0,
                 0
             ]
+        ],
+        "bstate": [
+            {},
+            {
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            },
+            {
+                "[smartphone_tabletbattery]": "4000",
+                "[smartphone_tabletcolor]": "black"
+            }
         ]
     },
     "668": {
+        "personality": [
+            5
+        ],
         "usr": [
             "good morning. do you have a camera?",
             "great, i want one of the canon brands.",
@@ -1043,6 +1049,9 @@
         ]
     },
     "673": {
+        "personality": [
+            5
+        ],
         "usr": [
             "good morning, i'd like to purchase a laptop.",
             "graphics can be of a good quality.",
@@ -1553,6 +1562,9 @@
         ]
     },
     "682": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello and good morning. will you able to assist me?",
             "i'd like a phone as well as a laptop.",
@@ -2273,6 +2285,9 @@
         ]
     },
     "689": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello, may you assist me in purchasing a smartphone?",
             "it should be a dual-sim 4g handset.",
@@ -2893,6 +2908,9 @@
         ]
     },
     "690": {
+        "personality": [
+            3
+        ],
         "usr": [
             "good morning. i've been looking for a decent camera for quite some time. could you please help me out?",
             "as a photographer, i need a camera capable of producing high-resolution photographs.",
@@ -3493,6 +3511,9 @@
         ]
     },
     "692": {
+        "personality": [
+            1
+        ],
         "usr": [
             "good day. is it possible for you to assist me in purchasing a suitable phone?",
             "i'm a fashion blogger, so having a decent camera is extremely important to me.",
@@ -4001,6 +4022,9 @@
         ]
     },
     "693": {
+        "personality": [
+            4
+        ],
         "usr": [
             "good morning, i'd like to ask you a question.",
             "i'm looking for a mobile and need your guidance.",
@@ -4552,6 +4576,9 @@
         ]
     },
     "695": {
+        "personality": [
+            5
+        ],
         "usr": [
             "do you have a mobile, good afternoon?",
             "any would suffice.",
@@ -5160,6 +5187,9 @@
         ]
     },
     "697": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, can you help me select a good laptop?",
             "i have used [laptop_brand] and so i would like to with that only.",
@@ -5782,6 +5812,9 @@
         ]
     },
     "699": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello there, i'm getting a little problem. i'm hoping you can assist me.",
             "my daughter wants to buy a tablet, so i'm searching for one.",
@@ -6333,6 +6366,9 @@
         ]
     },
     "702": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello, i'm here to purchase a phone.",
             "no, go for the name brand. will it be of assistance?",
@@ -6963,6 +6999,9 @@
         ]
     },
     "714": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. have you got a smartphone?",
             "any brand will do.",
@@ -7536,6 +7575,9 @@
         ]
     },
     "716": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i'm hunting for a present for my son's birthday.",
@@ -8256,6 +8298,9 @@
         ]
     },
     "719": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello there. i'd like to ask you a question.",
             "this handset is the one i'm searching for. i'm hoping you'll be able to assist me.",
@@ -8883,6 +8928,9 @@
         ]
     },
     "722": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello. i'm new to photography and can't wait to get my hands on a camera.",
             "is it possible for me to get a canon camera?",
@@ -9385,6 +9433,9 @@
         ]
     },
     "724": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello and good afternoon. will you able to assist me?",
             "can you assist me in purchasing a suitable laptop for my best friend?",
@@ -10055,6 +10106,9 @@
         ]
     },
     "730": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. i'd like to purchase a phone. will you able to assist me?",
             "the best phones are vivo's.",
@@ -10714,6 +10768,9 @@
         ]
     },
     "731": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there. could you make a recommendation for me?",
             "i'd like to purchase a mobile.",
@@ -11279,6 +11336,9 @@
         ]
     },
     "732": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there. i've come to purchase a laptop. will you able to assist me?",
             "i'm pursuing a degree in journalism. i'm currently studying video editing tools, which is why i need the laptop.",
@@ -11944,6 +12004,9 @@
         ]
     },
     "733": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello and good morning. could you spare a few minutes for me?",
             "i'd like to ask you a question.",
@@ -12571,6 +12634,9 @@
         ]
     },
     "734": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. will you kindly assist me?",
             "i misplaced my cell.",
@@ -13081,6 +13147,9 @@
         ]
     },
     "735": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, i'm trying to purchase a phone.",
             "[smartphone_tablet_brand] moto z force is what i'm looking for. is it possible for me to be informed about it?",
@@ -13610,6 +13679,9 @@
         ]
     },
     "736": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello and good afternoon. have you got a smartphone?",
             "i'm searching for a phone that has a fantastic camera. i'd like to purchase it for my sister. she is a skilled photographer.",
@@ -14184,6 +14256,9 @@
         ]
     },
     "737": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello there. i've come to see if you can help me with my dilemma.",
             "i'd like to purchase a few technological items from you.",
@@ -14863,6 +14938,9 @@
         ]
     },
     "738": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there, i'm trying to buy a phone for myself.",
             "it should have at least a [smartphone_tablet_battery] mah battery and [smartphone_tablet_model] gb of ram.",
@@ -15396,6 +15474,9 @@
         ]
     },
     "739": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello and good evening. if you have a few moments to spare?",
             "i'd like to purchase a mobile. you have all the labels, according to somebody.",
@@ -15965,6 +16046,9 @@
         ]
     },
     "740": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. i've come to purchase a camera.",
             "canon powershot a10 is my first pick. i'm just getting started.",
@@ -16534,6 +16618,9 @@
         ]
     },
     "741": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i'd like to purchase a present for my grandchildren. he has just just begun high school.",
@@ -17101,6 +17188,9 @@
         ]
     },
     "743": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello and good morning.",
             "i'm on the lookout for a decent camera.",
@@ -17652,6 +17742,9 @@
         ]
     },
     "744": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. if you have a few moments to spare?",
             "can you assist me in purchasing a phone?",
@@ -18272,6 +18365,9 @@
         ]
     },
     "745": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. have you got a smartphone?",
             "phones from [smartphone_tablet_brand].",
@@ -18792,6 +18888,9 @@
         ]
     },
     "746": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello and good afternoon. will you able to assist me?",
             "i've come to make a purchase.",
@@ -19367,6 +19466,9 @@
         ]
     },
     "747": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i've come to purchase a [smartphone_tablet_model] for my cousin.",
@@ -19899,6 +20001,9 @@
         ]
     },
     "748": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello and good evening. have you got a few minutes to spare?",
             "please recommend a decent low-cost phone for me.",
@@ -20456,6 +20561,9 @@
         ]
     },
     "749": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. i'd like to purchase a camera.",
             "any strong cannon camera will be ideal for me. if you think this is a wise decision?",
@@ -21168,6 +21276,9 @@
         ]
     },
     "750": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello and good evening.",
             "i'd like to ask you a question about a phone.",
@@ -21835,6 +21946,9 @@
         ]
     },
     "751": {
+        "personality": [
+            0
+        ],
         "usr": [
             "hello and good morning. i'd like to purchase a mobile with a head-turning effect on everyone.",
             "i'm inclined to pay whatever amount of cash.",
@@ -22302,6 +22416,9 @@
         ]
     },
     "752": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello there. if you have a few moments to spare?",
             "someone told me that you sell cameras. is this correct?",
@@ -22804,6 +22921,9 @@
         ]
     },
     "754": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there. is it possible for you to assist me?",
             "i'm in a rush, and i've misplaced my cell.",
@@ -23426,6 +23546,9 @@
         ]
     },
     "755": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello and good afternoon. is it possible for you to assist me?",
             "if you have a camera on you?",
@@ -24042,6 +24165,9 @@
         ]
     },
     "756": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello there. please assist me.",
             "my phone has been stolen, and i have a train to catch. i'm going to be late.",
@@ -24599,6 +24725,9 @@
         ]
     },
     "757": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello there. if you have a few moments to spare?",
             "i'd appreciate it if you could sell me a phone.",
@@ -25172,6 +25301,9 @@
         ]
     },
     "759": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello and good evening.",
             "i'd like to purchase a phone.",
@@ -25864,6 +25996,9 @@
         ]
     },
     "760": {
+        "personality": [
+            3
+        ],
         "usr": [
             "good morning and hello. i'd like to purchase a smartphone that will be released between 2015 and 2017.",
             "i'm looking for a 64 gb [smartphone_tablet_color] colour in the range of [smartphone_tablet_cost] eur.",
@@ -26456,6 +26591,9 @@
         ]
     },
     "761": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello, could you please assist me in selecting a compatible smartphone?",
             "please recommend a decent smartphone brand to me. \"o, i don't have any money right now to buy my [smartphone_tablet_brand] friends have sent me positive reviews on the product.",
@@ -27144,6 +27282,9 @@
         ]
     },
     "762": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello there, i've come to purchase a mobile.",
             "i saw a mobile advertisement in the newspaper a few days ago. i'm curious if you have it.",
@@ -27617,6 +27758,9 @@
         ]
     },
     "763": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello there. i'd like to investigate the [smartphone_tablet_brand] tabs.",
             "yes, for office work, i need a strong [smartphone_tablet_model]. as a result, having a strong battery backup is important for me.",
@@ -28252,6 +28396,9 @@
         ]
     },
     "764": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, i'd like to purchase a [smartphone_tablet_brand] tablet for my sister.",
             "really, it's mainly for her education that she needs it. i've heard of ipads as well.",
@@ -28936,6 +29083,9 @@
         ]
     },
     "765": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello there. if you have a few moments to spare?",
             "if you have any iphones that you'd like to sell?",
@@ -29595,6 +29745,9 @@
         ]
     },
     "767": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, i'm interested in purchasing a smartphone that i saw at a party last night. i don't know anything else about this phone, though. will you able to assist me?",
             "yes. i just have photos of that phone. this is the picture. https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-smart-new.jpg",
@@ -30195,6 +30348,9 @@
         ]
     },
     "768": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello, i'm trying to purchase a coding laptop. will you able to assist me?",
             "it should have a 1tb hdd and a windows operating system. my friend has an [laptop_brand] laptop, which i despise. please show me a different brand.",
@@ -30726,6 +30882,9 @@
         ]
     },
     "769": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello, i've been searching for a decent smartphone for a while. could you please assist me?",
             "it's for my buddy, so i'll need it. for his online courses, he needs it. he also enjoys video games.",
@@ -31518,6 +31677,9 @@
         ]
     },
     "770": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello. will you be able to assist me in choosing an [smartphone_tablet_os] phone?",
             "[smartphone_tablet_camera]o[smartphone_tablet_camera]n[smartphone_tablet_camera] [smartphone_tablet_camera]m[smartphone_tablet_camera]y[smartphone_tablet_camera] [smartphone_tablet_camera]d[smartphone_tablet_camera]a[smartphone_tablet_camera]u[smartphone_tablet_camera]g[smartphone_tablet_camera]h[smartphone_tablet_camera]t[smartphone_tablet_camera]e[smartphone_tablet_camera]r[smartphone_tablet_camera]'[smartphone_tablet_camera]s[smartphone_tablet_camera] [smartphone_tablet_camera]b[smartphone_tablet_camera]i[smartphone_tablet_camera]r[smartphone_tablet_camera]t[smartphone_tablet_camera]h[smartphone_tablet_camera]d[smartphone_tablet_camera]a[smartphone_tablet_camera]y[smartphone_tablet_camera],[smartphone_tablet_camera] [smartphone_tablet_camera]i[smartphone_tablet_camera]'[smartphone_tablet_camera]d[smartphone_tablet_camera] [smartphone_tablet_camera]l[smartphone_tablet_camera]i[smartphone_tablet_camera]k[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]t[smartphone_tablet_camera]o[smartphone_tablet_camera] [smartphone_tablet_camera]g[smartphone_tablet_camera]i[smartphone_tablet_camera]v[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]i[smartphone_tablet_camera]t[smartphone_tablet_camera] [smartphone_tablet_camera]t[smartphone_tablet_camera]o[smartphone_tablet_camera] [smartphone_tablet_camera]h[smartphone_tablet_camera]e[smartphone_tablet_camera]r[smartphone_tablet_camera].[smartphone_tablet_camera] [smartphone_tablet_camera]s[smartphone_tablet_camera]i[smartphone_tablet_camera]n[smartphone_tablet_camera]c[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]s[smartphone_tablet_camera]h[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]e[smartphone_tablet_camera]n[smartphone_tablet_camera]j[smartphone_tablet_camera]o[smartphone_tablet_camera]y[smartphone_tablet_camera]s[smartphone_tablet_camera] [smartphone_tablet_camera]t[smartphone_tablet_camera]a[smartphone_tablet_camera]k[smartphone_tablet_camera]i[smartphone_tablet_camera]n[smartphone_tablet_camera]g[smartphone_tablet_camera] [smartphone_tablet_camera]s[smartphone_tablet_camera]e[smartphone_tablet_camera]l[smartphone_tablet_camera]f[smartphone_tablet_camera]i[smartphone_tablet_camera]e[smartphone_tablet_camera]s[smartphone_tablet_camera],[smartphone_tablet_camera] [smartphone_tablet_camera]t[smartphone_tablet_camera]h[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]c[smartphone_tablet_camera]a[smartphone_tablet_camera]m[smartphone_tablet_camera]e[smartphone_tablet_camera]r[smartphone_tablet_camera]a[smartphone_tablet_camera] [smartphone_tablet_camera]c[smartphone_tablet_camera]a[smartphone_tablet_camera]n[smartphone_tablet_camera] [smartphone_tablet_camera]t[smartphone_tablet_camera]a[smartphone_tablet_camera]k[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]p[smartphone_tablet_camera]r[smartphone_tablet_camera]e[smartphone_tablet_camera]c[smartphone_tablet_camera]e[smartphone_tablet_camera]d[smartphone_tablet_camera]e[smartphone_tablet_camera]n[smartphone_tablet_camera]c[smartphone_tablet_camera]e[smartphone_tablet_camera].[smartphone_tablet_camera] [smartphone_tablet_camera]p[smartphone_tablet_camera]l[smartphone_tablet_camera]e[smartphone_tablet_camera]a[smartphone_tablet_camera]s[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]s[smartphone_tablet_camera]e[smartphone_tablet_camera]a[smartphone_tablet_camera]r[smartphone_tablet_camera]c[smartphone_tablet_camera]h[smartphone_tablet_camera] [smartphone_tablet_camera]f[smartphone_tablet_camera]o[smartphone_tablet_camera]r[smartphone_tablet_camera] [smartphone_tablet_camera]t[smartphone_tablet_camera]h[smartphone_tablet_camera]e[smartphone_tablet_camera] [smartphone_tablet_camera]n[smartphone_tablet_camera]u[smartphone_tablet_camera]m[smartphone_tablet_camera]b[smartphone_tablet_camera]e[smartphone_tablet_camera]r[smartphone_tablet_camera] [smartphone_tablet_camera]1[smartphone_tablet_camera]3[smartphone_tablet_camera]m[smartphone_tablet_camera]p[smartphone_tablet_camera].[smartphone_tablet_camera]",
@@ -32231,6 +32393,9 @@
         ]
     },
     "771": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello and good evening. i'd like to purchase a laptop. i'm not sure which laptop is the best; could you assist me in purchasing one?",
             "it should have a 15.6-inch touchscreen, more internal ram, and a 1tb hard drive.",
@@ -32831,6 +32996,9 @@
         ]
     },
     "772": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello, do you recommend a decent camera?",
             "i want a camera that is both lightweight and capable of producing stunning images.",
@@ -33502,6 +33670,9 @@
         ]
     },
     "774": {
+        "personality": [
+            4
+        ],
         "usr": [
             "hello, i'd like to purchase a smartphone that i saw at a party last night. i don't know anything else about this phone, though. will you able to assist me?",
             "yes. i just have photos of that phone. this is the picture. https://fdn2.gsmarena.com/vv/bigpic/acer-liquid-m320-m330.jpg",
@@ -34167,6 +34338,9 @@
         ]
     },
     "775": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there, will you able to assist me?",
             "i'd like to buy a mobile.",
@@ -34620,6 +34794,9 @@
         ]
     },
     "776": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello. i'd like to purchase a current-model laptop. could you show me a laptop like that?",
             "is it essential for it to have a big monitor and an intel processor?",
@@ -35189,6 +35366,9 @@
         ]
     },
     "777": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, i've been searching for a decent smartphone for a while. could you please assist me?",
             "my family's situation is dire. as a result, i'm looking for the right cell phone on a tight budget. a total of no more than [smartphone_tablet_cost] eur is reasonable.",
@@ -35821,6 +36001,9 @@
         ]
     },
     "779": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello there, hello and good morning.",
             "i'd like to purchase a phone that meets all of my specifications.",
@@ -36694,6 +36877,9 @@
         ]
     },
     "780": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello and good morning. will you able to assist me?",
             "i'd like to purchase a laptop.",
@@ -37314,6 +37500,9 @@
         ]
     },
     "781": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "for my daughter, i'd like to purchase a camera. her ambition is to work as a travel photographer.",
@@ -37889,6 +38078,9 @@
         ]
     },
     "784": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i'd like to purchase a laptop.",
@@ -38450,6 +38642,9 @@
         ]
     },
     "786": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello and good morning. i'm looking for a laptop.",
             "i'm looking for an [laptop_brand] [laptop_model] laptop.",
@@ -38979,6 +39174,9 @@
         ]
     },
     "787": {
+        "personality": [
+            5
+        ],
         "usr": [
             "hello there! i'd like to purchase a laptop.",
             "i'm not familiar with the requirements.",
@@ -39493,6 +39691,9 @@
         ]
     },
     "788": {
+        "personality": [
+            3
+        ],
         "usr": [
             "good morning, i'd like to purchase a camera.",
             "i'm not sure what the exact requirements are.",
@@ -39954,6 +40155,9 @@
         ]
     },
     "789": {
+        "personality": [
+            1
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "on my girlfriend's birthday, i'd like to buy her a phone.",
@@ -40523,6 +40727,9 @@
         ]
     },
     "790": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i'd like to purchase a laptop.",
@@ -41192,6 +41399,9 @@
         ]
     },
     "791": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i'd like to purchase a camera.",
@@ -41804,6 +42014,9 @@
         ]
     },
     "792": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello there. will you able to assist me?",
             "i'd like to purchase a phone.",
@@ -42388,6 +42601,9 @@
         ]
     },
     "796": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello, could you please show me a camera?",
             "yes, please demonstrate the nikon coolpix 7900 to me.",
@@ -42900,6 +43116,9 @@
         ]
     },
     "797": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, may you please assist me in purchasing a phone?",
             "i'm not sure about the specifications, but i'd like to have one for my daughter, so please show me one with a decent camera.",
@@ -43477,6 +43696,9 @@
         ]
     },
     "798": {
+        "personality": [
+            2
+        ],
         "usr": [
             "hello, may you please assist me in purchasing a phone?",
             "i'm not sure about the specs, but i'd like to have one for my kid, so please show me one with a lot of battery life and [smartphone_tablet_model]gbram.",
@@ -44061,6 +44283,9 @@
         ]
     },
     "799": {
+        "personality": [
+            1
+        ],
         "usr": [
             "good morning, i'd like to purchase a phone.",
             "i'm looking for a camera with decent image quality, and it should be from the [smartphone_tablet_brand] brand.",
@@ -44708,6 +44933,9 @@
         ]
     },
     "801": {
+        "personality": [
+            3
+        ],
         "usr": [
             "hello there! i'd like to purchase a laptop.",
             "[laptop_brand] [laptop_model]-cf0007nx is what i'm looking for.",

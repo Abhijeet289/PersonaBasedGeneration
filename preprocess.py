@@ -287,7 +287,7 @@ def get_dial(dialogue):
 
     return dial
 
-def divideData(data):
+def divideData(data, persona_data):
     train_dials = {}
     val_dials = {}
 
@@ -297,11 +297,12 @@ def divideData(data):
 
     dialogue_number = 1
 
-    for dialogue_name in tqdm(data):
+    for dialogue_name in data:
         dial = get_dial(data[dialogue_name])
         print("dialogue number : ", dialogue_number)
         if dial:
             dialogue= {}
+            dialogue['personality'] = [persona_data[dialogue_name]]
             dialogue['usr'] = []
             dialogue['sys'] = []
             dialogue['db'] = []
@@ -420,13 +421,18 @@ def main():
     """"
     Reading the data from Google Sheet in a data-frame
     """
-    df = read_data()
+    # df = read_data()
 
 
-    delex_data = create_data(df)
+    # delex_data = create_data(df)
+    with open('data/btpData.json') as f:
+        delex_data = json.load(f)
+
+    with open('data/personaData.json') as f:
+        persona_data = json.load(f)
 
     print('Divide dialogues for separate bits - usr, sys, db, bs')
-    word_freqs_usr, word_freqs_sys = divideData(delex_data)
+    word_freqs_usr, word_freqs_sys = divideData(delex_data, persona_data)
 
     print('Building dictionaries')
     buildDictionaries(word_freqs_usr, word_freqs_sys)
