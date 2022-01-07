@@ -281,8 +281,8 @@ class Model(nn.Module):
         self.hid_size_pol = args.hid_size_pol
 
         self.emb_size = args.emb_size
-        self.db_size = args.db_size
-        self.bs_size = args.bs_size
+        # self.db_size = args.db_size
+        # self.bs_size = args.bs_size
         self.cell_type = args.cell_type
         if 'bi' in self.cell_type:
             self.num_directions = 2
@@ -319,7 +319,7 @@ class Model(nn.Module):
     def build_model(self):
         self.encoder = EncoderRNN(len(self.input_lang_index2word), self.emb_size, self.hid_size_enc, self.cell_type, self.depth, self.dropout).to(self.device)
 
-        self.policy = policy.DefaultPolicy(self.hid_size_pol, self.hid_size_enc, self.db_size, self.bs_size).to(self.device)
+        self.policy = policy.DefaultPolicy(self.hid_size_pol, self.hid_size_enc).to(self.device)
 
         if self.use_attn:
             if self.attn_type == 'bahdanau':
@@ -331,8 +331,8 @@ class Model(nn.Module):
             self.gen_criterion = nn.NLLLoss(ignore_index=3, size_average=True)  # logsoftmax is done in decoder part
             self.setOptimizers()
 
-    def train(self, input_tensor, input_lengths, target_tensor, target_lengths, db_tensor, bs_tensor, dial_name=None):
-        proba, _, decoded_sent = self.forward(input_tensor, input_lengths, target_tensor, target_lengths, db_tensor, bs_tensor)
+    def train(self, input_tensor, input_lengths, target_tensor, target_lengths, dial_name=None):
+        proba, _, decoded_sent = self.forward(input_tensor, input_lengths, target_tensor, target_lengths)
 
         proba = proba.view(-1, self.vocab_size)
         self.gen_loss = self.gen_criterion(proba, target_tensor.view(-1))
@@ -355,7 +355,7 @@ class Model(nn.Module):
         elif self.args.optim == 'adam':
             self.optimizer = optim.Adam(lr=self.args.lr_rate, params=filter(lambda x: x.requires_grad, self.parameters()), weight_decay=self.args.l2_norm)
 
-    def forward(self, input_tensor, input_lengths, target_tensor, target_lengths, db_tensor, bs_tensor):
+    def forward(self, input_tensor, input_lengths, target_tensor, target_lengths):
         """Given the user sentence, user belief state and database pointer,
         encode the sentence, decide what policy vector construct and
         feed it as the first hiddent state to the decoder."""
@@ -368,7 +368,7 @@ class Model(nn.Module):
         encoder_outputs, encoder_hidden = self.encoder(input_tensor, input_lengths)
 
         # POLICY
-        decoder_hidden = self.policy(encoder_hidden, db_tensor, bs_tensor)
+        decoder_hidden = self.policy(encoder_hidden)
 
         # GENERATOR
         # Teacher forcing: Feed the target as the next input
@@ -394,13 +394,13 @@ class Model(nn.Module):
 
         return proba, None, decoded_sent
 
-    def predict(self, input_tensor, input_lengths, target_tensor, target_lengths, db_tensor, bs_tensor):
+    def predict(self, input_tensor, input_lengths, target_tensor, target_lengths):
         with torch.no_grad():
             # ENCODER
             encoder_outputs, encoder_hidden = self.encoder(input_tensor, input_lengths)
 
             # POLICY
-            decoder_hidden = self.policy(encoder_hidden, db_tensor, bs_tensor)
+            decoder_hidden = self.policy(encoder_hidden)
 
             # GENERATION
             decoded_words = self.decode(target_tensor, decoder_hidden, encoder_outputs)
