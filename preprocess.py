@@ -70,7 +70,8 @@ def create_data(df):
     """
     delex_data = {}
     persona_data = {}
-    persona_info = 0
+    current_persona = []
+    persona_info = {}
     dialogue = []
     dialogue_number = 1
     current_domain = "No Domain"
@@ -98,9 +99,10 @@ def create_data(df):
             if dialogue_number != 1:
                 if persona_info != persona_info:
                     persona_info = 1
-                persona_data[dialogue_number-1] = (int)(persona_info)
+                persona_data[dialogue_number-1] = current_persona
                 delex_data[dialogue_number-1] = dialogue
             dialogue = []
+            current_persona = []
             current_domain = "No Domain"
             # if dialogue_number != 1:
                 # print("hello")
@@ -108,7 +110,18 @@ def create_data(df):
             agent_metadata = fill_standard_slots()
             continue
 
-        persona_info = df["Persuasion Strategy"][i]
+        if df["Persuasion Strategy"][i] != df["Persuasion Strategy"][i]:
+            persona_info['persona'] = 0
+        else:
+            persona_info['persona'] = df["Persuasion Strategy"][i]
+
+        if df["User Sentiment (-1 to 1)"][i] != df["User Sentiment (-1 to 1)"][i]:
+            persona_info['sentiment'] = 0
+        else:
+            persona_info['sentiment'] = df["User Sentiment (-1 to 1)"][i]
+
+        current_persona.append(copy.deepcopy(persona_info))
+
         user_utterance = user_utterance.lower()
         agent_utterance = agent_utterance.lower()
 
