@@ -296,19 +296,21 @@ def divideData(data, persona_data):
     word_freqs_sys = OrderedDict()
 
     dialogue_number = 1
+    dialogue_len = 0
 
     for dialogue_name in data:
         dial = get_dial(data[dialogue_name])
         print("dialogue number : ", dialogue_number)
         if dial:
             dialogue= {}
-            dialogue['personality'] = [[float(persona_data[dialogue_name])]]
+            dialogue['personality'] = []
             dialogue['usr'] = []
             dialogue['sys'] = []
             dialogue['db'] = []
             dialogue['bs'] = []
             dialogue['bstate'] = []
             for turn in dial:
+                dialogue['personality'].append([persona_data[dialogue_name]])
                 dialogue['usr'].append(turn[0])
                 dialogue['sys'].append(turn[1])
                 dialogue['db'].append(turn[2])
