@@ -304,18 +304,22 @@ def divideData(data, persona_data):
         if dial:
             dialogue= {}
             dialogue['personality'] = []
+            dialogue['sentiment'] = []
             dialogue['usr'] = []
             dialogue['sys'] = []
             dialogue['db'] = []
             dialogue['bs'] = []
             dialogue['bstate'] = []
+            idx = 0
             for turn in dial:
-                dialogue['personality'].append([persona_data[dialogue_name]])
+                dialogue['personality'].append([persona_data[dialogue_name][idx]['persona']])
+                dialogue['sentiment'].append([persona_data[dialogue_name][idx]['sentiment']])
                 dialogue['usr'].append(turn[0])
                 dialogue['sys'].append(turn[1])
                 dialogue['db'].append(turn[2])
                 dialogue['bs'].append(turn[3])
                 dialogue['bstate'].append(turn[4])
+                idx += 1
             train_dials[dialogue_name] = dialogue
             if dialogue_number > 430:
                 val_dials[dialogue_name] = dialogue
