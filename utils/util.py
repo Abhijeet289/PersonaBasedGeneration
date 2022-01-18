@@ -34,9 +34,9 @@ def padSequence(tensor):
     return padded_tensor, tensor_lengths
 
 
-def loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor):
+def loadDialogue(model, val_file, input_tensor, target_tensor, persona_tensor, senti_tensor):
     # Iterate over dialogue
-    for idx, (usr, sys, bs, db, persona, senti) in enumerate(zip(val_file['usr'], val_file['sys'], val_file['bs'], val_file['db'], val_file['personality'], val_file['sentiment'])):
+    for idx, (usr, sys, persona, senti) in enumerate(zip(val_file['usr'], val_file['sys'], val_file['personality'], val_file['sentiment'])):
         tensor = []
         # for word in usr.strip(' ').split(' '):
         #     tensor.append(model.input_word2index(word))
@@ -47,12 +47,12 @@ def loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_ten
         tensor = [model.output_word2index(word) for word in sys.strip(' ').split(' ')] + [EOS_token]
         target_tensor.append(torch.LongTensor(tensor))  # .view(-1, 1)
 
-        bs_tensor.append([float(belief) for belief in bs])
-        db_tensor.append([float(pointer) for pointer in db])
+        # bs_tensor.append([float(belief) for belief in bs])
+        # db_tensor.append([float(pointer) for pointer in db])
         persona_tensor.append([float(pointer) for pointer in persona])
         senti_tensor.append([float(pointer) for pointer in senti])
 
-    return input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor
+    return input_tensor, target_tensor, persona_tensor, senti_tensor
 
 
 #json loads strings as unicode; we currently still work with Python 2 strings, and need conversion

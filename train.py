@@ -66,17 +66,16 @@ torch.manual_seed(args.seed)
 device = torch.device("cuda" if args.cuda else "cpu")
 
 
-def train(print_loss_total,print_act_total, print_grad_total, input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor, name=None):
+def train(print_loss_total,print_act_total, print_grad_total, input_tensor, target_tensor, persona_tensor, senti_tensor, name=None):
     # create an empty matrix with padding tokens
     input_tensor, input_lengths = util.padSequence(input_tensor)
     target_tensor, target_lengths = util.padSequence(target_tensor)
-    bs_tensor = torch.tensor(bs_tensor, dtype=torch.float, device=device)
-    db_tensor = torch.tensor(db_tensor, dtype=torch.float, device=device)
+    # bs_tensor = torch.tensor(bs_tensor, dtype=torch.float, device=device)
+    # db_tensor = torch.tensor(db_tensor, dtype=torch.float, device=device)
     persona_tensor = torch.tensor(persona_tensor, dtype=torch.float, device=device)
     senti_tensor = torch.tensor(senti_tensor, dtype=torch.float, device=device)
 
-    loss, loss_acts, grad = model.train(input_tensor, input_lengths, target_tensor, target_lengths, db_tensor,
-                             bs_tensor, persona_tensor, senti_tensor, name)
+    loss, loss_acts, grad = model.train(input_tensor, input_lengths, target_tensor, target_lengths, persona_tensor, senti_tensor, name)
 
     #print(loss, loss_acts)
     print_loss_total += loss
@@ -102,16 +101,16 @@ def trainIters(model, n_epochs=10, args=args):
 
         dials = train_dials.keys()
         # random.shuffle(dials)
-        input_tensor = [];target_tensor = [];bs_tensor = [];db_tensor = [];persona_tensor = [];senti_tensor = [];
+        input_tensor = [];target_tensor = [];persona_tensor = [];senti_tensor = [];
         for name in dials:
             val_file = train_dials[name]
             model.optimizer.zero_grad()
             model.optimizer_policy.zero_grad()
 
-            input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor = util.loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor)
+            input_tensor, target_tensor, persona_tensor, senti_tensor = util.loadDialogue(model, val_file, input_tensor, target_tensor, persona_tensor, senti_tensor)
 
-            print_loss_total, print_act_total, print_grad_total = train(print_loss_total, print_act_total, print_grad_total, input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor)
-            input_tensor = [];target_tensor = [];bs_tensor = [];db_tensor = [];persona_tensor = [];senti_tensor = [];
+            print_loss_total, print_act_total, print_grad_total = train(print_loss_total, print_act_total, print_grad_total, input_tensor, target_tensor, persona_tensor, senti_tensor)
+            input_tensor = [];target_tensor = [];persona_tensor = [];senti_tensor = [];
 
         print_loss_avg = print_loss_total / len(train_dials)
         print_act_total_avg = print_act_total / len(train_dials)
@@ -123,19 +122,18 @@ def trainIters(model, n_epochs=10, args=args):
         # VALIDATION
         valid_loss = 0
         for name, val_file in val_dials.items():
-            input_tensor = []; target_tensor = []; bs_tensor = [];db_tensor = [];persona_tensor = [];senti_tensor = [];
-            input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor = util.loadDialogue(model, val_file, input_tensor,
-                                                                                         target_tensor, bs_tensor,
-                                                                                         db_tensor, persona_tensor, senti_tensor)
+            input_tensor = []; target_tensor = [];persona_tensor = [];senti_tensor = [];
+            input_tensor, target_tensor, persona_tensor, senti_tensor = util.loadDialogue(model, val_file, input_tensor,
+                                                                                         target_tensor, persona_tensor, senti_tensor)
             # create an empty matrix with padding tokens
             input_tensor, input_lengths = util.padSequence(input_tensor)
             target_tensor, target_lengths = util.padSequence(target_tensor)
-            bs_tensor = torch.tensor(bs_tensor, dtype=torch.float, device=device)
-            db_tensor = torch.tensor(db_tensor, dtype=torch.float, device=device)
+            # bs_tensor = torch.tensor(bs_tensor, dtype=torch.float, device=device)
+            # db_tensor = torch.tensor(db_tensor, dtype=torch.float, device=device)
             persona_tensor = torch.tensor(persona_tensor, dtype=torch.float, device=device)
             senti_tensor = torch.tensor(senti_tensor, dtype=torch.float, device=device)
 
-            proba, _, _ = model.forward(input_tensor, input_lengths, target_tensor, target_lengths, db_tensor, bs_tensor, persona_tensor, senti_tensor)
+            proba, _, _ = model.forward(input_tensor, input_lengths, target_tensor, target_lengths, persona_tensor, senti_tensor)
             proba = proba.view(-1, model.vocab_size) # flatten all predictions
             loss = model.gen_criterion(proba, target_tensor.view(-1))
             valid_loss += loss.item()
