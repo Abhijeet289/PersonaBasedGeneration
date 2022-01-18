@@ -9,16 +9,16 @@ okay, i want to buy it.
 yes, please book it for me.
 thank you.
 
-hello . we do have smartphones for a _UNK so that i can suggest you a _UNK cameras.
-the asus zenfone 3 deluxe 5.5 zs550kl is a very _UNK _UNK and the colour of this phone is an
-it comes with a 3000 mah battery, 4 gb ram, and a dual secondary camera of 16 megapixels,
-we do, but do you have a favourite brand?
-please see the gionee f5 has a 1 gb ram and a 15.6-inch touchscreen.
-it has a 3000 mah battery, 4 gb ram, a 13-megapixel main camera, and a secondary camera with an _UNK
+hello . we do have smartphones for you.
+please see the samsung galaxy a9 pro (2016), which has a 15.6-inch touchscreen.
+it has a storage capacity of 4 gb.
+we do, and it costs in that _UNK
+please see the asus vivobook 14 x412ub
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
 the cost is 280 euros.
-okay, so you can buy it. this is gionee _UNK for its features a lot of _UNK
-okay, your order is booked and it's the best option for you.
-thank you for stopping by, and we hope to see you again soon.
+okay, i'll make the reservation for you.
+your booking no. is: _UNK
+welcome.
 -----------------------------
 good morning. do you have a camera?
 great, i want one of the canon brands.
@@ -31,15 +31,15 @@ i doubt this product.
 okay, please book this product for me.
 no. thanks
 
-hello and good morning. yes, we do, and have a variety of the camera. it would be fantastic.
-there are several options available to us. please let me know your preferred brand or model your requirements is?
+hello and good morning. yes, we have a variety of laptops with 15.6 inch display size and is available in
+do you want to purchase a favourite brand?
 do you have a favourite brand?
-please see the asus zenfone 3 deluxe 5.5 with a dual sim slots as well as an intel core i5
-it has an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
-it has a maximum resolution of _UNK pixels, 3 effective pixels, and a _UNK range of ram.
-it is _UNK euros.
-it is a well _UNK and the colour is _UNK
-okay, your reservation has been made.
+please see agfa ephoto 5 a515-54g which is available for this phone.
+it has a maximum resolution of _UNK pixels, pixels, effective pixels, and zoom wide and zoom tele
+it has a storage capacity of 4 gb.
+it has a maximum resolution of _UNK pixels, effective pixels, and a _UNK of storage.
+it is a well _UNK and reliable just 170 eur.
+okay, i'll book a minute.
 welcome, please visit again.
 -----------------------------
 good morning, i'd like to purchase a laptop.
@@ -53,15 +53,15 @@ tell me how much it costs.
 still, i believe i will have to wait a while because the price of [laptop_brand] graphics will decrease.
 no. thank you.
 
-hello and good morning. do you have any brand or model or feature preferences.
-can you please add a few more a few _UNK
-do you want to purchase it?
-both the hp _UNK has a higher resolution is there is a fantastic most we can do for you?
-please take a look at the lenovo ideapad s340 which has a 15.6-inch touchscreen.
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and a _UNK _UNK
-intel graphics are well-known and has a _UNK touchscreen.
-it is now at a reduced price.
-okay, so do you want to purchase it?
+hello and good morning. do have a variety of _UNK please let me know.
+can you please tell me what your price point is?
+okay, i'll you tell me what your price point is?
+the latest launched in the year is the discounted price.
+please see canon powershot _UNK and the price is 1849 eur.
+it is equipped with an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
+intel graphics are well-known and a secondary camera with a resolution of 13 megapixels and a secondary camera with a
+it costs set eur. you will save the phone to you that we have _UNK and its price is 170
+okay, i'll make a few _UNK and _UNK
 welcome, please visit again.
 -----------------------------
 hello and good morning. will you able to assist me?
@@ -80,19 +80,19 @@ ok, please book it for me.
 thank you.
 
 hello and good morning. what may i do to assist you?
-if you have any interests in terms of specifications?
-what is the name you _UNK _UNK _UNK me to learn more specifications?
-please take a look at the asus vivobook 14 _UNK
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a _UNK focus range of _UNK
-it has a maximum resolution of _UNK pixels, 3 gb of ram, and a storage capacity of 16 gb.
-it costs a _UNK _UNK
-yes, it is discounted price.
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb storage capacity and a _UNK touchscreen.
-can you please tell me what your price point is?
-the asus zenfone 3 deluxe 5.5 zs550kl is the best phone for you. you are looking for other brands as
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-okay, i'll it.
-thank you for stopping by, and we hope to see you again soon.
+do you have a favourite brand?
+do you have a favourite brand?
+good morning. i have a variety of _UNK if you have any interests in terms of specifications?
+it has a 15.6-inch _UNK
+it has a 1tb hard drive.
+it costs just euros. eur. you will save after the purchase?
+it is just a reduced price.
+it has been reserved for you with the reference number _UNK
+do you have a favourite brand?
+please see canon powershot _UNK which costs 280 euros.
+it has a storage capacity of 4 gb.
+your reservation has been made.
+welcome.
 -----------------------------
 hello, may you assist me in purchasing a smartphone?
 it should be a dual-sim 4g handset.
@@ -108,17 +108,17 @@ okay, that will suffice. could you kindly take care of the billing? also, please
 so, please continue with the invoice.
 thank you so much.
 
-hello and good evening. what kind of phone do you want to learn more about?
-yes, we have a variety of phones that meet these specifications; do you have any additional requirements?
-yes, really. the [laptop_brand] 10 _UNK which has a 3000 mah battery and 4 gb ram.
-it's available in [smartphone_tablet_color].
-then the gionee of the dell is an _UNK and the colour of this is an excellent brand.
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb storage and a storage capacity of 5
-it's a fantastic 4g phone. the phone was released in 2007 only.
-it is available for just a reduced of _UNK
-yes, it has a maximum resolution of _UNK pixels, an effective pixels, and a resolution of _UNK pixels.
-yes, it is discounted price.
-great, it has been booked for you with ref. no.12345.
+hello and good morning. do you have a favourite model?
+yes, we have a lot of phones with similar _UNK do you have any other requirements?
+yes, really. see _UNK
+it comes in black.
+if you have a specific model in mind right now?
+it has a powerful 4000 mah battery and a fast 4 gb ram.
+okay, i'll book you _UNK about the _UNK this phone _UNK _UNK
+it costs 400 eur.
+yes, it has a main camera with a resolution of 5 megapixels.
+yes, we have a _UNK in the market.
+it has been reserved for you with the reference number 1342355.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 good morning. i've been looking for a decent camera for quite some time. could you please help me out?
@@ -134,17 +134,17 @@ what exactly are you referring to? why is the cost so high? please begin with th
 that's what there is to it. create a reservation as well.
 no. thanks for the assistance.
 
-hello and good morning. what may i do to assist you?
-the price phones are _UNK with your budget range, the [laptop_brand] envy _UNK
-yes, it has a maximum resolution of _UNK pixels, 3 effective pixels, and a _UNK camera, range.
-they have a favourite number of _UNK the most of _UNK this laptop is _UNK
-it costs 170 euros.
-it is just a reduced price.
-okay, so you have any interests
-the asus zenfone has a 15.6-inch battery and 4 gb of ram. the main camera has a resolution of 16
-this colour is the colour of choice.
-it would just set you back 250 eur.
-okay, i'll make a stunning to assist you in _UNK if you _UNK any more _UNK
+hello and good morning. please let me know if you have any interests in terms of specifications?
+that is good choice. what is your price point is?
+the asus zenfone 3 deluxe 5.5 have which has a maximum resolution of pixels, pixels, effective pixels, and a 15.6-inch
+the asus zenfone 3 deluxe 5.5 5.5 which has a price of _UNK eur.
+it's just 500 eur.
+it is the most well-known and reliable brand.
+okay, i'll be a decent _UNK
+please take a look at the canon powershot _UNK
+it has a maximum resolution of pixels, pixels, a low resolution of 640 pixels, a low resolution of pixels, pixels,
+it costs just 170 eur.
+yes, it is an excellent choice. what is the price.
 you are welcome.
 -----------------------------
 good day. is it possible for you to assist me in purchasing a suitable phone?
@@ -159,16 +159,16 @@ it's one of samsung's best-selling items, which i have.
 really, you've made a valid case. i believe i should reconsider my position.
 my elder sister and i would like to talk about it.thank you for the information.
 
-hello and good evening. what kind of phone do you want to learn more about?
-okay, i'll it.
-could you tell me what your price point is?
-if you have a price point in mind?
-the asus zenfone 3 deluxe 5.5 zs550kl which has 64 gb of internal memory and a 3000 mah battery.
-okay, i'll give you a good option.
-for eur is there anything else you'd like?
-okay, i'll give you for your purchase.
-is there anything else you'd like?
-okay, i'll be _UNK
+hello and good evening. what may i do to assist you?
+okay, i'll give me to _UNK for the product.
+could you please tell me what your price point is?
+okay, i'll make a model matebook this phone is priced at _UNK
+okay, i'll _UNK the lenovo ideapad and this phone is an excellent choice.
+do you want to purchase a favourite brand?
+we do, in that _UNK it's the best camera. for the asus zenfone 3 deluxe 5.5 which has a large
+if you have any interests in terms of specifications?
+okay, what may i do to assist you?
+do you have a favourite brand?
 -----------------------------
 good morning, i'd like to ask you a question.
 i'm looking for a mobile and need your guidance.
@@ -182,17 +182,17 @@ yes, absolutely.
 that's fantastic!! what about the storage on the inside?
 i want to buy it. thank you.
 
-hello and good morning. do you have any brand or model or feature preferences.
-i would like to know if there is any specific feature that you have in mind?
-so, do you _UNK to purchase a particular brand?
-i have a wide variety of phones that meet these specifications; do you have any additional requirements?
-okay, i'll make a laptop is preferred for you.
-yes, it is the most well-known and reliable brand.
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb _UNK
-here is the hp envy _UNK in silver colour that is in high black colour.
-it has been reserved for you with this address.
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb _UNK and a storage capacity of _UNK
-you are welcome.
+hello and good morning. please let me know if you have any interests in terms of specifications?
+okay, i'll give us the best. what is your requirements are?
+so, do you have a favourite brand?
+there are several other models that are available in my _UNK do you have any price range?
+so, what do you _UNK _UNK
+okay, your samsung galaxy a9 pro (2016), which has a 15.6-inch touchscreen.
+this laptop is also available for a stunning _UNK
+are you interested in learning more about its features?
+it has a resolution of _UNK
+it has a 15.6-inch main camera and an 8-megapixel secondary camera.
+thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 do you have a mobile, good afternoon?
 any would suffice.
@@ -207,17 +207,17 @@ yes, i'd like to take a look.
 it really looks fine, which i wasn't expecting. it appeals to me.
 thank you for your help.
 
-hello and good afternoon. and which brand would you like to purchase your phone?
-if you have any interests in terms of specifications?
-may i inquire you to have a budget range of the models.
-the asus zenfone 3 deluxe 5.5 zs550kl is a _UNK _UNK the phone was released in january 2017 is one
-well, the gionee f5 might be a decent option.
-the asus zenfone 3 deluxe 5.5 a samsung galaxy a9 pro (2016), which has a 15.6-inch touchscreen.
-it costs 170 euros.
+good afternoon. do you have a favourite brand?
+do you have a favourite brand?
+okay, i'll make the reservation for all is your receipt.
+okay, i'll you should think for you.
+well, the gionee f5 might be a decent option for you.
+it has a 15.6-inch cm display size, and a _UNK mah battery.
+the price is _UNK eur.
 it's available in gold.
-let me show you how it looks. than it will set you back just want to learn more about?
-there you have any interests in terms of specifications?
-okay, i'll make a [smartphone_tablet_brand] smartphone with a 15.6-inch inch display.
+let me suggest you some other models that you might like them.
+okay, it would just set you back 450 euros.
+okay, i'll give us a few _UNK and this laptop is an excellent choice.
 you're more than welcome.
 -----------------------------
 hello, can you help me select a good laptop?
@@ -233,17 +233,19 @@ no, buy i liked this model very much. isn't there something you can do about ssd
 i understand, buy ssd is fast. let it be, i need some time to think.
 thank you for your assistance
 
-hello and good evening. what may i do to assist you?
-it seems to be fantastic.
-do you want to purchase it?
-the _UNK an _UNK _UNK for all those are _UNK to _UNK well, it _UNK _UNK _UNK _UNK _UNK _UNK
-if you want only lenovo laptops, than i can recommend you some better products as well.
-if you have any interests in terms of specifications?
-it has been reserved for you with the reference number 1342355.
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and a resolution of _UNK pixels.
-okay, i'll it.
-okay, i'll it.
-okay, it would be best if you could also let me know your preferred brand or feature preferences.
+hello there. what may i do to assist you?
+it definitely is. 
+may i know what is your budget?
+that is okay. 
+may i inquire what is your budget?
+the asus zenfone has a maximum resolution of an 8 gb of internal memory and an internal memory of 8
+if you want only lenovo laptops, than you can choose this for a laptop with me.
+lenovo ideapad s340 has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, effective pixels, and
+it has been reserved for you with the reference number _UNK
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, pixels, pixels, pixels, pixels, and
+okay, i'll _UNK you updated.
+yes, it has a 15.6-inch mp primary and secondary cameras, as well as a built-in of what your requirements _UNK
+okay, i'll _UNK do you have any interests in terms of specifications?
 you're more than welcome.
 -----------------------------
 hello there, i'm getting a little problem. i'm hoping you can assist me.
@@ -258,17 +260,17 @@ this handset, without a doubt, has excellent features. i liked it as well.
 yes, how much does it cost?
 okay. book it for me. thank you.
 
-hello and good morning. please let me know if you have any specific preference. in terms of specifications?
-what may i do to assist you?
-it is a _UNK _UNK it seems to be fantastic.
-this is available in the year and a beautiful _UNK
-this is an intel core _UNK and the graphics are _UNK
-if you could assist us with the _UNK i have it available for you.
-it has a maximum resolution of _UNK pixels, an intel core i5-8265u cpu, intel gma graphics 620 of storage space.
-it has a display size of _UNK cm and has internal storage of 32 gb.
-this is the best phone that looks good. let me make the _UNK
-it costs 170 euros.
-okay, your reservation has been made.
+hello there. what may i do to assist you?
+what are your basic specifications that you like.
+it would be fantastic. if you could assist us with the best. it would be fantastic. if you could assist
+okay, i'll give me a minute. your smartphone is _UNK
+this _UNK comes with a 3000mah battery, 4 gb ram, and a beautiful phone.
+if you have any interests in terms of specifications?
+it has a 15.6-inch _UNK it has a battery capacity of keep you to get this laptop for your _UNK
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixels,
+can you tell me what your price point is?
+it costs set eur.
+you're very welcome.
 -----------------------------
 hello, i'm here to purchase a phone.
 no, go for the name brand. will it be of assistance?
@@ -284,17 +286,17 @@ i'm not interested in any other options. this is the one i like.
 i'm going to wait for the discount season to get it at a cheaper price. thank you for your assistance.
 
 hello there. if you have any interests in terms of specifications?
-do you want to purchase a particular brand?
-can you tell me what your price point is?
-please let me know if i can show you something as well.
-billing is the most well-known and reliable brand.
-this is the most well-known and camera. this phone is _UNK and the colour of this is on the market.
-this phone is in black. _UNK it seems to be a decent deal.
-that is the best we _UNK about the features that you can assist it _UNK your _UNK
-it will set you back 180 euros.
-can i book it for you?
+that could be well as the _UNK
+can you provide any interests for or phone?
+please let me know if you have any interests in terms of specifications?
+your booking id is: _UNK
+this is available in our now. and it's in high demand and it's still on high black
+this model was launched in _UNK and it is one of the most well-known and reliable brand.
 if you have any interests in terms of specifications?
-you are welcome.
+please let me know if you have a favourite day.
+this phone has a higher mah battery and 4 gb of ram.
+if you have a favourite brand having that phone?
+you're more than welcome.
 -----------------------------
 hello there. have you got a smartphone?
 any brand will do.
@@ -309,15 +311,15 @@ i'm not sure.
 ok, i'd like to wait until it's available in [smartphone_tablet_color]. thank you so much.
 
 hello there. what may i do to assist you?
-do you want to purchase it?
-if you could assist us with the model or feature preferences.
-okay, i'll do it. do you have any budget for display that are your phone to camera.
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and _UNK
-well, it has an android operating system and a 4 gb of ram.
-it has a 3000mah battery, 4 gb ram, a 13-megapixel main camera, and an 8-megapixel secondary camera.
-the asus zenfone 2 deluxe _UNK that _UNK it's an android and has a 15.6-inch touchscreen.
-okay, here are few models with an i7 _UNK and has a 15.6-inch touchscreen.
-it's a fantastic _UNK for you.
+do you have a favourite brand?
+if you have any interests in terms of specifications?
+if you have a favourite brand?
+it has a 15.6-inch _UNK
+yes, it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK
+it comes in a _UNK gold colour which looks elegant and it is an excellent choice.
+if you want to purchase a very _UNK
+okay, i'll give us just wanted to _UNK at least
+you are right. your _UNK
 you are welcome.
 -----------------------------
 hello there. will you able to assist me?
@@ -336,18 +338,18 @@ how much is it going to cost me?
 okay. thank you.
 
 hello there. what may i do to assist you?
-hello and good morning. do you have any brand or model or feature preferences.
-so, do you have a favourite brand?
-yes, for the [laptop_brand] laptop is the excellent _UNK
-yes, it is an excellent choice.
-please let me know if you have any interests that looks fantastic.
-this laptop has an nvidia geforce mx130 (2 gb) graphics card.
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and a resolution of _UNK
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and _UNK
-the price is _UNK eur.
-okay, i'll got you.
-okay, this is the acer brand.
-it will set you back 440 eur.
+what may i do to assist you?
+if you have a favourite brand?
+okay, we have a variety of cameras from various brands. please let me know what you're looking for.
+if you have any interests in terms of specifications?
+can you tell me what your price point is?
+the huawei you are the most of _UNK
+it has a 15.6-inch _UNK
+it has a 15.6-inch _UNK
+it costs set eur.
+okay, i'll do to assist you?
+it's a good option. it has a maximum resolution of an expandable memory of 1 pixels, an intel uhd graphics
+it will set you back just 210 eur.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. i'd like to ask you a question.
@@ -363,18 +365,18 @@ oh my god. it's like having a fantasy machine. i'm going to buy it.
 my money isn't in my bank account. i guess i'll have to return for this.
 thank you for your help
 
-hello there. please let me know if you have any specific brand or model in mind?
-do you have a favourite brand?
-yes, it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb _UNK
-but this is the colour you could be a decent choice.
-we have it in [smartphone_tablet_color].
-look at the asus zenfone 3 deluxe 5.5 which costs 280 eur.
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK camera, and a range of _UNK
-it is available in the colour _UNK gold.
-it is an excellent choice.
+hello and good morning. please let me know if you have any interests in terms of specifications?
+yes, that is okay.
+do you want to purchase it?
+okay, i'll book this for you. do you have any interests in terms of specifications?
+we will set you back the _UNK
+yes, we do, and the cost is 170 eur.
+yes, it is the most well-known and reliable brand. please take a look at the canon powershot _UNK
+if you want an intel core i5 processor type the phone has a display size of _UNK cm and a
+it would be a perfect choice.
 here is your receipt.
 it's okay.
-you are welcome.
+you're more than welcome.
 -----------------------------
 hello. i'm new to photography and can't wait to get my hands on a camera.
 is it possible for me to get a canon camera?
@@ -387,14 +389,14 @@ why not invest in the best?
 i will buy s80. book it for me
 thank you for your help.
 
-hello there. what exactly what exactly do you want to learn more about?
-okay, it would be great if you could assist us with the brand or model name.
-the asus zenfone 3 deluxe 5.5 has a maximum resolution of 640 pixels, and a dual sim.
-the asus zenfone 3 deluxe 5.5 is the _UNK _UNK and the colour that is an excellent choice.
-okay, this is the best phone that looks _UNK it's an acer _UNK
-it has a maximum resolution of _UNK pixels, an intel uhd graphics 620 graphics card. it's the best in the
-it costs just 170 eur.
-do you have a favourite brand?
+hello and good morning. please let me know if you have any interests in terms of specifications?
+okay, i'll give us a minute.
+okay, i'll give me to _UNK for you.
+is there a particular model that you have in mind?
+hello and good morning. are currently to know which brand you like.
+it comes in reality, and 4 gb of ram. the secondary camera has a resolution of 16 megapixels, as well
+the cost is 170 euros.
+do you want to purchase a brand or _UNK
 here is your receipt.
 you're more than welcome.
 -----------------------------
@@ -413,19 +415,19 @@ you are right. in addition, i want to purchase a [laptop_brand] [laptop_model] p
 there is no such need. i have researched about it. book it for me.
 i am. thank you for your help.
 
-hello and good afternoon. please let me know if you have any particular requirements for a specific brand?
-okay, i'll make a good to assist you.
-what may i do to assist you?
-we have a lot of great that meet the price range are you _UNK to _UNK
-can you please tell me what your price point is?
-okay, do you _UNK
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a range of _UNK
-it costs just 170 euros.
-the discounted price is _UNK eur.
-it has been reserved for you with the reference number 1342355.
-let me show you a decent for a laptop with it.
-okay, i'll do it.
-you're more than welcome.
+hello and good morning. what may i do to assist you?
+what are your basic specifications that would be fantastic.
+could you please tell me what your price point is?
+okay, i'll give us any other brands that your laptop is _UNK
+may you tell me what your price point is?
+in terms of the _UNK 15 _UNK is the _UNK
+it has a 15.6-inch main camera and an 8-megapixel secondary camera.
+it costs just set eur. you will save the phone to purchase?
+you are already in _UNK for a we have an apple _UNK and the cost is 280 eur.
+it has been reserved for you with the reference number _UNK
+let me tell you more about it.
+okay. if you are sure. here is your phone?
+you are welcome.
 -----------------------------
 hello there. i'd like to purchase a phone. will you able to assist me?
 the best phones are vivo's.
@@ -442,17 +444,17 @@ and, of course. go ahead to do so.
 thank you for assisting me in selecting the right one.
 
 hello there. what may i do to assist you?
-i hope you like. here is _UNK _UNK it has a 15.6-inch display.
-i have 3 models that meet this phone from the asus brand.
-the camera on vivo smartphones is available for been reserved is the best option for you.
+yes, really. what exactly do you _UNK to learn more about it?
+okay, i'll give me to assist you.
+the brand most _UNK
 do you have a favourite brand?
-the asus zenfone 3 deluxe 5.5 zs550kl is a _UNK phone and has a lot of great features.
-it's available in [smartphone_tablet_color]. it is the most well-known and reliable
-it costs 170 euros.
-ok, of course. it is a _UNK product.
-it has a 3000 mah battery and 4 gb ram, and has a 15.6-inch touchscreen.
-okay, i'll set you with it.
-booking is good afternoon.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK of
+it's available in gold.
+it costs 400 euros.
+okay, i'll _UNK you _UNK it _UNK as a _UNK it is a good option. it has a maximum resolution
+it has a 15.6-inch _UNK with a resolution of 5 megapixels.
+okay, it would just set you back _UNK euros.
+this is the _UNK that we have it in [smartphone_tablet_color] colour.
 you're more than welcome.
 -----------------------------
 hello there. could you make a recommendation for me?
@@ -467,16 +469,16 @@ that is, after all, the expenditure cap. it's not terrible.
 i'm going to do that. what are the payment options?
 okay, that's it. thank you for your assistance.
 
-hello there. what may i do to assist you?
-what may i do to assist you?
-okay, i'll it. is there anything else you'd like?
-okay, i'll make a few for you.
-the phone costs 250 eur. do you want to purchase it?
-please take a look at the asus _UNK
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb storage and a storage capacity of 5
-it will set you back 440 euros.
-okay, i'll make the _UNK you might like them.
-we do, and samsung galaxy a9 pro (2016), which has a battery capacity of 4 gb.
+hello there. if you have any interests in terms of specifications?
+if you have any interests in terms of specifications?
+okay, i'll give us a few _UNK to you for the camera?
+okay, i'll give us the best.
+you have a favourite range in mind?
+this is the _UNK i have it for your phone?
+it has a maximum resolution of 640 pixels, a low resolution is an effective pixels,
+it costs just set you back just 210 eur.
+should i book it for you?
+if you have a specific model in mind?
 you're more than welcome.
 -----------------------------
 hello there. i've come to purchase a laptop. will you able to assist me?
@@ -494,17 +496,17 @@ no, it's not true. that isn't needed. i'd like to see it from a different perspe
 thank you for your help.
 
 hello there. what may i do to assist you?
-okay, so should i inquire as to your if you have any brand or model or feature preferences.
-okay, that's it.
-the asus zenfone 3 deluxe 5.5 zs550kl it has a 15.6-inch touchscreen.
-we do, have hp _UNK and samsung galaxy tab a decent has 4 gb of ram.
-okay, it has been booked for you with ref. no.12345.
-well, it has an android operating system and a 4 gb of ram.
-we have a lot of option that meet the laptop is an _UNK and the _UNK phone will set you
-the asus zenfone 3 deluxe 5.5 _UNK
-okay, could you please tell me the name of the brand?
-let me show you a decent for a laptop at a discount.
-okay, so what price do you have any brand preferences?
+laptops with graphics that would be fantastic. if you can let us know what is what you'd like to have
+you can have the same _UNK
+do you have a favourite brand?
+we have a lot of option. please add some more than _UNK
+it has a 15.6-inch cm touchscreen and an intel core i5-8250u processor and a 15.6-inch inch display.
+yes, it is an excellent choice. what is the price.
+do you have a favourite brand?
+the asus zenfone 3 deluxe 5.5 has a 3000 mah battery, 4 gb ram, and a _UNK and it will
+only a very good choice. what is the name of this brand.
+let me show you a samsung model, that i hope you like. here is any smartphone features?
+if you have any interests in terms of specifications?
 you're more than welcome.
 -----------------------------
 hello and good morning. could you spare a few minutes for me?
@@ -521,16 +523,16 @@ and keep me informed.
 thank you so much.
 
 hello and good morning. what may i do to assist you?
-what are you _UNK your phone to be?
-the phone has a 3000 mah battery and 4 gb of ram. it has a main camera with a resolution
-okay, that's it.
-it has a maximum resolution of _UNK pixels, an resolution of _UNK pixels, an effective pixels, 32 gb storage and
-the asus zenfone 3 deluxe 5.5 zs550kl is a _UNK model, brand.
-yes, the colour is the best and reliable and reliable
-well, the asus zenfone 3 deluxe 5.5 has a maximum resolution of 640 pixels, and a _UNK card that is
-if you have any interests in terms of specifications?
-and, of course. is there anything else i can do to help you?
-if you could assist us with the brand or product would you like to learn more about?
+hello like to see how it would be fantastic.
+okay, could you please tell me what your price point is?
+okay, i'll give me the _UNK
+it has a 15.6-inch cm and a maximum resolution of 640 pixels, low resolution of pixels, pixels, effective pixels, and
+the asus zenfone 3 deluxe 5.5 has a maximum resolution of an pixels, primary camera and a 16 megapixel and
+we have a variety do you have a favourite brand?
+the huawei _UNK which has a 15.6-inch touchscreen.
+if you are aware of what specifications you like.
+okay, that's it. the reservation has been rated 5 out of 5 and this is an excellent choice.
+do you have a favourite brand?
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. will you kindly assist me?
@@ -546,13 +548,13 @@ thank you so much.
 
 hello there. what may i do to assist you?
 what may i do to assist you?
-okay, so do you have any brand preference as well?
-okay, i'll make a few _UNK and it costs your reservation as as well as well as the most _UNK
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK camera, range and 4 gb of
-it weighs _UNK g, and it is really beautiful.
-this phone has an android and also get a lot of great features. do you have a favourite brand?
-it's available at a reduced price.
-okay, i'll make a minute.
+okay, i'll give us the best. what is your price point in store.
+could you please tell me if you have a favourite brand?
+it has a main camera with a resolution of 13 megapixels and a secondary camera with a resolution of 5
+it weighs only _UNK and has a 15.6-inch touchscreen. it has a _UNK touchscreen.
+it would just set you back just like to see any picture for you.
+it's a _UNK _UNK that would be fantastic.
+okay, i'll book canon powershot _UNK and do you want anything else?
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello, i'm trying to purchase a phone.
@@ -567,15 +569,15 @@ please make a reservation for me.
 no, not at all. thank you.
 
 hello there. if you have any interests in terms of specifications?
-yes, this phone is an excellent choice. it has a 15.6-inch touchscreen.
-it costs 170 euros.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a _UNK _UNK
-if you could assist us with the model or feature that you are aware of the camera.
-yes, see model aspire 3 _UNK by asus and has 4 gb of ram.
-it has an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-it is available for just a reduced of _UNK
-thank you for your purchase.
-you are welcome.
+yes, really. the [laptop_brand] zenbook ux433fn are _UNK for the _UNK and the colour of the product is an excellent
+it costs just euros. euros. you back nikon eur.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, pixels, pixels, pixels, pixels, and
+if you could assist us with the brand you for _UNK
+could you please tell me what your price point is?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, pixels, pixels, pixels, pixels, and
+it costs 400 eur.
+okay, i'll make a reservation for you.
+thank you very by, by, and we hope to see you again soon.
 -----------------------------
 hello and good afternoon. have you got a smartphone?
 i'm searching for a phone that has a fantastic camera. i'd like to purchase it for my sister. she is a skilled photographer.
@@ -589,16 +591,16 @@ that is very costly.
 i'm going to buy it. please make a reservation for me.
 no, it's not true. thank you so much.
 
-hello and good evening. what may i do to assist you?
-what may i do to assist you?
-okay, i have a variety of [smartphone_tablet_brand] models that meet these specifications; do have a discount. on the _UNK
-the canon powershot _UNK which has a 3000 mah battery and 4 gb ram. it has a 15.6-inch display.
-yes, the phone is an acer option.
-it has a maximum resolution of _UNK pixels, 3 effective pixels, and a _UNK range of ram.
-it weighs around _UNK it's the best you'll _UNK
-it costs 170 euros.
-the _UNK is an _UNK and it has a 15.6-inch touchscreen.
-okay, i'll make your reservation and nikon coolpix as well as the _UNK and _UNK as the phone has been
+hello and good morning. please let me know if you have any specific features in mind.
+what are your basic specifications that you like.
+do you have a favourite brand?
+we have the asus zenfone 3 deluxe 5.5 which has a 15.6-inch touchscreen.
+yes, really. what may i do to assist you?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK of
+it is just a reduced price.
+it costs 400 eur.
+the display on this model has a stunning 1920x1080 resolution and an 8-megapixel secondary camera, with a resolution of 5
+okay, i'll make a reservation for you.
 you are welcome.
 -----------------------------
 hello there. i've come to see if you can help me with my dilemma.
@@ -615,19 +617,19 @@ and how far would it set you back?
 this is fantastic. i'm going to buy it. please make a reservation for me.
 thank you so much for your support.
 
-hello there. what may i do to assist you?
-which one are you looking for?
-okay, i'll it.
-okay, this is the best phone that looks _UNK it is an acer phone.
-yes, it is the most well-known and reliable brand.
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-just one _UNK the phone costs a decent phone.
-it has a maximum resolution of pixels, pixels, 3 gb of ram, and a 15.6-inch mah battery.
-the asus zenfone 2 deluxe _UNK have a _UNK _UNK as well as an intel core _UNK cpu, an intel
-it was launched in the year 2007.
-this phone has a higher mah battery and 4 gb of ram.
-okay, i'll make a minute.
-you are welcome.
+hello there. please let me know if you have any particular requirements in terms of specifications.
+please let me know if you have any interests in terms of specifications?
+and, of course. what do you _UNK about the features of 4 gb ram. do you want to learn more
+yes, we do, and the cost is 170 eur.
+okay, this phone seems to be a decent option.
+do you want to book this for you?
+do you have a favourite brand?
+the lenovo ideapad lenovo have a 15.6-inch range of the camera. it has a maximum resolution of 640 pixels, a
+the main camera has a resolution of 16 megapixels, while the secondary camera has a resolution of 5 megapixels.
+it comes in a _UNK gold colour.
+it costs set eur. you will save the phone to purchase? you are aware of its features?
+okay, i'll make a reservation for you.
+you're more than welcome.
 -----------------------------
 hello there, i'm trying to buy a phone for myself.
 it should have at least a [smartphone_tablet_battery] mah battery and [smartphone_tablet_model] gb of ram.
@@ -640,16 +642,16 @@ could you tell me anything about its characteristics?
 okay, please make a reservation for me.
 no, not at all. thank you.
 
-hello and good morning. please let me know if you have any specific requirements in mind.
-you can then choose for you with the xiaomi to _UNK
-yes, it is very famous and reliable brand.
-it has an intel core i5-8250u cpu, intel gma hd graphics, and a 1tb hard drive.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and an 8-megapixel memory of 8 gb.
-okay, _UNK like to see the [laptop_brand] ideapad _UNK which has a 15.6-inch touchscreen.
-the xiaomi mi pro has a 4 gb ram and a 15.6-inch mah battery. it has a 15.6-inch touchscreen.
-it has an intel core i5-8250u cpu, intel gma hd graphics, and a 1tb hard drive.
-okay, i'll book it for you?
-you are welcome.
+hello there. please let me know if you have any particular requirements in terms of specifications?
+yes, we do, and the cost is 170 eur.
+yes, it is the most well-known and reliable brand. please take a look at the asus aspire 5 a515-54g for
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+it has a 128 gb m.2 ssd/1tb hdd for your needs.
+okay, i'll be able to get a few _UNK
+i have 3 models from _UNK and samsung have a similar _UNK could you tell me what your price point
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+okay, i'll book canon powershot mark the reservation has been made.
+thank you very by, by, and we hope to see you again soon.
 -----------------------------
 hello and good evening. if you have a few moments to spare?
 i'd like to purchase a mobile. you have all the labels, according to somebody.
@@ -663,17 +665,17 @@ that is excessive. is it possible for you to reduce the price?
 that's all right. i'll wait until it's less expensive.
 that'll be fantastic. thank you so much.
 
-hello and good afternoon. and let me know what you're looking for you.
-yes, we have a variety of laptops from the asus brand.
-okay, it would just set you back _UNK eur.
-we will always best in that price range.
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb _UNK
-it also has a 15.6-inch touchscreen.
-yes, it weighs 145 g and has a 15.6-inch touchscreen.
-it costs 170 euros.
-it is now at a reduced cost.
-okay, so you can purchase for your purchase. it comes with a fast 8 gb ram and a 15.6-inch mah
-you are welcome.
+hello and good evening. what may i do to assist you?
+hello it _UNK at a reduced price.
+it would be fantastic. if you could show it to me. if you can let us know what your requirements
+it's just 500 eur.
+the asus _UNK which has a 15.6-inch touchscreen.
+it has a maximum resolution of 640 pixels, a low resolution is an effective pixels,
+yes, it costs 145 euros.
+it costs 400 euros.
+yes, it costs _UNK
+okay, i'll give me to make a few _UNK
+thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. i've come to purchase a camera.
 canon powershot a10 is my first pick. i'm just getting started.
@@ -687,16 +689,16 @@ nonetheless, i do not believe it is worthwhile to purchase.
 no, it's not true. i've realised i don't know much about cameras, so i'm having trouble deciding which is the better. i'd do some analysis and get back to you.
 thank you for your assistance.
 
-hello there. what may i do to assist you?
-okay, i'll make a few _UNK is there anything else you'd like?
-the asus zenfone 2 deluxe _UNK has a 3000 mah battery and 4 gb ram.
-the asus zenfone 3 deluxe 5.5 zs550kl is a _UNK phone and has a _UNK touchscreen.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a range of _UNK
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and _UNK
-it will set you back 440 euros.
-the asus zenfone 3 deluxe 5.5 zs550kl is a _UNK model, model, laptop is an excellent option.
-we do, and it costs just 170 euros.
-okay, i'll make a stunning to assist you in _UNK if you _UNK any more _UNK
+hello and good morning. please let me know if you have any specific requirements and that _UNK
+it's a good _UNK it has a 15.6-inch _UNK for a 15.6-inch _UNK
+okay, we have an asus zenfone max zc550kl _UNK in that range:
+it has a 15.6-inch _UNK for a maximum resolution of _UNK pixels, which costs a low focus range of _UNK
+it has a main camera with a resolution of 13 megapixels and a secondary camera with a resolution of 5
+it seems set you back _UNK eur.
+it costs 400 eur.
+okay, i'll give me to assist you.
+what is your budget?
+and, of course. i hope you with my for the brand or model name.
 you're more than welcome.
 -----------------------------
 hello there. will you able to assist me?
@@ -712,15 +714,15 @@ this is fantastic. please reserve this phone for me.
 thank you for your assistance.
 
 hello there. what may i do to assist you?
-i'd like to see if you have any interests in terms of specifications?
-can you please tell me what your requirements is?
-this is the most well-known are _UNK for more than the _UNK and most _UNK do you want to purchase
-can you tell me what your price point is?
-thank you for stopping by, and we hope to see you again soon.
-yes, it has a maximum resolution of _UNK pixels, 1 effective pixels, and a _UNK _UNK and a _UNK _UNK
-this is a dell laptop. to its high a very _UNK that is only good feature at the _UNK price
-can you tell me what your price point is?
-okay, that's the reservation has been made.
+okay, i'll _UNK some _UNK
+hello and have a look at what you're looking for.
+okay, i'll give me a few _UNK
+we have an [smartphone_tablet_brand] brand. please see the asus vivobook 14 x412ub and the asus zenbook ux433fn is an excellent
+your booking no. is: _UNK
+yes, it has a 15.6-inch mp primary camera and an 8-megapixel secondary camera.
+if you have a favourite brand?
+okay, so you should think about the brand?
+okay, your reservation has been made.
 you're more than welcome.
 -----------------------------
 hello and good morning.
@@ -736,15 +738,15 @@ that's all right. please make a reservation for me.
 thank you so much for your support.
 
 hello and good morning. what may i do to assist you?
-we have a variety of phones that meet these specifications; do you have any additional requirements?
-the best camera brand.
-the [laptop_brand] is an _UNK and it costs a _UNK _UNK that is very _UNK
-it has a maximum resolution of _UNK pixels, pixels, pixels, effective pixels, and a _UNK focus range and 4 gb
-the 3200 mah battery, _UNK is the _UNK and the _UNK has a battery capacity of _UNK mah.
-it costs _UNK and _UNK to take a look at the _UNK
-it costs 170 euros.
-the discounted price is _UNK eur.
-okay, i'll book it for you?
+we have a variety of cameras from various brands. please let me know what you're looking for.
+the best camera brand is _UNK
+we have a variety of cameras from various brands. please let me know what you're looking for.
+it has a 15.6-inch _UNK
+the the cost is of _UNK
+it weighs around _UNK _UNK has a _UNK mah battery.
+it costs 400 euros.
+you are already in _UNK for a we have an apple _UNK and the cost is 280 eur.
+okay, i'll make a reservation for you.
 you're more than welcome.
 -----------------------------
 hello there. if you have a few moments to spare?
@@ -761,16 +763,16 @@ it's out of my price range. i'll wait until the end-of-season auction.
 thank you so much.
 
 hello there. what may i do to assist you?
-yes, sure,
-okay, i'll it.
-okay, i'll it.
-it has a maximum resolution of _UNK pixels, an resolution of _UNK pixels, an effective pixels, 32 gb storage and
-it's set in gold, and comes with a _UNK touchscreen.
-it also has a 15.6-inch touchscreen.
-the asus zenfone 3 deluxe 5.5 5.5 is a well-known choice.
-well, it is the most well-known and reliable brand.
-it is available for just a reduced of _UNK
-okay, that's it.
+hello there. what may i do to assist you?
+okay, i'll give us a few _UNK
+okay, i'll book canon powershot _UNK and do you want anything else?
+it has a 15.6-inch cm and a maximum resolution of 640 pixels, low resolution of pixels, pixels, effective pixels, and
+it's available in gold.
+it has a 15.6-inch _UNK
+i'm _UNK you _UNK about the _UNK
+yes, it is the most well-known and reliable brand.
+it costs set eur. you will save the phone to purchase? you are aware of its features?
+is there anything else you'd like to see on your phone?
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. have you got a smartphone?
@@ -785,14 +787,14 @@ that will not be appropriate, and i will return to make the purchase later. righ
 thank you for your assistance.
 
 hello there. what may i do to assist you?
-may you tell me what your price point is?
-the samsung galaxy tab s3 9.7 has a higher resolution of 640 pixels.
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb storage capacity and a _UNK touchscreen.
-the model is available for you. which is an _UNK
-this colour is what colour you _UNK look for your purchase.
-the phone has a 3000 mah battery and 4 gb of ram. the main camera has a resolution of 13
-the canon model i see the asus zenfone 3 deluxe 5.5 which costs assist you. do you have any other
-okay, that's fine.
+do you have a favourite model?
+the asus zenfone 3 deluxe 5.5 zs550kl is in that _UNK _UNK _UNK _UNK _UNK and it has a resolution
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+the asus zenfone 3 deluxe 5.5 has a maximum resolution of an pixels, primary and secondary camera of 16 megapixel.
+it costs set eur.
+okay, i'll give me to make the [smartphone_tablet_brand] for you?
+the processor will be _UNK the phone for you. it has a 13-megapixel main camera and an 8-megapixel secondary camera.
+okay, that's it. the reservation has a maximum resolution of an pixels.
 you're more than welcome.
 -----------------------------
 hello and good afternoon. will you able to assist me?
@@ -807,16 +809,16 @@ no, it's not true. it seems to be a debacle. i can't believe i was so close to p
 no, i don't believe so. i suppose i'll wait for this model to come out in other colours.
 thank you so much.
 
-hello and good afternoon. please let me know if you have any particular requirements for a specific brand?
-i'll do my this phone to be a decent could you looking for a laptop with a _UNK _UNK
+hello and good morning. what may i do to assist you?
+okay, that's it. this is the asus _UNK 3s 10 _UNK which has a 15.6-inch touchscreen.
 is there a particular model that you have in mind?
-the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch touchscreen.
-the asus zenfone 3 deluxe 5.5 and a dual sim _UNK
-yes, it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb of storage and a storage capacity
-gold colour is the colour that we have.
-okay, i'll it.
-this is the colour that we have, and it is a well-known phone.
-okay, i'll keep you updated.
+the asus zenfone 3 deluxe 5.5 zs550kl is the _UNK it has a maximum resolution of _UNK pixels, effective pixels,
+the nikon coolpix max costs 170 eur, and the mi max costs 170 eur.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK focus
+yes, we have a variety of cameras from various brands. could you please tell me what your price point is?
+if you have any interests in terms of specifications?
+there are several other models that are available in my stock. do you have any other preferences also?
+okay, i'll be a decent for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. will you able to assist me?
@@ -831,15 +833,15 @@ it's just too costly. i'm not sure i'll be able to afford it.
 even, i'm going to wait for the price to come down. thank you so much.
 
 hello there. what may i do to assist you?
-is there a particular brand that you have in mind?
-the phone seems to be a decent option.
-yes, the most most recent are _UNK to this one. so if you have any interests in terms of specifications?
-the samsung galaxy tab s3 9.7 has a 3000 mah battery and 4 gb of ram.
-it is an android phone and has a _UNK touchscreen.
-it's available in [smartphone_tablet_color].
-it is priced at least eur.
-it's the best options for you.
-okay, that's it. is there anything else that you require?
+is there a particular model that you have in mind?
+the model you are aware of what for you.
+okay, i'll be a decent _UNK
+the asus zenfone 3 deluxe 5.5 zs550kl is in the colour _UNK it seems to be fantastic.
+the asus zenfone 3 deluxe 5.5 zs550kl is available in my more than the requirements.
+we do, and it costs 280 euros.
+it costs set eur.
+the asus zenfone 3 deluxe 5.5 zs550kl is in that _UNK _UNK _UNK _UNK _UNK and it has a resolution
+okay, that's it. you're more than welcome.
 -----------------------------
 hello and good evening. have you got a few minutes to spare?
 please recommend a decent low-cost phone for me.
@@ -854,15 +856,15 @@ so, i'll hold off until the coupon sale. i have a feeling i'll be able to have i
 no, thank you so much.
 
 hello and good evening. what may i do to assist you?
-could you please tell me what your requirements is?
-and, of course. it has a 15.6-inch mah battery and 4 gb of ram.
-okay, this is the best phone that looks _UNK let me make a few more than your _UNK
-it also has a 15.6-inch touchscreen.
-the asus zenfone 2 deluxe _UNK which has a resolution of _UNK and a 4 gb ram and a storage
-it also has an internal memory of 16 gb and an _UNK memory of 1 gb.
-it is equipped with an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
-yes, it will set you back 180 eur, and it will look for a _UNK _UNK
-okay, is there any other feature you are looking for in the phone?
+okay, i'll make a few _UNK
+okay, i'll do your reservation model to see canon powershot mark and it has a large camera of 13 megapixels
+the huawei _UNK is an excellent choice.
+it comes with a 15.6-inch battery, it has a battery capacity of mah. mah.
+it is a good option. what is your budget?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+it has a main camera with a resolution of 5 megapixels.
+yes, it will set you back find me a few _UNK
+okay, we do, and it might be fantastic.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. i'd like to purchase a camera.
@@ -880,19 +882,19 @@ no, it's not true. i'm going to buy it. "how much does it cost?" "i had intended
 please make reservations for both of them for me."
 thank you for your assistance.
 
-hello there. what may i do to assist you?
-this laptop is an excellent choice.
-okay, i'll it.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a secondary camera with an _UNK resolution.
-it costs 170 euros.
-but this is the asus zenfone 3 deluxe 5.5 5.5 which costs the most well-known and reliable brand.
-do you have a favourite brand?
-take a look at the _UNK
-it has a maximum resolution of pixels, pixels, pixels, pixels, pixels, 16 gb of storage.
-it's available in [smartphone_tablet_color]. it is the most well-known and reliable
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and _UNK
-it costs just just just 170 eur. it's the best phone that you could be looking for.
-okay, your reservation has been made.
+hello and good morning. please let me know if you have any interests in terms of specifications?
+the asus zenfone 3 deluxe 5.5 zs550kl is a fantastic choice. it has a _UNK mah battery and 4 gb
+okay, i'll give me to assist you.
+the price is 1849 eur.
+it costs 400 euros.
+if you want to purchase a brand or _UNK
+could you please tell me what your price point is?
+we have a lot of tablets with this product. do you have any other preferences also?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+it's available in gold.
+it has a 15.6-inch _UNK
+it is an android phone with dual sim slots and an inbuilt gps. it also has an inbuilt gps system.
+it has a resolution of _UNK
 you're more than welcome.
 -----------------------------
 hello and good evening.
@@ -910,19 +912,19 @@ to me, no. is there a discount available?
 they, to be precise. i'm not convinced.
 that is what i would do. thank you so much.
 
-hello and good evening. what may i do to assist you?
-yes, it is an excellent choice.
-it is a _UNK 4g phone that was released in january 2017 _UNK the colour that is in high demand.
-the asus zenfone 3 deluxe 5.5 has a maximum resolution of 640 pixels, and a resolution of _UNK it has
-the two phones are _UNK of the smartphones. if you could assist us with the brand or product in your
-the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch touchscreen.
-this phone is equipped and the asus zenfone 3 deluxe plus. it's a resolution of 5 megapixels.
-well, it has a _UNK _UNK display size and _UNK
-it will set you back 440 euros.
-this phone has a higher _UNK this laptop has a higher resolution and a _UNK
-only the _UNK for been _UNK is there anything else you'd like?
-then you should think about canon powershot _UNK
-you are welcome.
+hello and good morning. what may i do to assist you?
+can i inquire your budget?
+it costs just like to be a decent 750 for a _UNK day.
+that is okay. we have a variety of cameras. can you please tell me about your price range?
+yes, we do, and it costs _UNK
+yes, it is a very well-known brand that is the most well-known and this colour is the best for this
+this is the most well-known and the colour is preferred for this laptop is preferred for more than _UNK
+it has a 15.6-inch cm and an 8-megapixel secondary cameras, as well as an 8 mp main camera, as well
+it costs 400 eur.
+okay, i'll you _UNK your _UNK to see _UNK
+well, we do, the _UNK the nikon coolpix _UNK is an excellent choice.
+it's the best phones i have a variety of [smartphone_tablet_brand] phone.
+thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello and good morning. i'd like to purchase a mobile with a head-turning effect on everyone.
 i'm inclined to pay whatever amount of cash.
@@ -934,14 +936,14 @@ what colour choices do you have available?
 okay, i'll make a reservation for you.
 thank you so much.
 
-hello and good morning. please let me know if you have any specific features in mind.
-then you can show you phones in the brand or ram size by brand.
-the nikon coolpix has a 15.6-inch touchscreen.
-i have a similar _UNK [smartphone_tablet_brand] _UNK and also has a large display size.
-the phone i have is available for 1849 eur. it seems to be fantastic.
-it comes with 3 gb of ram, and a dual main camera and an 8-megapixel secondary camera.
-your reservation has been made.
-your reservation number is _UNK
+hello and good morning. do you have a favourite brand?
+it has a 15.6-inch cm and a 15.6-inch display. it costs an intel core i5 cpu, 128 gb (pcie ssd/1tb
+if you want to show you a few more than this phone?
+it costs just set you back at least this is the price.
+it's the best as per as well as 8 all of them from various to _UNK
+it has a 15.6-inch _UNK
+the phone i have is it in black colour.
+okay, i'll make a reservation _UNK
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. if you have a few moments to spare?
@@ -956,14 +958,14 @@ ok, please make a reservation for me.
 thank you so much for your help.
 
 hello there. what may i do to assist you?
-yes, we have a variety of cameras from various let me know which brand or brand or brand or brand
-this is the asus zenfone 3 deluxe 5.5 which costs the most well-known and reliable
-the asus zenfone 3 deluxe 5.5 zs550kl
-this model has got 4.4 out of 5 stars which is a great review.
-it has been reserved for you with the reference number 1342355.
-yes, it has a dual sim slot and a 15.6-inch touchscreen.
-well, it has been reserved for you with this address.
-okay, i'll book it for you?
+yes, we have a variety of cameras from various brands. please let me know what you're looking for.
+okay, i'll give me to assist you.
+this laptop is the most well-known and the colour is an excellent choice.
+this model has better features.
+yes, we have a similar _UNK could you please tell me what your price point is?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixels,
+the model that is the most recent and reliable brand.
+okay, i'll make a reservation for you.
 you're more than welcome.
 -----------------------------
 hello there. is it possible for you to assist me?
@@ -981,16 +983,16 @@ okay, that's it. thank you so much for your support.
 
 hello there. what may i do to assist you?
 what may i do to assist you?
-yes, the _UNK is there anything else you'd like?
-if you could assist us with the brand or product _UNK
-okay, what features do you want?
-the asus zenfone 3 deluxe 5.5 zs550kl is the best among the asus _UNK which has a resolution of 16
-it has a maximum resolution of _UNK pixels, an effective pixels, and a resolution of _UNK
-it is available in silver colour.
-it has a maximum resolution of _UNK pixels, 3 effective pixels, and 1 gb of ram.
-it is available in [smartphone_tablet_color]. it seems to be fantastic.
-it costs 170 euros.
-you are welcome.
+okay, i'll make a few _UNK
+we have a variety of cameras from various brands. please let me know what you're looking for.
+okay, that's it. the model on this product. what exactly is it?
+the asus zenfone has a battery capacity of 4000 mah.
+it has a 15.6-inch main camera and an 8-megapixel secondary camera.
+yes, it is an excellent choice. what is the price.
+we have an _UNK in terms of products at the _UNK may you tell me which brand secondary is?
+yes, that is okay. the brand that you _UNK _UNK
+it costs 400 euros.
+you're more than welcome.
 -----------------------------
 hello and good afternoon. is it possible for you to assist me?
 if you have a camera on you?
@@ -1005,17 +1007,17 @@ that is all i will see. i'm glad you told me about this.
 yes, really. please make a reservation for me.
 thank you for your assistance.
 
-hello and good afternoon. and let me know if you have any interests in terms of specifications?
-yes, may i know which brand and have a secondary camera, that you want.
-yes, we do, and its price is 149 eur.
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-in your _UNK there are several of other brands as well as and one laptop with the most _UNK
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-nikon coolpix _UNK and is available in black.
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and 32 gb of storage.
-we do, and the colour of this model _UNK
-okay, it would be best if you could let us any specific model that you _UNK
-okay, i'll make a booking for you.
+hello and good morning. what may i do to assist you?
+yes, we do have a number of tablets in mind?
+hello and good morning. please show me a few _UNK
+okay, i'll be a decent _UNK
+okay, do you have a favourite brand?
+the asus zenfone 3 deluxe 5.5 zs550kl is available in the colour you see _UNK
+nikon coolpix has been made.
+it has a 15.6-inch cm display screen and an 5000mah battery, 2 gb of storage.
+yes, it _UNK on the _UNK it has a battery capacity of okay, mah.
+okay, i'll book this for you. do you have a favourite brand?
+okay, i'll book canon powershot _UNK and do you want anything else?
 you're more than welcome.
 -----------------------------
 hello there. please assist me.
@@ -1030,16 +1032,16 @@ i'm not required to. my fortunate colour is [laptop_color].
 that isn't needed. this model refers to me. please notify me when it is visible in [laptop_color].
 thank you so much.
 
-hello and good morning. please let me know if you have any specific requirements in mind.
-what is the name of the best in that budget range that are _UNK to the _UNK and it costs
-please take a look at the lenovo ideapad
-the asus zenfone 3 deluxe 5.5 zs550kl is a fantastic option. please take a look at the asus models all
-it also has an internal memory of 16 gb and an _UNK memory of 1 gb.
-it will set you back 440 euros.
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and _UNK
-the asus zenfone 3 deluxe 5.5 zs550kl is a fantastic choice. it also has a built-in radio system.
-there are several options available to us. if you have any interests in terms of specifications?
-okay, i'll be the perfect _UNK for a very unique and secondary _UNK the laptop with an internal memory of
+hello there. what may i do to assist you?
+what may i do to assist you?
+if you have any interests in terms of specifications?
+okay, this is the most recent and reliable _UNK _UNK
+it is just a reduced price.
+it costs 400 euros.
+this laptop has a lot of great features.
+it seems to be a decent _UNK
+there are several options available with me.
+okay, i'll give you some other models having better _UNK
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. if you have a few moments to spare?
@@ -1055,15 +1057,15 @@ that's fantastic. isn't it going to be pricey?
 you are right. thank you for your assistance.
 
 hello there. what may i do to assist you?
-yes, it would be fantastic. if i inquire to be fantastic.
-yes, it is an excellent choice.
-could you please tell me what your price point is?
-okay, i'll set you the models.
-the cost is 280 euros.
-and will be the right choice for you.
-samsung smartphones are available to assist you in this phone to be a decent deal.
-this is the colour of this phone.
-it has a maximum resolution of _UNK pixels, 1 effective pixels, and a _UNK range of _UNK and costs 170
+can you tell me what your price point is?
+yes, we do, and it costs an android in terms of the camera.
+it would set you back just 210 eur.
+if you have any interests in terms of specifications?
+the cost is 250 euros.
+the asus zenfone 3 deluxe 5.5 zs550kl is available in this brand. would just give me a minute.
+okay, i'll be a decent for you. could you for me to learn more about your specifications?
+okay, i'll make the reservation has been made.
+it costs just set you back just 210 eur.
 you're more than welcome.
 -----------------------------
 hello and good evening.
@@ -1080,18 +1082,18 @@ without a doubt. how much does it cost?
 okay, that's it. please make a reservation for me.
 thank you so much.
 
-hello and good evening. what may i do to assist you?
-can i inquire as to what you'd do you want to learn more about?
-yes, we do, and its price is 170 eur.
-i have a wide range of _UNK that meet the best phone that _UNK _UNK _UNK _UNK
-then you should buy the model moto pro by gionee and now released in january 2016.
-do you want to purchase it?
+hello and good morning. what may i do to assist you?
+okay, we have a variety of cameras. can you please tell me what your price point is?
+yes, are you looking for a specific brand?
+yes, we have a large variety of cameras from various brands. please let me know what you're looking for.
 if you have any interests in terms of specifications?
-it has a maximum resolution of _UNK pixels, an intel uhd graphics 620 graphics, and a 1tb hard drive.
-can you tell me what your price point is?
-then you should think the [smartphone_tablet_brand] for a gionee brand?
-it will set you back 440 eur.
-okay, i'll make a booking for you.
+it has a 15.6-inch _UNK and an intel core i5 processor.
+the cost is 1849 euros.
+it has a 15.6-inch cm and a maximum resolution of 640 pixels, low resolution of pixels, pixels, effective pixels, and
+yes, it _UNK and it has a 15.6-inch display, _UNK
+okay, i'll give me to assist you.
+it costs 400 euros.
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 good morning and hello. i'd like to purchase a smartphone that will be released between 2015 and 2017.
@@ -1106,16 +1108,16 @@ what is the cost?
 please book it as well.
 thank you so much.
 
-hello and good evening. what kind of specifications specifications do you want to learn more about?
-then the xiaomi xiaomi pro has a maximum resolution of 640 pixels, and a resolution of the brand of the
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-it is available for just a reduced _UNK
-yes, this is a very reliable brand.
-your booking no. is: _UNK
-if you have any interests in terms of specifications?
-this is the asus zenfone 3 deluxe 5.5 which was released in january black.
-it is available for just a reduced of _UNK
-okay, your order is booked and is available in black.
+hello and good morning. please tell me what your price point is?
+the asus zenfone 3 deluxe 5.5 zs550kl is available in my _UNK and the nikon coolpix laptop are you looking
+it has a 3000mah battery, 4 gb ram, 13 secondary camera, and eight secondary cameras, and a 3000mah secondary camera.
+it will set you back just 210 eur.
+yes, we do, and it costs just 170 eur.
+thank you for your phone? is there anything else you'd like?
+okay, what exactly do you have a favourite phone? in mind?
+okay, i'll give you some other models having better _UNK for at least if you could tell me about your
+it costs 400 eur.
+okay, your order has been _UNK and the nikon coolpix are you looking for?
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello, could you please assist me in selecting a compatible smartphone?
@@ -1132,18 +1134,18 @@ it should be a windows phone, not a smartphone.
 sure, i'll go along with it. please make a reservation for this one as well.
 thank you, just no.
 
-hello and good morning. please let me know if you have any specific brand or model in mind?
-okay, do you have a favourite brand?
-this phone has an 8 mp main camera. it is a good option.
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and 32 gb of storage.
-the asus zenfone 3 deluxe 5.5 has a maximum resolution of 640 pixels, and a resolution of _UNK
-there are several other models that are your can be fantastic.
-yes, it is available in [smartphone_tablet_color]. it seems to be fantastic.
-okay, i'll book it for you?
+hello and good morning. please let me know if you have any interests in terms of specifications?
+if you could give us a _UNK it would be fantastic. if you have any interests in terms of specifications?
+okay, we have a number of phones that meet these specifications; do you have any additional requirements?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+we have a variety of cameras from various brands. please let me know what you're looking for.
+okay, i'll you do you have a favourite brand?
+yes, it is the most well-known and reliable for everyday _UNK
+okay, i'll make a reservation for you.
+what is the name of the brand?
+yes, it is an excellent choice. what are your requirements are?
 what is your budget?
-the asus zenfone 2 deluxe _UNK which has a resolution of 16 gb and a storage capacity of 16 gb.
-what do you think
-if you have any interests in terms of specifications?
+it has been reserved for you with the reference number _UNK
 welcome, please visit again.
 -----------------------------
 hello there, i've come to purchase a mobile.
@@ -1156,15 +1158,15 @@ are you selling it in [smartphone_tablet_color] or [smartphone_tablet_color]?
 i believe i would choose this choice. please make a reservation for me.
 thank you so much for your support.
 
-hello and good morning. do you have any brand or model or feature preferences.
-if you could assist us with the brand or product _UNK
+hello and good morning. please let me know if you have any interests in terms of specifications?
 if you have any interests in terms of specifications?
-yes, we do, and that is the best we have it for you.
-the battery capacity is _UNK
-it has 64 gb of internal memory and a 15.6-inch just 170 eur. it's worth _UNK
-yes, it is an android phone and has a _UNK touchscreen.
-okay, i'll make a minute.
-you are welcome.
+this is the most well-known and reliable this colour is an _UNK
+yes, we have the samsung galaxy a9 pro which has a 15.6-inch touchscreen.
+the asus zenfone 3 deluxe 5.5 has a battery capacity of _UNK mah.
+it has 32 gb of internal memory and weighs 430 g.
+yes, we have a variety of cameras on this phone.
+okay, i'll book canon powershot _UNK and do you want anything else?
+you're more than welcome.
 -----------------------------
 hello there. i'd like to investigate the [smartphone_tablet_brand] tabs.
 yes, for office work, i need a strong [smartphone_tablet_model]. as a result, having a strong battery backup is important for me.
@@ -1179,18 +1181,18 @@ what are the battery specifications?
 this seems to be the one for me. please make a reservation.
 thank you so much for your support.
 
-hello and good morning. do you have any brand or model or feature preferences.
-do you have any additional requirements?
-the phone in that _UNK there are several other brands as well from the asus brand, which has a 15.6-inch
-the screen size is _UNK inches.
-it is equipped with an intel core i5 cpu, cpu, intel hd graphics for a more _UNK and the laptop
-please see gionee battery and the black in colour.
-it has 4 gb of ram.
-you can purchase a gionee _UNK for a laptop with better features.
-it has an internal memory of 16 gb and an _UNK memory of 1 gb.
-it has a battery capacity of _UNK mah.
-okay, i'll just like to know if there is any feature or model that you have in mind?
-you are welcome.
+hello and good morning. we have a variety of cameras from various brands. please let me know what you're looking
+okay, i'll give me to assist you.
+the asus zenfone 3 deluxe 5.5 zs550kl is a fantastic choice.
+the screen size is 15.6 inches.
+it is priced at least
+it has a 15.6-inch inch display screen and an i5 processor. it has a 15.6-inch _UNK
+it has a 4 gb ram and a _UNK mah battery. it has a 13-megapixel main camera and an 8-megapixel
+yes, we have a lot of phones with the _UNK do you have a favourite brand?
+it has a battery capacity of 5300 mah.
+it has a battery capacity of 3000 mah.
+yes, it costs just a decent 1 gb ram and a _UNK mah battery and 3 gb of ram.
+you're more than welcome.
 -----------------------------
 hello, i'd like to purchase a [smartphone_tablet_brand] tablet for my sister.
 really, it's mainly for her education that she needs it. i've heard of ipads as well.
@@ -1206,19 +1208,19 @@ is there a selfie camera on it?
 for the time being, i believe i can purchase only the [smartphone_tablet_model].
 thank you so much for your support.
 
-hello there. if you have any interests in terms of specifications?
-okay, i'll book it for you?
-yes, it will set you back 180 euros.
-if you want only lenovo laptops, than i hope you like. here is model is 5 _UNK _UNK the [smartphone_tablet_brand]
-with this _UNK you can _UNK
-it is available for just what you would just like to be of the be _UNK
-what is the name of the brand?
+hello and good morning. please let me know if you have any particular requirements in terms of specifications?
+the asus zenfone 3 deluxe 5.5 zs550kl is a famous model that you have a particular brand?
+okay, i'll make a few _UNK
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+it would just set you back just 210 eur.
+it costs just set eur. you will save the phone to purchase?
+okay, i'll _UNK as per the asus zenfone 3 deluxe 5.5 which has a 15.6-inch touchscreen.
 if you have any interests in terms of specifications?
-this is the colour that we have, and it is a well-known phone.
-it is available for just a reduced of _UNK
-yes, it has a maximum resolution of _UNK pixels, 1 effective pixels, and a _UNK _UNK and a _UNK _UNK
-okay, you will be happy for your phone?
-you are welcome.
+okay, i'll give us a few option.
+it costs 400 eur.
+yes, we have a variety of laptops with 15.6 inch display size, three with an expandable memory and an apple
+okay, i'll be happy to see any of your other requirements?
+you're more than welcome.
 -----------------------------
 hello there. if you have a few moments to spare?
 if you have any iphones that you'd like to sell?
@@ -1236,18 +1238,18 @@ okay, please put all of these in your bag.
 thank you so much for your support.
 
 hello there. what may i do to assist you?
-yes, we have a variety of models from various _UNK _UNK if you have any other requirements?
-we have a variety of phones that meet these specifications; do you have any additional requirements?
-it is just a reduced price.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a range of of storage.
-it has a _UNK resolution.
-it will set you back 440 eur.
-yes, is there anything else you'd like?
-is there a particular brand that you require?
-the _UNK is the _UNK _UNK and the price is _UNK
-it is available in [smartphone_tablet_color]. it seems to be _UNK
-please take your reservation _UNK
-you are welcome.
+yes, we have a variety of cameras which processor are the best.
+okay, i'll give me to assist you.
+if you have any interests in terms of specifications?
+it has a maximum resolution of 640 pixels, 16 gb of storage.
+it has a battery capacity of keep mah.
+it will set you back just 210 eur.
+yes, is there anything else you'd like to purchase?
+i suggest you go for a smartphone model with the _UNK _UNK if you have a specific model in mind?
+okay, this is a very reliable brand.
+it costs set eur.
+please allow us your time.
+you're more than welcome.
 -----------------------------
 hello, i'm interested in purchasing a smartphone that i saw at a party last night. i don't know anything else about this phone, though. will you able to assist me?
 yes. i just have photos of that phone. this is the picture. https://fdn2.gsmarena.com/vv/bigpic/acer-iconia-smart-new.jpg
@@ -1262,18 +1264,18 @@ wow, that was incredible. that's fantastic. please continue with the billing pro
 no: no. you have to proceed only with this last model. firstly, i want to buy iconia one 8 b1:820. buy, it is not impressive.
 thank you.
 
-hello there. could you please show me any photos of that phone?
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-yes, this phone is from _UNK and it costs just a good option.
-it has 4 gb of internal memory and weighs _UNK g.
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-it's available in [smartphone_tablet_color].
-it has an internal memory of 16 gb and an effective memory of 16 gb.
-yes, it has an android and 4 gb of ram.
-yes, this is the most well-known brand.
+hello there. could you please tell me what your price point is?
+okay, this is a very phone was launched in _UNK and it is an excellent choice.
+yes, this phone has a maximum resolution of the pixels, you can _UNK that would be a great deal.
+it has 4 gb of internal memory and a wide range of _UNK
+okay, this is the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch display.
+it comes in black.
+it has a maximum resolution of 640 pixels, a low resolution is an effective pixels,
+yes, it has a maximum resolution of 640 pixels, low effective pixels, and a 15.6-inch focus range of _UNK
+sure, i'll give us just show you a few _UNK
 sure, shall i proceed with billing for both the items?
-okay, it has been booked for you with this address.
-thank you for stopping by, and we hope to see you again soon.
+okay, i'll book canon powershot _UNK and do you want anything else?
+welcome.
 -----------------------------
 hello, i'm trying to purchase a coding laptop. will you able to assist me?
 it should have a 1tb hdd and a windows operating system. my friend has an [laptop_brand] laptop, which i despise. please show me a different brand.
@@ -1286,16 +1288,16 @@ should these laptops come with a discount?
 i'll hold off until the next price decline.
 no, not at all. thank you.
 
-hello there. what may i do to assist you?
-okay, i'll got you some other models that you have in mind?
-it will set you back 440 euros.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and an 8-megapixel memory of 1 gb.
-this laptop has a fast 8 gb ram. the display on this model is _UNK
-this laptop has a higher _UNK this laptop is a decent _UNK for _UNK
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb _UNK
-yes, it costs just a reduced after the discount.
-is there anything else i could assist you with?
-you are welcome.
+hello there. could you please tell me what your price point is?
+okay, i'll give you some other models that meet your time.
+it costs 400 eur.
+it has a 128 gb m.2 ssd/1tb hdd for your needs.
+this model has a stunning 1920x1080 resolution and a _UNK touchscreen. you can purchase the asus vivobook phones that that
+the huawei matebook 3 _UNK by acer by asus is available in the black.
+[laptop_brand] geforce mx130 (2 gb) graphics card.
+yes, after the discount its price is 2299 eur.
+is there anything else you'd like to purchase?
+thank you very by, by, and we hope to see you again soon.
 -----------------------------
 hello, i've been searching for a decent smartphone for a while. could you please assist me?
 it's for my buddy, so i'll need it. for his online courses, he needs it. he also enjoys video games.
@@ -1313,20 +1315,20 @@ i suppose i'll have to order it. it is, after all, for educational purposes.
 i'll take this one, thanks. please continue with the billing process.
 thank you for your support.
 
-hello and good morning. please tell me what exactly do you want to learn more about?
-okay, it would be great if you could assist us with the model or feature preferences.
-okay, what colour do you like.
-okay, this is the [smartphone_tablet_brand] zenfone 3s 10 for you.
-it has a battery capacity of 4 gb while the main camera has a resolution of 13 megapixels, while the
-okay, i'll it.
-okay, i'll make a few that for you.
-it would just set you back just 440 eur.
-the cost is eur _UNK the price is 229 eur.
-is there a particular model that you'd like to be looking for a _UNK _UNK
-then the asus zenfone 3 deluxe 5.5 has a maximum resolution of 640 pixels, and a resolution of _UNK it
-the asus zenfone 2 deluxe _UNK is an excellent option.
-okay, i'll give you for your purchase.
-okay, and do you _UNK
+hello and good morning. i'm here to assist you. please let me know what you're looking for.
+okay, i'll a lenovo ideapad _UNK
+okay, i'll give us a few _UNK to you give this model is available. it's a good choice.
+okay, we have a lot of phones that meet your _UNK let us know what specifications you're looking for.
+it has a battery capacity of _UNK mah.
+okay, i'll _UNK as per at a _UNK
+do you have a favourite brand?
+the price of the cost is 1849 eur.
+the price is 1849 eur.
+what is the name of the brand?
+then you should think about the oppo _UNK which has a 15.6-inch touchscreen.
+the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch touchscreen.
+okay, i'll give us a few you.
+okay, this is the hp envy laptop is now as well as a reduced price of 270 eur.
 you're more than welcome.
 -----------------------------
 hello. will you be able to assist me in choosing an [smartphone_tablet_os] phone?
@@ -1343,19 +1345,19 @@ ok, please make a reservation for her at 43254785.
 and, of course.
 thank you for the assistance.
 
-hello there. may i know what you're your budget is?
-okay, _UNK do you require?
-this phone has a higher _UNK this laptop has a higher resolution than you can check this laptop is a
-what may i do to assist you?
-there are several options available to me. if you have any interests in terms of specifications?
-it comes with a 3000mah battery and 4 gb of ram.
-okay, so you should think your budget range, it would be fantastic. if you want to purchase that your price
-it will set you back 440 euros.
-if you can assist us with the _UNK i have it available for you.
-this phone has a higher resolution than you can purchase for everyday use.
-okay, i'll book it for you?
-thank you for stopping by, and we hope to see you again soon.
-thank you for stopping by, and we hope to see you again soon.
+hello there. may you tell me what features you'd want in your phone?
+okay, i'll _UNK the perfect _UNK do you have any interests in terms of specifications?
+it was a good decision. what is your budget?
+what would you like to spend your money on?
+okay, i'll give me a few number of if you have any interests in terms of specifications?
+it has a 15.6-inch main camera and an 8-megapixel secondary camera.
+if you have any interests in terms of specifications?
+it costs 400 euros.
+you can then _UNK for apple ipad _UNK it _UNK to be a good choice.
+if you have any interests in terms of specifications?
+okay, i'll do it.
+your booking no. is: _UNK
+you're more than welcome.
 -----------------------------
 hello and good evening. i'd like to purchase a laptop. i'm not sure which laptop is the best; could you assist me in purchasing one?
 it should have a 15.6-inch touchscreen, more internal ram, and a 1tb hard drive.
@@ -1370,16 +1372,16 @@ okay, it'll suffice. could you kindly take care of the billing? also, please hav
 okay, then just move on to billing.
 thank you so much.
 
-hello and good evening. what kind of phone do you want to learn more about?
-yes, we do, and its price is 170 eur.
-sure, this laptop has a 15.6-inch _UNK and the brand name is _UNK which is the most _UNK
-it has a maximum resolution of 640 pixels, 16 gb of storage.
-of course, it _UNK at least reduced price.
-the processor type is intel core _UNK and the graphics are nvidia geforce mx150 (2 gb) graphics card.
-intel core _UNK is the _UNK
-it is now at a reduced cost.
-the cost is eur _UNK
-yes, the price has been made.
+hello and good morning. please let me know if you have any interests in terms of specifications?
+yes, we do, and the cost is 180 eur.
+sure, see the asus aspire 3 a315-53 by acer _UNK only _UNK and it is also the most well-known
+it has a storage capacity of 64 gb and a storage capacity of 32 gb.
+of course, it _UNK for at least if you could assist us with your _UNK
+it has a 15.6-inch main camera and an 8-megapixel secondary cameras, as well as a built-in radio and gps system
+the asus _UNK is the most recent and the colour that we have a variety of this brand. could you
+sure, but it has a 15.6-inch _UNK
+the cost is 170 euros.
+yes, we have a _UNK in the market.
 great, it has been booked for you with ref. no.12345.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
@@ -1397,16 +1399,16 @@ okay, then just move on to billing.
 it gets much better.
 it's incredible. thank you so much for your time and support.
 
-hello there. if you have any interests in terms of specifications?
-okay, is there a particular model that you'd like to be looking for a specific requirements as the _UNK display
-okay, that's it. is there anything else you'd like?
-of course, _UNK it's the _UNK for you.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a range of _UNK
-it has an internal memory of 16 gb and an _UNK memory of 1 gb.
-okay, is there anything else you'd like?
-the mi max 2 costs the _UNK and two have 2 gb of ram.
-if you have any interests in terms of specifications?
-okay, what your requirements _UNK
+hello and good morning. do you have a favourite brand?
+yes, we do, and it costs 170 eur.
+it's a fantastic choice.
+okay, it would be a perfect _UNK for a _UNK decision.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, pixels, effective pixels, and a
+it has a built-in radio and gps system it and has 32 gb of internal memory.
+the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch cm display.
+the mi max 2 has 4 gb of internal memory and is available in _UNK
+okay, this model has better features if you have any interests in terms of specifications?
+it costs 170 euros. and has a 3000 mah battery and 4 gb of ram.
 great, it has been booked for you with ref. no.12345.
 it has been reserved for you with the reference number 1342355.
 you are welcome.
@@ -1425,19 +1427,19 @@ wow. that is too good. please proceed with billing.
 no: no. you have to proceed only with this last model. firstly, i want to buy the phone which i show you. buy, it is not impressive.
 thank you.
 
-hello there. could you please show me any photos of that phone?
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-yes, this phone has an intel core i5-8250u cpu, intel gma hd graphics, and a 1tb hard drive.
-it has 4 gb of internal memory and weighs _UNK g.
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-okay, this is the asus zenfone 3 deluxe 5.5 which costs the most well-known in market _UNK
-it's available in [smartphone_tablet_color].
-it has a maximum resolution of _UNK pixels, an effective pixels, 32 gb _UNK
-yes, it has an android and 4 gb of ram.
-yes, this is the most well-known brand.
+hello there. could you please tell me what your price point is?
+okay, this is a very phone was launched in _UNK and it is an excellent choice.
+yes, this phone has a maximum resolution of the pixels, you can _UNK that would be a great deal.
+it has 4 gb of internal memory and a wide range of _UNK
+okay, this is the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch display.
+okay, i'll give you some other models having better _UNK
+it comes in black.
+it has a 15.6-inch mah battery, 4 gb ram, and a 13-megapixel main camera, while it _UNK
+yes, it has a maximum resolution of 640 pixels, low effective pixels, and a 15.6-inch focus range of _UNK
+sure, i'll give us just show you a few _UNK
 sure, shall i proceed with billing for both the items?
-okay, it has been booked for you with this address.
-thank you for stopping by, and we hope to see you again soon.
+okay, it has been reserved for you with this address.
+welcome.
 -----------------------------
 hello there, will you able to assist me?
 i'd like to buy a mobile.
@@ -1450,13 +1452,13 @@ and, of course.
 thank you so much for your support.
 
 hello there. what may i do to assist you?
-do you have any other requirements?
-sure, i'll show you some other models that are your reservation and have in mind?
-okay, this is the asus zenfone 3 deluxe 5.5 zs550kl
-this model is pavilion and it costs _UNK after a discount.
-it comes with a colour of the phone which looks similar in colour.
-okay, that's it. thank you for _UNK by, and has been made.
-thank you for stopping by, and we hope to see you again soon.
+what is the name of the brand?
+yes, it is a good option. what is a decent laptop that you like to spend your _UNK
+okay, this is the asus zenfone 3 deluxe 5.5 zs550kl which has a 15.6-inch cm display.
+if you could show you a samsung model, in a very elegant colour.
+it comes with a _UNK gold colour that gives you a stunning appearance.
+okay, that's this phone is priced at _UNK
+your booking no. is: _UNK
 you're more than welcome.
 -----------------------------
 hello. i'd like to purchase a current-model laptop. could you show me a laptop like that?
@@ -1471,15 +1473,15 @@ so, please continue with the invoice.
 it gets much better.
 it's incredible. thank you so much for your time and support.
 
-hello there. yes, we have a variety of phones that meet these specifications; do you have any additional requirements?
-okay, here is the samsung galaxy a9 pro (2016), which have a 4 gb ram and a 15.6-inch mah battery.
-okay, so you should think your budget range, _UNK _UNK _UNK and it costs _UNK
-it has a maximum resolution of 640 pixels, and a resolution of _UNK
-it is just a very capable of _UNK and its storage capacity of storage capacity are several _UNK and it
-[laptop_brand] storage capacity is the only the huawei matebook that costs the most well-known and it is on demand right
-intel graphics are well-known and it comes with a graphics card and has a 15.6-inch touchscreen.
-of course, it _UNK at least reduced price.
-great, it has been booked for you with ref. no.12345.
+hello there. what may i do to assist you?
+okay, here are few models that are your similar at the _UNK
+okay, i'll give me to _UNK for you.
+it has a 1tb hdd that you will be able to take a good _UNK
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+okay, i'll give us any other brands that your _UNK
+the graphics are nvidia geforce mx130 (2 gb) graphics card.
+of course, it _UNK for at least if you could assist us with your _UNK
+it has been reserved for you with the reference number 1342355.
 it has been reserved for you with the reference number 1342355.
 you are welcome.
 -----------------------------
@@ -1496,15 +1498,15 @@ okay, then just move on to billing.
 it gets much better.
 it's incredible. thank you so much for your time and support.
 
-hello and good morning. please tell me what exactly do you want to learn more about?
-the asus zenfone 2 deluxe _UNK has a 3000 mah battery and 4 gb of ram.
-do you have a favourite brand?
-it has a maximum resolution of pixels, pixels, pixels, pixels, pixels, pixels, and a range of _UNK
-yes, it has an android and 4 gb of ram.
-the price is _UNK eur.
-it comes with a colour of the phone looks _UNK
-it has a maximum resolution of pixels, pixels, pixels, pixels, pixels, pixels, 16 megapixel and secondary camera with an _UNK
-okay, here is the [laptop_brand] envy _UNK
+hello and good morning. i'm here to assist you. please let me know what you're looking for.
+okay, i'll give me a minute. you will good look at the _UNK
+okay, i'll give us just wanted to be of assistance to you.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixels,
+yes, it has a maximum resolution of 640 pixels, low effective pixels, and a 15.6-inch focus range of _UNK
+it costs _UNK euros.
+it comes with a _UNK gold colour that gives you a stunning appearance.
+it has been reserved for you with the reference number _UNK
+sure, i'll _UNK your _UNK
 great, it has been booked for you with ref. no.12345.
 it has been reserved for you with the reference number 1342355.
 you are welcome.
@@ -1528,22 +1530,22 @@ ok, can you pack this phone?
 i will pay by card.
 
 hello and good morning. what may i do to assist you?
-what are your basic requirements?
-may i inquire about your phone budget?
-okay, is there a particular brand that you require? that would be fantastic.
-it has an internal memory of 16 gb and an 8-megapixel memory of 1 gb.
-yes, this phone is android and weighs just 170 g.
-the maximum resolution is _UNK and the _UNK resolution is of _UNK and the _UNK focus range of _UNK and
-the cost is eur _UNK
-the asus zenfone 3 deluxe 5.5 are the colour that _UNK it's an _UNK eur.
-it has an internal memory of 16 gb and an 8-megapixel memory of 1 gb.
-the battery capacity is _UNK
-it is just around around 170 eur.
-the asus zenfone 2 deluxe _UNK which has a 3000 mah battery and 4 gb ram.
-it has a 15.6-inch touchscreen.
-this is the discounted price.
-sure, how will be the _UNK to assist you in this endeavour.
-okay, so will you _UNK your reservation by, _UNK and nikon coolpix _UNK
+it's currently and it would be fantastic. if you could assist us with your budget range,
+what do you have a favourite brand?
+what is the name of the brand?
+it has a 15.6-inch _UNK
+this ipad comes with an internal memory of 16 gb and an internal memory of 16 gb and an internal
+the one galaxy a9 pro comes with a _UNK screen. it has a 15.6-inch touchscreen.
+it costs 400 eur.
+the asus zenfone has a 3000 mah battery and 4 gb ram, and a 3000mah battery and 4gb of ram.
+it has a 15.6-inch _UNK
+it has a 15.6-inch focus range and an intel core i5-8265u cpu, graphics card.
+it costs just euros.
+okay, i'll be a decent _UNK
+it has a 15.6-inch cm display size and dual sim slots.
+this is the _UNK price _UNK it costs 2299 eur after the discount.
+sure, i'll give me a minute. your price point or and _UNK
+thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello and good morning. will you able to assist me?
 i'd like to purchase a laptop.
@@ -1559,17 +1561,17 @@ wow, that's fantastic. please make this reservation for me.
 thank you.
 
 hello and good morning. what may i do to assist you?
-please tell me if you have any specific requirements in terms of specifications?
-we have a lot of option from various brands. could you please tell me what requirements and have a price
-okay, this is the best phone that looks _UNK it's an acer _UNK
-the price is 1699 eur.
-this item is the best from the xiaomi brand, and it is still one that your most _UNK
-okay, do you have any other preferences in mind?
-after discount, the lenovo ideapad s340 costs 1849 eur.
+if you have any interests in terms of specifications?
+yes, we have a lot of option so please let me know what specifications you're looking for.
+okay, i'll book this for you. do you have any interests in terms of specifications?
+it costs 400 euros.
+this item is the best from the xiaomi brand, and it is in high demand these days.
+okay, i'll give me a minute. your smartphone to your _UNK
+okay, i'll do you have any interests in terms of specifications?
 well, it is the most well-known and reliable brand.
 it is equipped with an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
-okay, the reservation has been made.
-thank you for stopping by, and we hope to see you again soon.
+okay, that's it. the reservation has been made.
+welcome.
 -----------------------------
 hello there. will you able to assist me?
 for my daughter, i'd like to purchase a camera. her ambition is to work as a travel photographer.
@@ -1584,16 +1586,16 @@ wow, that's fantastic. please make this reservation for me.
 thank you.
 
 hello there. what may i do to assist you?
-we do, but it has a 15.6-inch touchscreen.
 do you have a favourite brand?
-this item is the best from the xiaomi brand, and it is still one that your most _UNK
+yes, we do, and it costs 170 euros.
+this item is the best from the xiaomi brand, and it is in high demand these days.
 could you please tell me what your price point is?
-please see canon powershot a310, which costs 280 eur.
+please see canon powershot _UNK which costs 139 eur.
 well, it is the most well-known and reliable brand.
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and a _UNK _UNK
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-okay, the reservation has been made.
-thank you for stopping by, and we hope to see you again soon.
+it is equipped with an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
+the cost is 280 euros.
+okay, that's it.
+welcome.
 -----------------------------
 hello there. will you able to assist me?
 i'd like to purchase a laptop.
@@ -1608,16 +1610,16 @@ please just book the [laptop_brand] ideapad s340.
 thank you.
 
 hello there. what may i do to assist you?
-please tell me if you have any specific requirements in terms of specifications?
-after discount, the lenovo ideapad s340 costs 1849 eur.
+if you have any interests in terms of specifications?
+okay, i'll do you have any interests in terms of specifications?
 well, it is the most well-known and reliable brand.
 it is equipped with an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
-okay, the reservation has been made.
-it has a maximum resolution of pixels, pixels, pixels, pixels, pixels, 16 megapixel and 8 gb of storage.
-the price is 1699 eur. do you want to purchase it?
-it is a _UNK _UNK you should see canon _UNK that _UNK for _UNK _UNK
-okay, your order has been made.
-thank you for stopping by, and we hope to see you again soon.
+okay, that's it.
+it has a maximum resolution of an 8 effective pixels, an effective pixels, and a secondary camera as well as
+it costs 400 euros.
+it is an android phone with dual sim slots and an inbuilt gb of ram.
+okay, your order has been _UNK and will be delivered soon.
+welcome.
 -----------------------------
 hello and good morning. i'm looking for a laptop.
 i'm looking for an [laptop_brand] [laptop_model] laptop.
@@ -1630,15 +1632,15 @@ how much does it cost?
 ok, please make a reservation for both items.
 thank you so much.
 
-hello and good morning. do you have any brand or model or feature preferences.
-okay, like to see it. it's an acer _UNK and the colour of choice.
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-yes, it is discounted price.
-okay, i'll book your reservation for you.
-if you have any interests in terms of specifications?
-it has a maximum resolution of pixels, pixels, pixels, pixels, pixels, 16 megapixel and secondary camera.
-it costs just 500 euros.
-okay, i'll book it for you?
+hello and good morning. do you have a favourite model?
+[smartphone_tablet_brand] phones are in high you give us a _UNK
+it has a storage capacity of 4 gb.
+it is just a reduced price.
+okay, i'll book canon eos-1d mark s340 is a phone.
+this laptop has a 15.6-inch touchscreen.
+it has a maximum resolution of an 8 gb of internal memory and an inbuilt gps.
+it costs 400 euros.
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there! i'd like to purchase a laptop.
@@ -1652,15 +1654,15 @@ what is the size of it?
 could you please make a reservation for me?
 thank you so much.
 
-hello and good morning. do you have any brand or model or feature preferences.
-do you have a favourite brand?
-do you want to purchase it?
-okay, what features do you require?
-the asus zenfone 3 deluxe 5.5 5.5 5.5 which costs 280 eur.
-it is just a reduced price.
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-it is equipped with an intel core i5-8265u cpu, intel hd graphics 620 graphics, and a 1tb hard drive.
-okay, i'll make a minute.
+hello and good morning. do you have a favourite brand?
+what is the name of the phone that you have _UNK
+please see the asus vivobook 14 size.
+the asus zenfone 3 deluxe 5.5 has a battery capacity of 4 gb and a storage capacity of 16 gb.
+please see the lenovo ideapad s340 which costs a stunning colour and can store up to the this phone in
+it has been reserved for you can _UNK for the _UNK day.
+it has a storage capacity of 4 gb.
+it weighs 210 g including the battery.
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 good morning, i'd like to purchase a camera.
@@ -1673,14 +1675,14 @@ could you please tell me what it's made of?
 could you please make a reservation for me?
 thank you so much.
 
-hello and good morning. please tell me what exactly that would be fantastic.
-if you have a favourite brand?
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and an _UNK memory of 5 star and
-it has a maximum resolution of 640 pixels, a resolution of _UNK pixels, set you with the range of storage.
-could you please tell me what your price point is?
-please see canon powershot a310, which costs 280 eur.
-it has an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-okay, i'll make a minute.
+hello and good morning. please let me know if you have any interests in terms of specifications?
+if you have any interests in terms of specifications?
+the asus zenfone 3 deluxe 5.5 zs550kl which has a battery capacity of okay, mah.
+yes, it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK
+it has a 15.6-inch _UNK and an intel core i5 cpu, 128 gb (pcie hdd and a 1tb hard drive.
+please see canon powershot _UNK which costs 139 eur.
+it has a maximum resolution of 640 pixels, which was released in _UNK and it has a 15.6-inch touchscreen.
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. will you able to assist me?
@@ -1697,15 +1699,15 @@ thank you.
 
 hello there. what may i do to assist you?
 if you have any interests in terms of specifications?
-we have a lot of phones that meet these specifications; do have a price point in mind?
-then you should think about the model of your _UNK
-it has a maximum resolution of _UNK pixels, an effective pixels, and a storage capacity of 5 megapixels.
-the price is _UNK eur.
-this item is the best from the xiaomi brand, and it is still is in high demand these days.
-it has a maximum resolution of 5 effective pixels, and it comes in black.
-okay, i'll be happy to make a your booking id: 2323xxx.
+the asus zenfone has a battery capacity of keep you back has 4 gb ram and a 3000 mah battery.
+we do, in reality, _UNK could you please let me know what you're looking for.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+it costs 400 euros.
+it has been reserved for you with the reference number _UNK
+it comes in a higher gold colour and do some other models that you are looking for?
+okay, i'll make a reservation for you.
 welcome, please visit again.
-thank you for stopping by, and we hope to see you again soon.
+welcome.
 -----------------------------
 hello there. will you able to assist me?
 i'd like to purchase a laptop.
@@ -1722,17 +1724,17 @@ please make a reservation for me.
 thank you so much.
 
 hello there. what may i do to assist you?
-please tell me if you have any specific requirements in terms of specifications?
+if you have any interests in terms of specifications?
 do you have a favourite brand?
-okay, do you have a favourite brand?
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and costs of ram.
-it is available for just a reduced of _UNK
-yes, it has a maximum resolution of _UNK pixels, 3 effective pixels, and a battery capacity of _UNK
-it is _UNK gold in colour.
-okay, do you have any other requirements in mind?
-we have a variety of models from various brands. could you please tell me what requirements and have in mind?
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and a _UNK _UNK
-okay, i'll book it for you?
+okay, i'll _UNK some of the asus aspire 10 _UNK which is available for _UNK
+it comes with a 15.6-inch battery, 4 gb ram, and 64 gb of internal memory.
+it costs 400 eur.
+yes, it costs just a reduced price of _UNK
+it has a maximum resolution of pixels, pixels, effective pixels, 13 effective pixels, and a secondary camera with an internal
+what your price point is?
+this is the discounted price.
+it has a maximum resolution of 640 pixels, which was released in _UNK and it has a 15.6-inch touchscreen.
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. will you able to assist me?
@@ -1749,16 +1751,16 @@ no, please just reserve a laptop.
 thank you so much.
 
 hello there. what may i do to assist you?
-we have a variety of models from various brands. could you tell me what you'd you're looking for?
-yes, we do, and it costs released in 2007 _UNK it is a _UNK deal.
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a _UNK _UNK
-yes, it is discounted price.
-okay, just one _UNK the phone has a large battery power and 4 gb of ram.
-we have it, and it costs one of the best in the market at the colour you are looking for.
-it has an intel core i5-8265u cpu, intel hd graphics 6000 graphics, and a 1tb hard drive.
-the maximum resolution is _UNK and the _UNK resolution is of _UNK pixels, and low resolution is there a 8
-okay, i'll book it for you?
-okay, your reservation has been made.
+please let me know if you have any specific features in mind?
+what is your budget?
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, pixels, pixels, pixels, pixels, and
+it is just a reduced price.
+what may you do to assist you?
+we have a variety of cameras from various brands. please let me know what you're looking for.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixel
+it has a 15.6-inch main camera and an 8-megapixel secondary camera.
+okay, i'll make a reservation for you.
+okay, i'll make a minute.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there. will you able to assist me?
@@ -1774,15 +1776,15 @@ ok, please make a reservation for me.
 thank you so much.
 
 hello there. what may i do to assist you?
-can i inquire as to what you'd do you want to learn more about?
-yes, we do, and the price of the price after discount with its price is _UNK
-it has a maximum resolution of _UNK pixels, pixels, pixels, pixels, pixels, and a _UNK _UNK
-this phone is an excellent choice. it has been reserved for you with this address.
-yes, we do, and it costs a fantastic camera with a resolution of _UNK and a 15.6-inch touchscreen.
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-it comes in a gold colour and is available for 1849 eur.
-can i book it for you?
-okay, i'll book it for you?
+okay, we have a variety of cameras. can you please tell me what your price point is?
+this is the samsung galaxy s7 pro, in _UNK
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, pixels, pixels, pixels, pixels, pixels, and
+okay, could you please tell me what your price point is?
+okay, do you have any interests in terms of specifications?
+it has a 3000mah battery, 4 gb ram, 13 secondary camera, and eight secondary cameras, and a 3000mah secondary camera.
+it comes in a _UNK gold colour.
+then you should think _UNK _UNK _UNK it has a 4000mah battery and 4gb of ram. it also has a
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello, could you please show me a camera?
@@ -1796,15 +1798,15 @@ what colour is it?
 ok, please make a reservation for me.
 thank you so much.
 
-hello and good morning. if you have any interests in terms of specifications?
-we have a variety of models from various brands. could you please tell me what requirements and have in mind?
-it has a maximum resolution of pixels, pixels, pixels, effective pixels, and a _UNK _UNK
-okay, i'll book it for you?
-we have a lot of phones that meet these specifications; do you have any additional requirements?
-well, in the [smartphone_tablet_brand] that has a good option. what is your budget?
-it comes with a 3000mah battery, 4 gb ram, and a dual main camera and an 8-megapixel secondary camera.
-it's available in [smartphone_tablet_color].
-okay, i'll book it for you?
+hello and good morning. please let me know if you have any specific features in mind.
+this is the discounted price.
+it has a maximum resolution of 640 pixels, which was released in _UNK and it has a 15.6-inch touchscreen.
+okay, i'll make a reservation for you.
+what is the name of the brand?
+there are several other models that you with a _UNK
+it comes with a _UNK mah battery, 4 gb ram, and a 13-megapixel main camera, and an 8-megapixel secondary camera.
+it comes in black.
+okay, i'll make a reservation for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello, may you please assist me in purchasing a phone?
@@ -1819,16 +1821,16 @@ what is the cost?
 no thanks, i'll book my tablet, and the laptop is too expensive. when the price fall, i'll order.
 thank you so much.
 
-hello and good morning. please let me know if you have any specific requirements in terms of specifications?
-could you please tell me what your price point is?
-then the xiaomi xiaomi pro might be an acer _UNK it _UNK in _UNK
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and costs of storage.
-it's available in [smartphone_tablet_color].
-yes, it has an android main camera and a secondary camera with an 8-megapixel memory of 16 megapixels.
-okay, i will book it in your name.
-yes, it comes with a 3000 mah battery, 4 gb ram, a 13-megapixel main camera, and a 13-megapixel secondary camera.
-it is available for just a reduced of _UNK
-okay, your [smartphone_tablet_brand] _UNK _UNK will be _UNK the phone and has a 15.6-inch touchscreen.
+hello and good morning. please let me know if you have any specific features in mind.
+okay, i'll give us a few of course. what exactly do you want to learn more about it?
+please see the asus vivobook 14 x412ub which has a 15.6-inch touchscreen.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixels,
+it comes in black.
+yes, it is an excellent choice.
+okay, i'll book this for you.
+yes, it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK
+it costs 400 eur.
+okay, your order will be worth a few _UNK
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello, may you please assist me in purchasing a phone?
@@ -1843,16 +1845,16 @@ what is the cost?
 no thanks, the price of my phone and laptop is too high. when the price fall, i'll buy it.
 thank you so much.
 
-hello and good morning. please let me know if you have any specific requirements in terms of specifications?
-okay, so you should think your budget for the purchase.
-then the xiaomi xiaomi pro might be an acer _UNK it also has a built-in gps system.
-it has a maximum resolution of _UNK pixels, pixels, effective pixels, and a _UNK focus range and costs of storage.
-it's available in [smartphone_tablet_color].
-okay, it has been booked for you with ref. no.12345.
-okay, i will book it in your name.
-yes, it comes with a 3000 mah battery, 4 gb ram, a 13-megapixel main camera, and a 13-megapixel secondary camera.
-it is available for just a reduced of _UNK
-okay, that's it.
+hello and good morning. please let me know if you have any specific features in mind.
+okay, i'll _UNK you updated.
+please see the asus vivobook 14 x412ub which has a 15.6-inch touchscreen.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixels,
+it comes in black.
+it has a 15.6-inch _UNK for an android operating system and a lot of _UNK
+okay, i'll make a reservation for you.
+yes, it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK
+it costs 400 eur.
+okay, i'll make a few for you.
 thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 good morning, i'd like to purchase a phone.
@@ -1868,18 +1870,18 @@ its characteristics are inferior to those of the previous one.
 thank you, so i'll buy it in a few days when the price drops.
 no, thank you.
 
-hello and good morning. please let me know if you have any specific brand or model in mind.
-we have a lot of option that meet the best for _UNK if you have any interests in terms of
-okay, this is the best phone that looks _UNK as this phone has a 4 gb ram and a 15.6-inch
-it has a maximum resolution of _UNK pixels, an resolution of _UNK pixels, and a resolution of _UNK pixels, has
-it will set you back 440 eur.
-it is just a reduced price.
-this phone is _UNK and the colour are _UNK and _UNK display size with _UNK
-the asus zenfone 3 deluxe 5.5 zs550kl is the best phone for you. you are looking for other brands as
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-this phone has a stunning 1920x1080 resolution.
-okay, i will book it in my with 15.6 inch display screen with an intel core i5-8265u cpu, and a
-thank you for stopping by, by, we hope to see you again soon.
+hello and good morning. do you have a favourite model? please let me know.
+do you have a favourite brand?
+we have a variety of cameras from various brand. please let me know if you have any interests in terms
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK pixels,
+it would just set you back just 210 eur.
+yes, we have a _UNK in the market. it seems to be fantastic.
+it has a maximum resolution of 640 pixels, a low resolution of pixels, pixels, effective pixels, and a _UNK of
+please see the lenovo ideapad s340 which has a 15.6-inch touchscreen.
+the cost is 280 euros.
+if you want only a lenovo product. i have a favourite brand?
+is there anything else you'd like to see on your phone?
+thank you for stopping by, and we hope to see you again soon.
 -----------------------------
 hello there! i'd like to purchase a laptop.
 [laptop_brand] [laptop_model]-cf0007nx is what i'm looking for.
@@ -1894,16 +1896,16 @@ what about the cost?
 please just book this phone for me.
 thank you.
 
-hello and good morning. do you have any brand or model or feature preferences.
-yes, we do, and its price is _UNK eur.
-it has a maximum resolution of pixels, pixels, pixels, pixels, pixels, 16 megapixel and a secondary camera with an _UNK
-okay, it has been booked for you with ref. _UNK
-it is available for just a reduced of _UNK
-yes, it is discounted price.
-okay, this is the asus zenfone 3 deluxe 5.5 which brand and it comes with a fast 8 gb ram.
-it has been reserved for you with the reference number 1342355.
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-the cost is 170 euros.
-okay, that's it. thank you for your purchase.
-thank you for stopping by, and we hope to see you again soon.
+hello and good morning. do you have a favourite brand?
+there are several other models that you can _UNK for a specific brand?
+okay, it has been reserved for you.
+please let me know if you have a favourite brand?
+it costs set eur. you will save the phone to you that we have _UNK and its price is 170
+it is just a reduced price.
+okay, i'll give me a minute. your smartphone to _UNK
+yes, it has a maximum _UNK of _UNK
+it has a storage capacity of 4 gb.
+it costs _UNK euros.
+okay, your order will be happy
+welcome.
 -----------------------------
