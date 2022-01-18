@@ -127,17 +127,17 @@ def decode(num=1):
                 cnt1 += 1
                 file1.write(resp)
                 file1.write("\n")
-            input_tensor = [];  target_tensor = [];bs_tensor = [];db_tensor = [];persona_tensor = [];senti_tensor = []
-            input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor = util.loadDialogue(model, val_file, input_tensor, target_tensor, bs_tensor, db_tensor, persona_tensor, senti_tensor)
+            input_tensor = [];  target_tensor = [];senti_tensor = []
+            input_tensor, target_tensor, senti_tensor = util.loadDialogue(model, val_file, input_tensor, target_tensor, senti_tensor)
             # create an empty matrix with padding tokens
             input_tensor, input_lengths = util.padSequence(input_tensor)
             target_tensor, target_lengths = util.padSequence(target_tensor)
-            bs_tensor = torch.tensor(bs_tensor, dtype=torch.float, device=device)
-            db_tensor = torch.tensor(db_tensor, dtype=torch.float, device=device)
-            persona_tensor = torch.tensor(persona_tensor, dtype=torch.float, device=device)
+            # bs_tensor = torch.tensor(bs_tensor, dtype=torch.float, device=device)
+            # db_tensor = torch.tensor(db_tensor, dtype=torch.float, device=device)
+            # persona_tensor = torch.tensor(persona_tensor, dtype=torch.float, device=device)
             senti_tensor = torch.tensor(senti_tensor, dtype=torch.float, device=device)
 
-            output_words, loss_sentence = model.predict(input_tensor, input_lengths, target_tensor, target_lengths, db_tensor, bs_tensor, persona_tensor, senti_tensor)
+            output_words, loss_sentence = model.predict(input_tensor, input_lengths, target_tensor, target_lengths, senti_tensor)
             for output_line in output_words:
                 file2.write(output_line)
                 file3.write(output_line)
