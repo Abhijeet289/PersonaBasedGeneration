@@ -97,7 +97,7 @@ def decode(num=1):
 
     file1 = open('gold.txt', 'w')
     file2 = open('gene.txt', 'w')
-    file3 = open('human_eval.txt', 'w')
+    file3 = open('user.txt', 'w')
 
     dict1 = {}
     dict2 = {}
@@ -117,16 +117,25 @@ def decode(num=1):
         # VALIDATION
         val_dials_gen = {}
         valid_loss = 0
+        usr_utter = []
+        sys_utter = []
+        gen_utter = []
+        dialogue_cnt = 1
         for name, val_file in val_dials.items():
             for sent in val_file['usr']:
-                file3.write(sent)
-                file3.write('\n')
-            file3.write('\n')
+                sent = sent.replace("\n", " ")
+                usr_utter.append(sent)
+                if dialogue_cnt < 21:
+                    file3.write(sent)
+                    file3.write("\n")
             for resp in val_file['sys']:
+                resp = resp.replace("\n", " ")
+                sys_utter.append(resp)
                 dict1[cnt1] = resp
                 cnt1 += 1
-                file1.write(resp)
-                file1.write("\n")
+                if dialogue_cnt < 21:
+                    file1.write(resp)
+                    file1.write("\n")
             input_tensor = [];  target_tensor = [];persona_tensor = [];
             input_tensor, target_tensor, persona_tensor = util.loadDialogue(model, val_file, input_tensor, target_tensor, persona_tensor)
             # create an empty matrix with padding tokens
@@ -139,15 +148,17 @@ def decode(num=1):
 
             output_words, loss_sentence = model.predict(input_tensor, input_lengths, target_tensor, target_lengths, persona_tensor)
             for output_line in output_words:
-                file2.write(output_line)
-                file3.write(output_line)
+                gen_utter.append(output_line)
+                if dialogue_cnt <  21:
+                    output_line = output_line.replace("\n", " ")
+                    file2.write(output_line)
+                    file2.write("\n")
                 dict2[cnt2] = output_line
                 cnt2 += 1
-                file2.write("\n")
-                file3.write('\n')
-            file3.write("-----------------------------\n")
             valid_loss += 0
             val_dials_gen[name] = output_words
+
+            dialogue_cnt += 1
 
         print('Current VALID LOSS:', valid_loss)
         with open(args.valid_output + 'val_dials_gen.json', 'w') as outfile:
