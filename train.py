@@ -103,6 +103,7 @@ def trainIters(model, n_epochs=10, args=args):
         # random.shuffle(dials)
         input_tensor = [];target_tensor = [];persona_tensor = [];
         for name in dials:
+            # print("name : ", name)
             val_file = train_dials[name]
             model.optimizer.zero_grad()
             model.optimizer_policy.zero_grad()

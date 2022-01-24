@@ -49,6 +49,7 @@ def loadDialogue(model, val_file, input_tensor, target_tensor, persona_tensor):
 
         # bs_tensor.append([float(belief) for belief in bs])
         # db_tensor.append([float(pointer) for pointer in db])
+        # print(idx)
         persona_tensor.append([float(pointer) for pointer in persona])
         # senti_tensor.append([float(pointer) for pointer in senti])
 
