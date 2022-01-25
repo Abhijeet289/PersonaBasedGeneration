@@ -1,233 +1,167 @@
-hello . we do have smartphones for selling.
-please see the samsung galaxy j7 max in [smartphone_tablet_color] with 4 gb ram.
-it comes with a 3300mah battery, 4 gb ram, and 13 secondary cameras.
-we do, but do you have a price point in mind?
-please see the gionee a1, which costs 280 eur.
-it comes with a 4010 mah battery, 4 gb ram, a 13-megapixel main camera, and a 16-megapixel secondary camera.
-the cost is 280 euros.
-so, can i make a booking?
-your samsung galaxy j7 max has been booked.
-welcome, please visit again.
-hello and good morning. yes, we have a large camera range.
-there are several options available to us. please include a few more info.
-do you have a budget in mind?
-please see agfa ephoto 1280, which has a focus range of 70 normal.
-it has a maximum resolution of 1024 pixels, 38 wide zoom, and 114 tele zoom.
-it has a storage capacity of 4 gb.
-it's worth 179 euros.
-it is a well regarded and reliable item.
-okay, that's it. the reservation has been made. is there anything else i can do to help you?
-welcome, please visit again.
-hello and good morning. please let me know if you have any specific features in mind.
-can you have a preferred brand or price range?
-do you want an intel core i3 or intel core i5 processor?
-both processors are capable. the intel i5 chip is a high-performance processor.
-please take a look at the i5 lenovo ideapad s340, which has a 14-inch touchscreen.
-it is equipped with an intel core i5-8265u cpu, intel gma hd graphics, and a 1tb hard drive.
-intel graphics are well-known and have a once-in-a-lifetime experience.
-it is 2099 eur before the discount, but it is 1849 eur after the discount.
-okay, sure. it's no matter. is there anything else i can do to help you?
+sure. can i know what are your requirements?
+hello, sure we have blue color phone. is there any features you want in your phone?
+no problem, nubia prague s by zte is a good phone in the market meeting all your requirements.
+it is 424 pixel.
+a larger screen provides many benefits. it makes viewing movies and playing games more enjoyable.
+okay no problem, g2 lite by lg is a good phone to. o
+it is 100 euro.
+sure, i will gift wrap it. your booking reference number is 1212_25.
 you are welcome.
-hello and good morning. what may i do to assist you?
-which one are you most interested in seeing first?
-whose specifications are you looking for?
-please take a look at the asus vivobook 14 x412ub.
-the cpu is an intel core i5-8250u, and the graphics are nvidia geforce mx110 (2 gb).
-it has a 1tb hard drive.
-it is worth 2799 eur.
-yes, it would cost 2299 eur after the discount.
-it is the most trustworthy and well-known brand. a 14-inch display adds to its uniqueness and beauty.
-do you have a budget in mind?
-the lenovo ideapad 330s-14ikb is available for 1849 eur after a discount.
-it is equipped with an intel core i5-8250u cpu, intel uhd graphics 620 graphics, and a 1tb hard drive.
-booking is made. your booking id is 6876**vhj.
-welcome, please visit again.
-hello. can you tell me which brand or type of phone you are looking for?
-yes, we have a lot of phones with similar specs; do you have any other requirements?
-yes, i have [smartphone_tablet_brand]l s6 pro, which is a dual-sim 4g phone.
-it comes in the colour rose gold.
-then the gionee model s6 pro, which comes in rose gold, is the phone for you. it is appropriate for your needs.
-it has dual sim slots and 4 gb of ram. it also has a big display.
-it's a 4g dual-sim handset. despite the fact that the phone was launched in 2016, it remains one of gionee's best-selling models.
-it costs around 390 eur.
-yes, it has a main camera with 13 megapixels and a secondary camera with 8 megapixels.
-yes, it is discounted price.
-great, it has been booked for you with ref no 121578.
-you are most welcome, thanks for buying from us.
-good morning. i've come to help. only tell me what you're looking for and i'll do my best to accommodate you.
-hundreds of cameras are at your disposal to help you with this endeavour. could you go through some of the specifications in greater detail?
-take a look at what you're seeing here. the canon eos-1d mark ii is a standard camera that has a high resolution of 3504 pixels and a minimum resolution of 3104.
-they have a pixel size of 8 pixels that is effective. have you thought of something else?
-is there a price point in mind for you?
-it is just 4499 eur.
-that's right. what characteristics are you seeking?
-take a look at what you're seeing here. oppo's 'r9s plus' model comes with a 4g dual-sim card slot and 64 gb of internal memory.
-this phone is rated 'a' and comes in a common black colour.
-it would just set you back 570 eur.
-the billing process is now final. is there anything else i can do to help you?
+what type of phone you want?
+sure, mate 9 by huawei. it has [smartphone_tablet_ram] gb ram and 373 pixel.
+radio does not work on this phone.
+if [smartphone_tablet_radio]ou leave radio jack aside, this phone is reall[smartphone_tablet_radio] good.
+w909 by gionee is in great demand these days.
+yes it works.
+ok booking confirmed.
+welcome.
+lovely, any specific features you are looking for in your phone?
+xperia xz premium b[smartphone_tablet_gps] son[smartphone_tablet_gps] has displa[smartphone_tablet_gps] size of 807 pixel and is widel[smartphone_tablet_gps] used for gps.
+it is 750euro.
+at this price you will definitely get better possesor, more ram and more storage
+you can buy xperia z5 premium dual by sony. it also has display screen of 801 pixeland price is also 510 euro.
+it is chrome.
+it is 180 gms.
+sure, i am booking it for you.
+you are always welcome. its my pleasure.
+good evening, please tell me your model no or requirements.
+mate 9 by huawei will be a [smartphone_tablet_ram] choice. its storage is 64 gb.
+it is agate red.
+no it does not work.
+most of the good phone does not have radio.
+then g4 stylus by lg will be a perfect choice for you with good memory.
+it is 250euro. it is a new phone in the market. you will love it.
+great choice, i am booking it for you.
+my pleasure.
+sure, any specific model are you looking for?
+you can buy moto e3 power by [smartphone_tablet_brand]. it is a sturdy phone.
+it is 16 gb.
+this phone has expandable memory storage. you can use sd card to increase the space.
+it is 130 euro.
+it is black in color.
+yes sure, here is your booking 56433****.
+welcome and thank you so much for choosing us.
+lovely, any specific features you are looking for?
+m2017 b[smartphone_tablet_gps] [smartphone_tablet_brand] is gps operated with displa[smartphone_tablet_gps] size of 515 pixel .
+it is 1150 euro.
+at this price you will definitely get a better possesor, more ram and more storage.
+you can buy elife e8 by gionee. it also has display screen of 490 pixel and price is also 480 euro.
+it comes in beautiful black color.
+it is 210 gms. which is easily carried by him anywhere.
+sure, i am booking it for you.
 you are welcome.
-hello and good day! sure. i'll do everything i can to meet your expectations. please let me know what you're looking for or what you'd like to see.
-yes, that's fine. is there anything else about the phone that you'd like to see?
-could you tell me if you have a favorite brand?
-if a good camera is your primary requirement, you might consider purchasing one.
-i'm just curious if you're certain.
-do you want to examine any tablet?
-and do you have a cell phone? 
-you have a phone as well as a tablet. what you really need, in my opinion, is a good camera, which will be used exclusively for photography.it may be the best option for you.
-so, what have you planned now?
-welcome and please visit again.
-hello and good morning. yes, please let me know how i can assist you.
-i was also curious whether you had misplaced it or if you wished to purchase one.
-so, do you have a particular brand preference right now?
-are you hunting for a certain color?
-you must provide me with some sort of detail in order for me to assist you.
-yes, it might be beneficial.
-luminous chrome is the name of the product. sony's xperia xz premium edition.
-are you interested in learning more about the product? 
-it has a 3230 mah battery and a fast 4 gb ram.
-it has a main camera with a resolution of 19 megapixels and a secondary camera with a resolution of 13 megapixels.
-it has a storage capacity of up to 64 gb. it will set you back 750 euros.
-hello and good afternoon. yes, from which brand would you like to begin your explore?
-if you have any basic requirements in mind right now?
-i'd like to know how much you're willing to spend.
-if you have a specific model in mind right now?
-well, the gionee f5 might be a nice choice for you. "
-it has a powerful 4000 mah battery and a fast 4 gb ram.
-it has a 13-megapixel main camera and an 8-megapixel secondary camera.it will set you back 250 euros.
-it's available in gold.
-let me demonstrate how it appears. than it may be able to assist you in making your decision.
-there you have it: http://cdn2.gsmarena.com/vv/bigpic/gionee-f5.jpg.
-that's fantastic news.
-welcome and please vist again.
-hello.  sure, please let me know if you have any preference?
-it definitely is.  may i know what is your budget?
-that is okay.  may i know if there is any specific model already in your mind?
-it has 15.6 inch display screen somewhat more than usual laptops and that is the only good feature it has. 
-if you want only lenovo laptops, than i can suggest you some better products as well. 
-lenovo ideapad 320-15ikbra is one of the best products that i have observed so much based on ratings. 
-it has been rated 4.2 out of 5 stars which is a great review. 
-it also has 15.6 inch display, i5 processor and amd radeon 530 (2 gb) graphics.  it also has 1tb hdd disk space. 
-okay, i can show you some other models having better ssd. 
-every model has their unique features.  all i can suggest is that it is a good laptop and you can buy it. 
-sure
-you are welcome. 
-hello and good morning. sure, will you tell me what the problem is?
-so, which model are you talking about?
-i'd appreciate it if you could show it to me. i'm curious to see if i can figure out which model it is.
-this is an image of the samsung galaxy note7 (usa), which was launched in august of 2016.
-this is blue coral, and it really enhances the model's appearance.
-if i tell you about the features, you'll be able to make a smarter decision.
-it has a 3500 mah battery and a fast 4 gb ram.it has a main camera with a resolution of 12 megapixels and a secondary camera with a resolution of 5 megapixels.
-it has a display screen of 515 cm and 64 gb of internal memory. it also only weights about 170 g, making it very compact.
-are you ready to purchase it right now?
-you will be charged 760 eur.
-okay, your booking id is 776##oio. welcome and please visit again.
-hello there. if you know the model's name?
-that could be helpful. are there any aspects of the product that you are aware of?
-can you show me an image to use as a reference?
-please let me know if i come across something related.
-take a look at this, please. http://cdn2.gsmarena.com/vv/bigpic/samsung-galaxy-note7.jpg
-this is also available in our collection and in store.
-this model was only available in blue coral, and it is one of the most attractive phones on the market.
-you can experiment with various colors from time to time, and it is really an awesome phone.
-it will set you back 850 euros.
-there are several other models that are similar to this one, and they are available in a variety of price ranges. any of them are also available at a reduced cost.
-if you are interested, then i would like to show you the models. you might like them. 
-you are welcome. 
-hello there. we do, in reality. could you tell me which brand you prefer?
-do you have a choice for anything else?
-if there is something else you need as a function, please let us know.
-the lava z25 is the ideal phone for you. it has a battery capacity of 3020 mah and 4 gb of ram. it also has a 13-megapixel main camera and an 8-megapixel secondary camera.
-it has a dual-sim slot, as well as a built-in radio and gps system it weighs about 170g and is, of course, very compact.
-it has an internal memory of 32 gb.
-it comes in champagne gold, which has a royal and elegant appearance.
-if you'd like to take a look at the graphic, i have it available for you.
-would you like to explore any other model that we have available in [smartphone_tablet_color] colour. 
-the phone costs 250 eur only. it's the best phone. 
-you are welcome
-hello there. yes, of course, i'd be delighted to assist you.
-can you tell me what electronic gadget you're looking for? i have a wide variety of smartphones, tablets, computers, and cameras on hand.
-so, do you want to purchase a gaming laptop, smartphone, or tablet?
-yes, for gaming, laptops with decent graphics are favoured.
-may you tell me what your budget is?
-i'll do my utmost to get the best deal possible within this budget. please let me know which brand you want.
-the [laptop_brand] 14-bp101nx is an excellent choice. it is ranked 5 out of 5 stars and has a lot of great features.
-it has a 14-inch screen and an intel core i5 cpu. it has a 1tb hdd disc space and an amd radeon 530 (2 gb) graphics card.
-we simply hope that you are fully delighted with your order.
-the price is 2519 eur. you will be able to save more.
-do you have a preferred phone?
-it's a fantastic choice.
-it will cost you 250 eur. 
-you are welcome
-hello . please explain why you are concerned. i'd be happy to help you with it.
-i'd like to know which brand and model it belongs to.
-i'd like to know the model's name.
-might i inquire as to whether you are aware of any smartphone features?
-will it be possible for you to assist us with the colour name?
-panasonic eluga ray max in the colour you want is available. take a peek at http://cdn2.gsmarena.com/vv/bigpic/panasonic-eluga-ray-max.jpg for more details.
-it has a 3000 mah battery and 4 gb ram, as well as a 16-megapixel main camera and an 8-megapixel secondary camera.
-it is just 165 g in weight. it's a fairly light item. it also has 32 gb of internal capacity.
-it will cost you 170 eur. 
-here is your receipt. 
-it's okay. 
-you are welcome. 
-hello. i have a wide variety of items at my disposal. please let me know which style or brand you want.
-okay, that's it. this company also has a variety of styles. if you have a specific model in mind, please let us know.
-i'd like to see how much the budget is.
-is there a particular model that you'd like to begin with?
-i have canon powershot s70 and s80 cameras, both of which may be excellent choices.  the s80 has a higher pixel count and resolution than the s70.
-and, of course. the resolution of the s70 is 3072x2592, and the s80 is 3264x2592. s80 already has 8 pixels.
-both of these cameras have the same price
-that is solely upon your choice whichever you would like to choose. but s80 is available with better resolution and pixels.  it costs 399 euros.
-here is your receipt. 
-you are welcome. 
-hello and good afternoon. please let me know if i can be of assistance to you.
-and, of course. please let me know which style or brand you want.
-may you tell me what features you're looking for?
-i'd like to know which brand you like.
-may you tell me what your budget is?
-in that scenario, the hp pavilion 15-cs0006nx could be a viable option. it has an intel core i7 processor and a 15.6-inch display. it also uses an nvidia geforce mx150 (4 gb) graphics card. it's the best you'll find.
-it has a 128 gb m.2 ssd/1tb hdd for storage.
-it will cost you at least 3799 eur.
-you would only have to pay 2979 eur at a reduced rate.
-it has been rated 3.9 out of 5 stars. 
-let me tell you more about it. 
-okay. if you are sure. here is your receipt
-you are welcome. 
- hello. sure, i'm here to assist. do you have a favourite brand?
-yes, really. what functions do you like in your phone?
-i see what you're doing. is there anything else in your phone that you'd like to have?
-the camera on vivo smartphones is well-known.
-do you have a specific budget in mind?
-the vivo x7 plus is an excellent handset. it has 16 megapixel cameras on both the main and secondary lenses.
-it's in gold, and it's really elegant.
-it will set you back 180 euros.
-ok, the commodity is cost-effective. it has the most advanced camera.
-it has a large 4000 mah battery and 4 gb of ram.
-and, of course. please allow me a few moments to confirm your reservation.
-booking is done.
-you're more than welcome.
- hello. and, of course. i will be delighted to make a recommendation. what exactly is it?
-what is the name of the brand?
-okay, that's it. do you have any additional features in mind?
-what is your financial plan?
-samsung smartphones are available for review.
-please consider the samsung galaxy a9 pro (2016), which features a large 5000mah battery and a fast 4 gb ram.
-it has a main camera with a resolution of 16 megapixels and a secondary camera with a resolution of 8 megapixels. it weighs about 150 g and has 32 gb of internal memory.
-it will set you back 500 euros.
-will you buy it if the price was right?
-you have the option of paying with a credit card or cash.
-you're more than welcome.
- hello. sure, i'm here to assist. what characteristics do you seek in a laptop?
-laptops with graphics cards will assist you in this endeavour.
-we'll send you the laptop with the most ram we have available.
-do you have a favourite brand?
-we currently have hp 15-da0035nx in store. it's an excellent commodity.
-it has a 15.6-inch touch screen and an i7 cpu. it also includes a graphics card from intel, the uhd graphics 620.
-yes, we can only provide you with the best.
-you can see that the concept has a 3 out of 5 star rating. this one has received nothing but positive feedback.
-the hard drive has a capacity of 1tb. i hope it turns out well for you.
-only an hdd is included with this product.
-let me show you a different product.
-that is okay. 
-you are welcome. 
+good evening, do you have any specific requirement?
+marathon m4 b[smartphone_tablet_radio] gionee will be a [smartphone_tablet_battery] choice. its batter[smartphone_tablet_radio] is 5000 mah.
+it is in decent black color.
+it is android.
+its an user friendly os where you can easily get new and updated thousands of apps.
+it is 220 euro. it is a new phone in the market. you will love it.
+great choice, here is your booking id 5893****.
+you are welcome.
+hey, do you have any specific requirements?
+xperia z2a by sony is a [smartphone_tablet_sim] sim phone.
+it has 20. 7 mp for primary and vga for secondary.
+it has 16 gb ram.
+it has the facility of expandable memory.
+its cost is 250 euro.
+nice choice, here is your booking id456****.
+my pleasure.
+sure, any specific features you have in your mind?
+sure, do you have any other requirements?
+great, galaxy c7 pro by samsung is a good phone.
+it is avilable in gold color.
+gold color phone looks much more beautiful than [smartphone_tablet_color]. it never get fade always look like a new one.
+here is booking id 8569****.
+you are welcome.
+good evening, any specific model or features you are looking for?
+zenfone 6 a601cg b[smartphone_tablet_radio] [smartphone_tablet_brand] has all the requirement that [smartphone_tablet_radio]ou are looking.
+it has 2 mp camera.
+the lenses of this phone's camera is really good. it will help you to take good picture.
+okay then zenfone 2 ze550ml by asus is a good option.
+it is 250 euro.
+sure, here is your booking id 8569***.
+you are welcome. i am happy to help.
+yes, we will asssist you in buying phone. can you please tell what kind of phone you are looking?
+okay, we have ample of phone based on your requirements. do have any other requirement also?
+you can buy cool1 dual by coolpad which has 4060 mah.
+it has 8 mp.
+despite of having low pixel. it has ability to take capture good picture. it will never make you feel disappoint.
+then you should try a1 plus by gionee
+it has 20 mp. which fulfil your requirements.
+yes it is one of the best phone for camera.
+sure, here is your booking id 75694***.
+welcome, please visit again.
+good evening, do you have any specific model or brand requirement?
+aurora by [smartphone_tablet_brand] is a very good [smartphone_tablet_brand] phone in [smartphone_tablet_color] color.
+it has battery 3000 mah. it lasts for more than 24 hrs.
+it is 250 euro.
+at 250 euro price this phone has numeral features like latest and greatest technology.
+then you should buy keyone by gionee price is 600 euro.
+it is available in black color.
+great, i will book it for you.
+you are welcome. you are always welcome.
+hello, do you have any specific model or brand requirement?
+ipad pro 12. 9 has [smartphone_tablet_ram] gb storage.
+it is 677 gms.
+it is one of the light weigh phone, you can easily handle or carry it anywhere.
+you can buy ipad pro 10. 5. its weight is 469 gms.
+it is 730 euro.
+great, here is booking id 756984****.
+you are welcome.
+hello, you are at right place. what kind of phone are you looking for?
+iphone 7 by apple is a light weight phone and well known for its camera.
+it has ios.
+no, it is not true in this case. i ensure you it will never make you feel disappoint.
+it is 760 euro.
+great, i am booking it for you.
+you are welcome. i am happy to help you
+hey, i am here to assit you, do you have any specific requirement?
+galaxy a7 ([smartphone_tablet_releasedate]) by [smartphone_tablet_brand] is very good phone in the market and considered as the best android phones in india in [smartphone_tablet_releasedate].
+it is 530 euro.
+it is 186 gms.
+it is one of the light weight phone. you can easily carry it anywhere.
+sure, you can buy galaxy a3 (2017) by samsung.
+great, i am booking it for you.
+you are always welcome. it is my pleasure to serve you.
+hey, do you have any specific requiremnts?
+sure, man[smartphone_tablet_gps] phones are available at our store. xperia e4g [smartphone_tablet_sim] b[smartphone_tablet_gps] son[smartphone_tablet_gps] will be a good choice for [smartphone_tablet_gps]ou.
+it is release in february 2015.
+this phone has really great features. it will never make you feel disappoint.
+its cost is 150 euro.
+it is 135 gms. it is a light weight smartphone.
+good choice, i am booking it for you.
+you are welcome.
+hey, please tell your model no or requirements
+xperia e5 by sony will be a [smartphone_tablet_p_camera] choice for you.
+it has 16 gb storage.
+this is . a phone with expandable storage.
+okay then you should buy xperia xa1 by sony. it has memory of 32 gb.
+it is avilable in black color.
+nice, i am booking it for you. your reference number is 2012-43.
+my pleasure.
+good evening, any specific feature you want in your phone.
+xperia x by sony is a light weight phone with [smartphone_tablet_display] screen size.
+it is a single sim phone.
+single sim phones have their own advantage. it gives a better battery life compared to a [smartphone_tablet_sim] sim phone.
+you can take xperia m5 by sony.
+its price 240 euro.
+okay, i am booking it for you. your reference number is 2012-44.
+you are most welcome
+good evening, any specific model model are you looking for?
+galaxy j7 prime by [smartphone_tablet_model] is a very good phone. it is very much in demand these days.
+it has 16 gb storage.
+it is 280 euro.
+it is a very good phone. at less price company has tried to incorporate many features.
+galaxy s8+ by samsung is also a very good phone. it is price is 900 euro.
+it is available in midnight black. which is your favourite one.
+great choice, i am booking it for you. here is booking id 7896***.
+you are welcome.
+good morning, is there any particular features that you want in your phone?
+sure, iphone 7 is getting very good response. it has all features that you are looking for.
+it is priced as 760 euro.
+it is price worthy product. it will never make you feel disappoint.
+iphone 5s by apple is 330 euro. would be the great option for you.
+it is available in space grey color.
+it has 16 gb storage.
+sure, here is your booking id 8569****.
+my pleasure

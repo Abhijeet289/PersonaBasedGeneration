@@ -1,233 +1,167 @@
-hello, do you have any smartphones for sale?
-please help me purchase one. i'm looking for a [smartphone_tablet_color] tablet with 4 gb of internal memory.
-please describe the features to me.
-all of the components are of high quality, but the battery capacity is limited. you don't have a [smartphone_tablet_battery] mah battery, do you?
-which model do you suggest?
-what are its features?
-what about its price?
-okay, i want to buy it.
-yes, please book it for me.
-thank you.
-good morning. do you have a camera?
-great, i want one of the canon brands.
-i want a good quality of focus range.
-yes, please show me in between [camera_cost] eur range.
-can you tell me about its features?
-what about its storage?
-please tell me about its price.
-i doubt this product.
-okay, please book this product for me.
-no. thanks
-good morning, i'd like to purchase a laptop.
-graphics can be of a good quality.
-i don't have any particular brands, but please look in the range of 2000 eur.
-which one is the best?
-okay, then show me the laptop with the i5 cpu.
-could you please describe the features to me?
-purchase [laptop_brand] graphics are what i'm looking for.
-tell me how much it costs.
-still, i believe i will have to wait a while because the price of [laptop_brand] graphics will decrease.
-no. thank you.
-hello and good morning. will you able to assist me?
-i'd like a phone as well as a laptop.
-first, i'd like to see the laptop.
-an i5 processor with [laptop_brand] graphics is what i'm looking for.
-tell me about the specifics.
-how about the storage capacity?
-just let me know how much it costs.
-is there no way to get a discount?
-nonetheless, it is prohibitively costly.
-even, please show me something more.
-ok, please show a price range of 2000 eur.
-please describe the features to me.
-ok, please book it for me.
-thank you.
-hello, may you assist me in purchasing a smartphone?
-it should be a dual-sim 4g handset.
-only the [smartphone_tablet_brand] brand has my trust. is it possible for you to show me some from [smartphone_tablet_brand]?
-what colour is it?
-this is the colour i want it to be. https://rukminim1.flixcart.com/image/416/416/je09ua80/mobile/e/s/j/gionee-s6-pro-s6-pro-original-imaf2shkbxgpvdmh.jpeg?q=70
-what other functionality should it have?
-if you need more ram, check out the phone with 8 gb of ram.
-what is the cost?
-will it take a decent photo?
-okay, that will suffice. could you kindly take care of the billing? also, please have a discount.
-so, please continue with the invoice.
+hello, can you help me in selecting a phone?
+i want to buy a [smartphone_tablet_color] color [smartphone_tablet_sim]sim phone for my son.
+i have budget constraints, it should be under [smartphone_tablet_cost] euro.
+what is its display size?
+oh, i want a phone which has less display size.
+but i am not comfortable carrying big phone.
+what is its price?
+perfect, i will take it. kindly gift wrap it.
+thanks a ton.
+i am in urgent need of a phone.
+i want a [smartphone_tablet_display] display size phone with the storage of [smartphone_tablet_ram] gb.
+sounds good. does it has radio jack?
+m[smartphone_tablet_radio] bad luck, do [smartphone_tablet_radio]ou have some other brand phone with same feature?
+suggest me some other phone coz often listen to radio.
+does gps works on it?
+okay, can you pack this phone?
+thanks for help.
+hey, i want to gift a phone to my brother.
+[smartphone_tablet_gps]es, i want a [smartphone_tablet_displa[smartphone_tablet_gps]] displa[smartphone_tablet_gps] size gps operated phone .
+what is its price?
+unfortunately that's too costly for me. do you have something in [smartphone_tablet_cost]?
+yes, but i can't spend that much on my phone.
+what is its color?
+what is its weight?
+sounds good to me. please book it for me.
+thanks for all your time.
+good evening, i am looking for a phone for my photography needs.
+i need to have a phone that has high ram and [smartphone_tablet_ram] battery life.
+what is its color?
+what about radio?
+oh, i want radio in m[smartphone_tablet_radio] phone.
+but i often listen to radio.
+what is its price?
+okay, i will take this phone.
+thanks a ton.
+hi, i am looking for a phone.
+brand should be [smartphone_tablet_brand] and yes it should be [smartphone_tablet_sim] sim phone.
+what is its storage?
+oh it's very less, i want at least [smartphone_tablet_ram] gb storage.
+what is its cost?
+what is its color?
+okay the phone has really great features. book it for me.
+thanks you so much.
+hey, i want to gift a phone to my brother.
+[smartphone_tablet_gps]es, i want a [smartphone_tablet_displa[smartphone_tablet_gps]] displa[smartphone_tablet_gps] size gps operated [smartphone_tablet_brand] phone. that is his favourite brand.
+what is its price?
+oh i don't have budget for this phone. show me a gionee phone around [smartphone_tablet_cost] euro.
+okay, show me which phone you have?
+what is its color?
+yes, he likes that color. what is its weight?
+sounds good to me. please book it for me.
+thanks for all your time.
+good evening, i am looking for a trending phone
+i need to have a phone in which radio works and has [smartphone_tablet_battery] batter[smartphone_tablet_radio] life.
+what is its color?
+what is its os.
+i want blu phone.
+what is its price?
+will you reserve it for me?
+thank you so much for assisting me.
+hey, i want to buy a phone.
+i want a [smartphone_tablet_sim] sim sony phone.
+what is its camera quality?
+what is its storage storage? because i want a phone with more ram.
+i want a samsung phone with more storage space.
+then it is good foe me. what is its cost?
+okay, i will take this phone.
+you are a very good salesman. thanks a lot
+i am looking for a good phone.
+i want a [smartphone_tablet_releasedate] released [smartphone_tablet_brand] phone.
+i want [smartphone_tablet_os] os.
+what is its color?
+i want [smartphone_tablet_color] phone. [smartphone_tablet_color] is one of the decent.
+okay if you ensure me, then it is good for me. i want to proceed with booking.
+thanks a lot.
+good evening, i am looking for a good phone.
+i am looking for a [smartphone_tablet_brand] phone in which radio works.
+what is its secondar camera?
+oh i want [smartphone_tablet_s_camera] mp secondary camera in asus phone. this is really disappoint me.
+but, still 2 mp is very less.
+lovely, what is its cost?
+book it for me.
 thank you so much.
-good morning. i've been looking for a decent camera for quite some time. could you please help me out?
-as a photographer, i need a camera capable of producing high-resolution photographs.
-it also has a long battery life and a broad target spectrum.
-so, how do they fare in terms of effective pixels?
-no, it's not about the cost. i'm afraid i'll have to buy it. how much does it cost?
-so, let's get to work on the invoice. do you sell smartphones as well?
-show one with a long battery life, a lot of internal memory, and dual 4g sims.
-what exactly is the scoring system?
-so, how far does it set you back?
-what exactly are you referring to? why is the cost so high? please begin with the billing for the cameras.
-that's what there is to it. create a reservation as well.
-no. thanks for the assistance.
-good day. is it possible for you to assist me in purchasing a suitable phone?
-i'm a fashion blogger, so having a decent camera is extremely important to me.
-i'd like a large monitor. as well as a large amount of internal storage
-no, any brand with a decent camera would suffice for me.
-after much consideration, i've decided that using a smartphone is the wisest option.
-yes, it's a platform that can be used for a variety of things. i can take an image, edit it, and upload it all at the same time.
-it's one of samsung's best-selling items, which i have.
-[smartphone_tablet_brand] is also to blame for this. for a long time, i've been a [smartphone_tablet_brand] fan, but now i'd like to branch out and try some other brands.
-really, you've made a valid case. i believe i should reconsider my position.
-my elder sister and i would like to talk about it.thank you for the information.
-good morning, i'd like to ask you a question.
-i'm looking for a mobile and need your guidance.
-in terms of purchasing.
-my only requirement is that the color be anything i want.
-it's distinct. that's a color i'm not familiar with.
-i have a resource connection for you. will it suffice?
-https://media.croma.com/image/upload/f_auto,q_auto,d_croma%20assets:no-product-image.jpg,h_350,w_350/v1605110756/croma%20assets/communication/mobiles/images/8811666898974.jpg
-oh my goodness!! do you have it in the stock right now?
-yes, absolutely.
-that's fantastic!! what about the storage on the inside?
-i want to buy it. thank you.
-do you have a mobile, good afternoon?
-any would suffice.
-any low-cost phone with adequate features would suffice.
-about 200-250 eur.
-no, there isn't anything like that.
-are you certain that this is a decent phone?
-that is an excellent purchase. how much does it cost?
-what colour scheme do you have in mind for the model?
-what is [smartphone_tablet_color]? i'm not sure if this is the colour for my phone that i need.
-yes, i'd like to take a look.
-it really looks fine, which i wasn't expecting. it appeals to me.
-thank you for your help.
-hello, can you help me select a good laptop?
-i have used [laptop_brand] and so i would like to with that only.
-money is not an issue but still don't go much high in budget.
-i think ideapad 330s from [laptop_brand] can be very good.
-that sounds disappointing!!
-sure, go ahead.
-any specific reason for suggesting me that?
-you are right buy what about its features?
-that won't work for me. i want a good ssd.
-no, buy i liked this model very much. isn't there something you can do about ssd?
-i understand, buy ssd is fast. let it be, i need some time to think.
-thank you for your assistance
-hello there, i'm getting a little problem. i'm hoping you can assist me.
-my daughter wants to buy a tablet, so i'm searching for one.
-except for the picture i took from her phone, i don't know anything about it.
-that is extremely kind of you. take a look at this. https://drop.ndtv.com/tech/product_database/images/82201685704pm_635_samsung_galaxy_note7.jpeg?downsize=*:180&output-quality=80&output-format=webp
-could you tell me what color this is? i just like the color.
-i'm not sure if it's the appearance or the features that my daughter prefers.
-please let me know if that's the case.
-that sounds great!! what about internal memory and display?
-this handset, without a doubt, has excellent features. i liked it as well.
-yes, how much does it cost?
-okay. book it for me. thank you.
-hello, i'm here to purchase a phone.
-no, go for the name brand. will it be of assistance?
-it's a [smartphone_tablet_brand] phone with a striking [smartphone_tablet_color] colour.
-i'm concerned i won't be able to help you in this.
-yeah, sure.
-oh my goodness. this is the same phone as before. how did you come upon it?
-is this available in [smartphone_tablet_color]? i'm sure it'd look fantastic in [smartphone_tablet_color].
-while i agree, i still prefer [smartphone_tablet_color] over anything else.
-okay, i'd like to purchase it.
-that is just too costly. i'm afraid i won't be able to afford it.
-i'm not interested in any other options. this is the one i like.
-i'm going to wait for the discount season to get it at a cheaper price. thank you for your assistance.
-hello there. have you got a smartphone?
-any brand will do.
-the phone must cost no more than [smartphone_tablet_cost] euros.
-it should have a total of 4 gb of ram. that is the most important thing.
-that's incredible!!
-is it a light item?
-i'm completely enamoured with the features. what are the colours that you have available for this?
-what are you talking about? i don't use any other colour phones than [smartphone_tablet_color].
-it makes no difference to me. [smartphone_tablet_color] is the only choice.
-i'm not sure.
-ok, i'd like to wait until it's available in [smartphone_tablet_color]. thank you so much.
-hello there. will you able to assist me?
-i'm hunting for a present for my son's birthday.
-he would be fifteen years old. he enjoys playing video games. he is always on the call.
-is there a gaming laptop available?
-okay, fine. it would be fantastic if you could make a positive recommendation for me.
-about 6000 eur. that should suffice for a laptop, i suppose.
-when it comes to laptops, i like [laptop_brand].
-tell me about those features.
-that's incredible!!
-i sincerely hope so. how much does it cost?
-for my personal use, i'd like to purchase a low-cost smartphone.
-the [laptop_brand] [laptop_model] is the ideal phone for me. it has a battery capacity of [laptop_battery] mah and 4 gb of ram. it also has a 13-megapixel main camera and an 8-megapixel secondary camera.
-how much is it going to cost me?
-okay. thank you.
-hello there. i'd like to ask you a question.
-this handset is the one i'm searching for. i'm hoping you'll be able to assist me.
-[smartphone_tablet_brand] is the manufacturer.
-there's nothing. a passer-by was just talking about it.
-the colour, the way it feels. it seemed to be fantastic.
-it was a rose [smartphone_tablet_color] colour. it seemed to be incredible.
-is it a decent phone or just attractive?
-that's fantastic. i'm hoping it won't be too hard.
-i'm sure it's pricey.
-oh my god. it's like having a fantasy machine. i'm going to buy it.
-my money isn't in my bank account. i guess i'll have to return for this.
-thank you for your help
-hello. i'm new to photography and can't wait to get my hands on a camera.
-is it possible for me to get a canon camera?
-no, i don't have a particular model in mind, but i'm looking for something good at a reasonable price.
-there is no set range, but i'd prefer to keep it as low as possible.
-canon powershot is said to be excellent. if you have a style that is close to you?
-could you tell me what the resolution of both cameras is?
-how much would it cost?
-why not invest in the best?
-i will buy s80. book it for me
-thank you for your help.
-hello and good afternoon. will you able to assist me?
-can you assist me in purchasing a suitable laptop for my best friend?
-at this time, i'm not being very descriptive. so, will you please assist me in making a decision?
-a visual artist is a friend of mine. he enjoys making graphics of all kinds. as a result, i'll need a laptop with decent graphics.
-i'd like to start with [laptop_brand], but depending on features, i might move to another brand.
-i'm willing to pay up to 3000 eur.
-how about the hard drive space?
-i'd like to see how much it costs.
-is there a discount available?
-is it a reliable laptop? in terms of results, what do you mean?
-you are right. in addition, i want to purchase a [laptop_brand] [laptop_model] plus.
-there is no such need. i have researched about it. book it for me.
-i am. thank you for your help.
-hello there. i'd like to purchase a phone. will you able to assist me?
-the best phones are vivo's.
-cameras of high quality. i'm a selfie addict.
-they aren't on my mind at the moment. my top priority is to purchase a camera.
-okay, then show me your most advanced computer.
-don't worry about it. money isn't a problem.
-what colour do you have it in?
-how much does it cost?
-oh my god. that is very costly. it's as if the phone isn't [smartphone_tablet_color] in colour, but [smartphone_tablet_color] in itself.
-i have my doubts. is the price justified or not?
-no, no. that's all right. this is something i'd like to purchase. please make a reservation.
-and, of course. go ahead to do so.
-thank you for assisting me in selecting the right one.
-hello there. could you make a recommendation for me?
-i'd like to purchase a mobile.
-i'm looking for a phone with a decent camera.
-yes, i'm an aspiring photographer in mobile.
-approximately [smartphone_tablet_cost] eur.
-so, what do you think?
-what are the camera's capabilities?
-it's really cool. how much does it cost? isn't it going to be expensive with too many features?
-that is, after all, the expenditure cap. it's not terrible.
-i'm going to do that. what are the payment options?
-okay, that's it. thank you for your assistance.
-hello there. i've come to purchase a laptop. will you able to assist me?
-i'm pursuing a degree in journalism. i'm currently studying video editing tools, which is why i need the laptop.
-yes, i've also learned that the more ram you have, the better your results.
-no, no. that'd be fantastic.
-any reputable brand would suffice.
-[laptop_brand] is in good shape. go ahead to do so. please elaborate on the laptop.
-is it a decent item?
-even, i'm looking for reassurance.
-okay, that's it. may you tell me how much disc space there is? that is still something that is really important to me.
-it doesn't work that way. ssd is my preferred choice.
-i'm not sure if i really want to buy this notebook.
-no, it's not true. that isn't needed. i'd like to see it from a different perspective, and then i'll get back to you.
-thank you for your help.
+hey, i need to buy a phone.
+phone should have [smartphone_tablet_p_camera] camera and [smartphone_tablet_battery] battery capacity.
+no, thats all.
+what about secondary camera?
+oh it is so low.
+could it be 13 mp as i take lot of selfies?
+what is its secondary camera?
+it sounds great.
+okay, can you book it for me?
+thanks for assistance.
+good evening, i want to buy a cell phone.
+i want to buy a [smartphone_tablet_brand] phone in [smartphone_tablet_color] color.
+what is its battery?
+what is its cost?
+i can afford more. do you have [smartphone_tablet_cost] phone with more benefits?
+i will not go for lower cost phone as there are trade-offs with lower cost phone , like lower-quality screens and less impressive cameras.
+what is its color?
+i will take it.
+i am very happy today. thanks a lot.
+hi, i want to buy a new phone.
+i want at least [smartphone_tablet_ram] gb storage and it is from [smartphone_tablet_brand] ipad.
+what is its weight?
+oh that's too heavy. i want light weight ipad.
+no, i want something which is more lighter than this.
+what is its price?
+cool, i will take it.
+thank you so much.
+hello, i am in urgent need of a good phone.
+camera quality must be [smartphone_tablet_p_camera].
+what is its os?
+oh i don't want ios. i find it annoying. it is not compatible with other phones.
+. okay, i trust you. what is its price?
+okay. can you reserve it for me?
+thank you for your time
+hi, i want to buy a phone.
+i want [smartphone_tablet_releasedate] released [smartphone_tablet_brand] phone with [smartphone_tablet_p_camera] camera.
+what is its cost?
+what is its weight?
+i don't want heavy weight phone. i want light weight phone around [smartphone_tablet_weight] gms.
+i don't find comfortable holding heavy weight phone for longer time. i want much lighter than that.
+yes, it is fine for me. i want to proceed with booking.
+thanks a lot
+hello, i am looking for a good phone.
+it should be [smartphone_tablet_sim]sim, gps operated, [smartphone_tablet_weight] weight phone.
+great, what is its released year and released month?
+oh, that's an old phone. do you have [smartphone_tablet_releasedate] released phone?
+okay, i trust you. what is its cost?
+what is its weight
+okay, i like this phone. pack it for me.
+thanks a lot for your time
+hi, i want to buy a phone
+actually, i am not restricted to any particular model but i need to have a phone that has [smartphone_tablet_p_camera] camera and [smartphone_tablet_display] display size.
+what is its memory? i want more ram in my phone.
+oh that's too less. i want higher memory phone.
+but external storage devices such as memory cards face a chance of data corruption due to physical or liquid damage. so i need high internal storage phone. at least 32gb.
+what is its color? i want it in black color.
+okay, i want to proceed with billing.
+thank you so much.
+hi, i am interested in buying a phone.
+yes, it should be light weight and should have [smartphone_tablet_display] size screen.
+is it a [smartphone_tablet_sim]sim phone?
+can you recommend [smartphone_tablet_sim]sim , light weight and big screen phone?
+but i use two sim so would require dualsim phone.
+what is its price?
+lovely it is under my budget. i will buy it.
+thank you so much
+good evening, i am in urgent need of a phone.
+it should be [smartphone_tablet_color] color [smartphone_tablet_model] phone.
+what is its memory?
+what is its price?
+i can afford more [smartphone_tablet_cost] than this one.
+but i want in higher range as i don't want to compromise on quality.
+what is its color?
+lovely, i will buy it.
+thanks a lot.
+hello, i want a good phone.
+i want an [smartphone_tablet_brand] phone with storage of atleast 16 gb .
+what is its price?
+it is very costly. do you have phone under [smartphone_tablet_cost] euro?
+but i can't go beyond 500 euro.
+what is its color?
+what is its storage?
+okay, i want to proceed with booking.
+thanks a lot.
