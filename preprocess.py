@@ -337,9 +337,11 @@ def divideData(data, persona_data):
                 dialogue['bs'].append(turn[3])
                 dialogue['bstate'].append(turn[4])
                 idx += 1
-            train_dials[dialogue_name] = dialogue
+            # train_dials[dialogue_name] = dialogue
             if dialogue_number > 730:
                 val_dials[dialogue_name] = dialogue
+            else:
+                train_dials[dialogue_name] = dialogue
 
             for turn in dial:
                 line = turn[0]
