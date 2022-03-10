@@ -28,4 +28,3 @@ class DefaultPolicy(nn.Module):
             return (output.unsqueeze(0), encodings[1])
         else:
             return output.unsqueeze(0)
-
