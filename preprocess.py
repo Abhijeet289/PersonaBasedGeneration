@@ -16,10 +16,7 @@ def is_ascii(s):
     return all(ord(c) < 128 for c in s)
 
 def read_data():
-    google_sheet_id = "1Osl3p1MVKL7NAF3TAr4V3EoUmn-GTTUXTz1yP8vF99E"
-    sheet_name = "CombinedSheet"
-    google_sheet_url = "https://docs.google.com/spreadsheets/d/{}/gviz/tq?tqx=out:csv&sheet={}".format(google_sheet_id, sheet_name)
-    df = pd.read_csv(google_sheet_url)
+    df = pd.read_csv('dataset.csv')
     return df
 
 def fill_standard_slots():
@@ -69,11 +66,14 @@ def create_data(df):
         Creating the dictionary for delexicalizing the data
     """
     delex_data = {}
+    persona_data = {}
     dialogue = []
+    persona_dialogue = []
     dialogue_number = 1
     current_domain = "No Domain"
     user_log = {}
     agent_log = {}
+    personality = {}
     mobile_tags = []
     laptop_tags = []
     camera_tags = []
@@ -95,7 +95,9 @@ def create_data(df):
         if user_utterance == (str)(dialogue_number):
             if dialogue_number != 1:
                 delex_data[dialogue_number-1] = dialogue
+                persona_data[dialogue_number-1] = persona_dialogue
             dialogue = []
+            persona_dialogue = []
             current_domain = "No Domain"
             # if dialogue_number != 1:
                 # print("hello")
@@ -106,18 +108,20 @@ def create_data(df):
         user_utterance = user_utterance.lower()
         agent_utterance = agent_utterance.lower()
 
-        slot_tags = df["Tag"][i]
+        persuasion_strategy = df["Persuasion Strategy"][i]
+        user_sentiment = df["User Sentiment (-1 to 1)"][i]
+        personality["persona"] = persuasion_strategy
+        personality["sentiment"] = user_sentiment
+        persona_dialogue.append(copy.deepcopy(personality))
+
+        slot_tags = df["Slot-Value"][i]
         if current_domain == "No Domain":
             tmp = df["Task Info"][i]
             if tmp == tmp:
                 arr = tmp.split(',')
-                if len(arr) == 1:
+                if len(arr) >= 1:
                     current_domain = arr[0]
-                if len(arr) > 1:
-                    current_domain = "MultiDomain"
                     ids.append(dialogue_number-1)
-        if current_domain == "MultiDomain":
-            continue
         # agent_log["metadata"] = agent_metadata
 
         # print(slot_tags)
@@ -137,7 +141,7 @@ def create_data(df):
             if len(arr) >= 2:
                 slot_name = arr[0].strip().lower()
                 slot_val = arr[1].strip().lower()
-                if current_domain == "Smartphone" or current_domain == "Tablet":
+                if current_domain == "Phone" or current_domain == "Tablet":
                     tag_name = '[smartphone_tablet_' + slot_name + ']'
                     smartphone_tablet_set.add(slot_name)
                     # mobile_tags.append(slot_name)
@@ -182,10 +186,13 @@ def create_data(df):
     print("Camera_Set size = ", len(camera_set))
     print(camera_set)
 
+    with open('data/personaData.json', 'w') as f:
+        json.dump(persona_data, f)
+
     with open('data/btpData.json', 'w') as f:
         json.dump(delex_data, f)
 
-    return delex_data
+    return delex_data, persona_data
 
 def get_summary_bstate(bstate):
     domains = ['smartphone_tablet', 'laptop', 'camera']
@@ -304,21 +311,37 @@ def divideData(data, persona_data):
         if dial:
             dialogue= {}
             dialogue['personality'] = []
+            dialogue['sentiment'] = []
             dialogue['usr'] = []
             dialogue['sys'] = []
             dialogue['db'] = []
             dialogue['bs'] = []
             dialogue['bstate'] = []
+            idx = 0
+            # print(persona_data[str(dialogue_number)])
+            # print(persona_data[str(dialogue_number)][0]['persona'])
             for turn in dial:
-                dialogue['personality'].append([persona_data[dialogue_name]])
+                if persona_data[dialogue_name][idx]['persona'] == persona_data[dialogue_name][idx]['persona']:
+                    dialogue['personality'].append([persona_data[dialogue_name][idx]['persona']])
+                else:
+                    dialogue['personality'].append([0.0])
+
+                if persona_data[dialogue_name][idx]['sentiment'] == persona_data[dialogue_name][idx]['sentiment']:
+                    dialogue['sentiment'].append([persona_data[dialogue_name][idx]['sentiment']])
+                else:
+                    dialogue['sentiment'].append([0.0])
+
                 dialogue['usr'].append(turn[0])
                 dialogue['sys'].append(turn[1])
                 dialogue['db'].append(turn[2])
                 dialogue['bs'].append(turn[3])
                 dialogue['bstate'].append(turn[4])
-            train_dials[dialogue_name] = dialogue
-            if dialogue_number > 430:
+                idx += 1
+            # train_dials[dialogue_name] = dialogue
+            if dialogue_number > 730:
                 val_dials[dialogue_name] = dialogue
+            else:
+                train_dials[dialogue_name] = dialogue
 
             for turn in dial:
                 line = turn[0]
@@ -335,7 +358,7 @@ def divideData(data, persona_data):
                         word_freqs_sys[w] = 0
                     word_freqs_sys[w] += 1
             dialogue_number += 1
-
+    print(dialogue_number)
     with open('data/val_dials.json', 'w') as f:
         json.dump(val_dials, f, indent=4)
 
@@ -423,15 +446,10 @@ def main():
     """"
     Reading the data from Google Sheet in a data-frame
     """
-    # df = read_data()
+    df = read_data()
 
 
-    # delex_data = create_data(df)
-    with open('data/btpData.json') as f:
-        delex_data = json.load(f)
-
-    with open('data/personaData.json') as f:
-        persona_data = json.load(f)
+    delex_data, persona_data = create_data(df)
 
     print('Divide dialogues for separate bits - usr, sys, db, bs')
     word_freqs_usr, word_freqs_sys = divideData(delex_data, persona_data)
