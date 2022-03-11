@@ -209,7 +209,7 @@ def decodeWrapper():
 
     # Start going through models
     args.original = args.model_path
-    for ii in range(args.no_models, args.no_models + 1):
+    for ii in range(7, 8):
         print(70 * '-' + 'EVALUATING EPOCH %s' % ii)
         args.model_path = args.model_path + '-' + str(ii)
         # try:
