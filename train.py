@@ -87,6 +87,8 @@ def train(print_loss_total,print_act_total, print_grad_total, input_tensor, targ
 def trainIters(model, n_epochs=10, args=args):
     prev_min_loss, early_stop_count = 1 << 30, args.early_stop_count
     start = time.time()
+    patience = 3
+    prev_valid_loss = 100000000
 
     for epoch in range(1, n_epochs + 1):
         print_loss_total = 0; print_grad_total = 0; print_act_total = 0  # Reset every print_every
@@ -137,6 +139,11 @@ def trainIters(model, n_epochs=10, args=args):
         print('Current Valid LOSS:', valid_loss)
 
         model.saveModel(epoch)
+        if valid_loss > prev_valid_loss:
+            patience -= 1
+        if patience == 0:
+            break
+        prev_valid_loss = valid_loss
 
 
 def loadDictionaries():
