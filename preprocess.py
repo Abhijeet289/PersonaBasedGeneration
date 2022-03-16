@@ -305,6 +305,9 @@ def divideData(data, persona_data):
     dialogue_number = 1
     dialogue_len = 0
 
+    cnt1 = 0
+    cnt2 = 0
+
     for dialogue_name in data:
         dial = get_dial(data[dialogue_name])
         print("dialogue number : ", dialogue_number)
@@ -339,8 +342,10 @@ def divideData(data, persona_data):
                 idx += 1
             # train_dials[dialogue_name] = dialogue
             if dialogue_number > 730:
+                cnt1 += 1
                 val_dials[dialogue_name] = dialogue
             else:
+                cnt2 += 1
                 train_dials[dialogue_name] = dialogue
 
             for turn in dial:
@@ -364,6 +369,9 @@ def divideData(data, persona_data):
 
     with open('data/train_dials.json', 'w') as f:
         json.dump(train_dials, f, indent=4)
+
+    print(cnt1)
+    print(cnt2)
 
     return word_freqs_usr, word_freqs_sys
 
